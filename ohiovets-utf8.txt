@@ -9,12 +9,11 @@
 
 
 
-/*
 JOURNAL HISTORY
 OF THE
 TWENTY-NINTH OHIO
-<sc>Veteran Volunteers</sc>,[**F1 - . ?]
-1861-1865.
+<sc>Veteran Volunteers</sc>,
+1861–1865.
 
 ITS VICTORIES AND ITS REVERSES.
 
@@ -27,10 +26,11 @@ which it bore an honorable part.
 BY
 
 J. HAMP <sc>SeCHEVERELL</sc>,
+
 (LATE COMPANY B.)
 
+/*
 CLEVELAND:
-
 1883.
 */
 -----File: 004.png---------------------------------------------------------
