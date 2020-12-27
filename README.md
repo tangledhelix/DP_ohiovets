@@ -43,3 +43,6 @@ A note from the PM on the rosters toward the end of the book (162 and later). Ra
 
 Some inconsistencies in spelling, hyphenation, and punctuation have been
 retained.
+
+p. 60 - Inserted a probable missing beginning of paragraph: [It] is perhaps...
+
