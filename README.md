@@ -26,6 +26,7 @@ A note from the PM on the rosters toward the end of the book (162 and later). Ra
 
 ### Illustrations ###
 
+- [ ] cover (need to fabricate one)
 - [ ] i001.jpg
 
 ### Things to revisit ###
