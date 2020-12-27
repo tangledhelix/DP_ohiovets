@@ -14,7 +14,13 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Project manager notes ###
 
+In the list of casualties starting on 232 most of the captured and a few others have a `*` after their name. I do not know what it means, but it is not a footnote, so it should be left as `*`. No need for square brackets.
+
 ### Forum notes ###
+
+Some times appear as `12 M`. This is an old fashioned notation meaning Meridian (not AM, not PM... exactly M) and it means midday or noon.
+
+A note from the PM on the rosters toward the end of the book (162 and later). Rather than lists, they suggested leaving as paragraphs.
 
 ### General notes ###
 
