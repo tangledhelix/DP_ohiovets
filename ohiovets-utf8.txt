@@ -1,10 +1,6 @@
 [** UTF8 preservation hack: Phœnix]
 
------File: 001.png---------------------------------------------------------
-
 [Illustration: LEWIS P. BUCKLEY, LATE COLONEL 29TH O. V. V. I.]
------File: 002.png---------------------------------------------------------
------File: 003.png---------------------------------------------------------
 
 
 
@@ -33,8 +29,6 @@ J. HAMP <sc>SeCHEVERELL</sc>,
 CLEVELAND:
 1883.
 */
------File: 004.png---------------------------------------------------------
------File: 005.png---------------------------------------------------------
 
 
 
@@ -71,8 +65,6 @@ to make it</i>.
 
 <sc>Cleveland, Ohio</sc>, February 1, 1883.
 */
------File: 006.png---------------------------------------------------------
------File: 007.png---------------------------------------------------------
 
 
 
@@ -104,7 +96,6 @@ laudation so common in works of this class, and the
 crowding of a few favored ones to the front to the exclusion
 of the hundreds of equally brave and meritorious
 men in perhaps lowly positions. That the fortunes of
------File: 008.png---------------------------------------------------------
 war brought many forward with flattering prominence is
 most true, and that thousands who wore the simple
 blouse of blue and carried the musket were possessed of
@@ -138,7 +129,6 @@ belief that it contains much of value.
 /*
 <sc>Jefferson, Ohio</sc>, February 1, 1883.
 */
------File: 009.png---------------------------------------------------------
 
 
 
@@ -175,7 +165,6 @@ sticks in beating the tattoo, reveille, or the "long roll."
 
 He has done a real and invaluable service to his comrades
 in gathering up and condensing in neat and durable
------File: 010.png---------------------------------------------------------
 form so many interesting facts relating to the work of a
 noble regiment. So much, at least, is saved from
 oblivion.
@@ -214,7 +203,6 @@ when recruiting it a frequent objection to enlistment was
 that should any member of the regiment be so unfortunate
 as to be taken prisoner by the "Rebs," he would
 be forthwith shot, hung, or burnt at the stake, particularly
------File: 011.png---------------------------------------------------------
 on Giddings' account, and that the name would be
 so odious in the South, and would so advertise the regiment
 that every member would be especially hunted
@@ -254,7 +242,6 @@ on One Hundred and Tenth Pennsylvania."
 
 The joke on the One Hundred and Tenth Pennsylvania
 was fully appreciated and immensely enjoyed (a
------File: 012.png---------------------------------------------------------
 regiment noted for straggling). With roars of laughter
 the boys shouldered their muskets and knapsacks for
 another hard day's march through the pine barrens.
@@ -293,7 +280,6 @@ Late Chaplain Twenty-ninth regiment, O. V. V. I.
 
 <sc>Marion, Iowa</sc>, July 18, 1882.
 */
------File: 013.png---------------------------------------------------------
 
 
 
@@ -358,7 +344,6 @@ CHAPTER X.
 Move to Washington--Embark for New York--Return--Transferred
 to the Western Army      75
 */
------File: 014.png---------------------------------------------------------
 /*
 
 
@@ -429,7 +414,6 @@ Official Roster      159
 
 Casualties      234
 */
------File: 015.png---------------------------------------------------------
 
 
 
@@ -465,7 +449,6 @@ country's flag, was followed by an outburst of patriotic
 indignation perhaps never before witnessed in the history
 of the world. In an incredibly short space of
 time the President's call for seventy-five thousand men
------File: 016.png---------------------------------------------------------
 was filled by citizens eagerly marching to the defense
 of the National capital.
 
@@ -501,7 +484,6 @@ and who were generally ready to go again, seemed to indicate
 who they wished for commanders. Major Lewis
 P. Buckley, of Akron, educated at West Point, was generally
 desired as colonel, and Thomas Clark, of Cleveland,
------File: 017.png---------------------------------------------------------
 formerly a cadet at Norwich university, Vermont,
 was for the same reason selected to commence the work.
 He was accordingly appointed major, on the 13th of
@@ -537,7 +519,6 @@ and vicinity. (Second Lieutenant W. P. Williamson, of
 this company, who was shot dead at the battle of Winchester,
 Virginia, March 23, 1862, was the first man in
 the regiment to die by rebel hands.) Company H, Captain
------File: 018.png---------------------------------------------------------
 Jonas Schoonover, was recruited in Akron and vicinity.
 Company I, Captain Russell B. Smith, was
 recruited in Medina county, and by transfers;[**, ?] and company
@@ -585,7 +566,6 @@ county.
 
 Fife-major Richard Noonan, Hudson, Summit
 county.
------File: 019.png---------------------------------------------------------
 
 Drum-major Gurley G. Crane, Cuyahoga Falls, Summit
 county.
@@ -624,7 +604,6 @@ missing in action, and one hundred and fifty-seven died
 of disease. The colors, too, which waved so grandly in
 the sharp winter air, that long agone Christmas morning
 in 1861, are now in shreds, rent and torn by the leaden
------File: 020.png---------------------------------------------------------
 hail through which they were carried to glorious victories.
 
 This beautiful stand of colors was presented to the
@@ -660,7 +639,6 @@ banner. The early Christians fought under the cross,
 the Romans under the golden eagle, the Mohammedans
 under the crescent. The founders of our government
 selected for their colors a groundwork of blue, representing
------File: 021.png---------------------------------------------------------
 immutable justice and unlimited power, on which
 the stars, representing light, are twinkling in the vaulted
 heavens, while in mid ether the bird of Jove is floating,
@@ -697,7 +675,6 @@ to the breeze, and we look upon its stars and
 stripes, may we then remember the generous donors and
 the vow we this day make. This flag, the flag of our
 country, which has been our pride and our boast, and
------File: 022.png---------------------------------------------------------
 which is respected by all civilized nations; this flag,
 thank God, shall yet wave triumphantly wherever it has
 been struck down by the ruthless arm of the traitors:
@@ -735,7 +712,6 @@ no depredations have been committed. They have
 proved themselves honorable men, the best evidence that
 they will be brave soldiers. When they are heard from
 in the fight we have no fears of a bad account."
------File: 023.png---------------------------------------------------------
 
 
 ORIGINAL REGIMENTAL ROSTER.
@@ -799,7 +775,6 @@ First Corporal N. B. Adams.
 Second Corporal A. L. Rickard.
 Third Corporal R. M. Gates.
 */
------File: 024.png---------------------------------------------------------
 /*
 Fourth Corporal T. E. Hoyt.
 Fifth Corporal M. F. Roberts.
@@ -852,7 +827,6 @@ Fifth Corporal D. B. Peck.
 Sixth Corporal F. A. Chapman.
 Seventh Corporal E. Potter.
 */
------File: 025.png---------------------------------------------------------
 /*
 Eighth Corporal A. Bishop.
 Fifer G. Miles.
@@ -909,7 +883,6 @@ W. Alger, L. B. Brainard, S. W. Bronson, G. D. Brockett, T. R.
 Brown, E. Britton, A. H. Beardslee, R. W. Cross, D. V. Chaffee, W.
 J. Chambers, O. P. Crosby, S. O. Crosby, H. C. Carey, J. Chapell,
 R. A. Cunningham, R. Churchill, L. Clark, C. W. DeWitt, W. P.
------File: 026.png---------------------------------------------------------
 Dady, C. E. Dudley, G. Eastlick, G. Enos, J. Williams, A. W. Mann,
 J. Noble, M. E. Forbes, J. A. Frazier, J. Fleming, J. Grey, E. Gibbs,
 W. G. Gillett, J. Hall, D. S. Halstead, A. Kingsley, H. Laughlin,
@@ -961,7 +934,6 @@ Jones, S. Kissinger, J. Lamberson, N. Leohner, L. Lindsay, W.
 Medesker, G. Montenyohle, W. Mendleson, H. W. Morill, L. Meriam,
 H. Niman, A. W. Niman, I. Powlis, S. Parks, J. Parks, A. A. Wolcott,
 J. Winters, G. J. Young, B. Pontius, H. Ream, A. J. Ream, A.
------File: 027.png---------------------------------------------------------
 Replogle, E. Randall, J. Rodenbaugh, L. C. Richardson, W. C.
 Stoughton, W. Shanfelt, N. Smith, P. W. Smith, J. G. Stinehour, J.
 H. Snyder, C. Sherbonder, D. Schaaf, S. Strecker, L. Squires, E. E.
@@ -1018,7 +990,6 @@ COMPANY F.
 Captain John F. Morse.
 First Lieutenant H. Gregory.
 */
------File: 028.png---------------------------------------------------------
 /*
 Second Lieutenant E. Burridge.
 First Sergeant L. H. Martindale.
@@ -1075,7 +1046,6 @@ Fourth Sergeant Adam Hart.
 Fifth Sergeant E. F. Smith.
 First Corporal William Wirt.
 */
------File: 029.png---------------------------------------------------------
 /*
 Second Corporal Franklin Mest.
 Third Corporal M. M. Martin.
@@ -1129,7 +1099,6 @@ Sixth Corporal William Leggett.
 Seventh Corporal G. B. Myres[** Myers?].
 Eighth Corporal M. Humphrey.
 */
------File: 030.png---------------------------------------------------------
 /*
 Fifer J. Hart.
 Drummer M. Smith.
@@ -1189,7 +1158,6 @@ COMPANY K.
 Captain Alden P. Steele.
 First Lieutenant D. E. Hurlburt.
 */
------File: 031.png---------------------------------------------------------
 /*
 Second Lieutenant William Neil.
 First Sergeant C. C. Johnson.
@@ -1226,7 +1194,6 @@ Pond, G. A. Patchen, M. Ramsey, F. Rounds, William Reed, E.
 Reed, J. Randell, Solon Squires, J. Spain, J. Swinton, J. St. Clair, J.
 Sanfield, George Strong, D. Turner, J. Taylor, Jr., James Williams,
 C. W. Wilson, O. E. Wilson, A. J. Wightman.
------File: 032.png---------------------------------------------------------
 
 
 
@@ -1265,7 +1232,6 @@ On disembarking from the cars, a march of four miles
 on the National pike to the west brought the regiment to
 Camp Chase, where it was assigned to barracks, and the
 sweets (?) of soldier life began to be more perceptible.
------File: 033.png---------------------------------------------------------
 While lying here, the regiment attended the inauguration
 of David Tod as Governor of Ohio, and perfected itself
 in the school of the soldier. On the 26th day of January,
@@ -1301,7 +1267,6 @@ as those whom the federals sought had flown ere
 the designated point was reached. This march was a
 terrible one, and told heavily on the men, many of whom
 succumbed to disease incident to exposure to the intense
------File: 034.png---------------------------------------------------------
 cold, the fording of streams whose icy waters were often
 waist deep, and the general hardships, were sent to hospital
 at Cumberland, and never returned to duty. Returning
@@ -1338,7 +1303,6 @@ and, in a blinding snow storm, waited for further orders.
 At 5 o'clock <sc>P. M.</sc> a counter-march was ordered, and at
 about midnight the old camp at Paw Paw was reached.
 The object of this move was to attend the remains of
------File: 035.png---------------------------------------------------------
 brave General Lander to the cars, which was accomplished
 on the following day. All the troops in the vicinity
 were present. At 9 o'clock on the morning of Saturday,
@@ -1375,7 +1339,6 @@ and, on the morning of March 20th, a reconnoissance in
 force was made up the valley to Strasburg. General
 Shields, with the Twenty-ninth and its brigade, numbering
 some six thousand men, moved direct to that point,
------File: 036.png---------------------------------------------------------
 while Colonel Mason's brigade advanced on the Front
 Royal road. At Cedar creek a lively artillery duel
 transpired, during which the rebels succeeded in burning
@@ -1387,7 +1350,6 @@ day. For rations the men had barely one cracker each,
 and yet they made the entire distance--twenty-two
 miles--in seven hours, halting only a few minutes about
 noon.
------File: 037.png---------------------------------------------------------
 
 
 
@@ -1425,7 +1387,6 @@ nearly the entire forenoon. About noon the long
 roll beat throughout our camp; quickly the men fell into
 line, and in columns of fours, under command of brave
 Colonel Buckley, marched rapidly, a portion of the distance
------File: 038.png---------------------------------------------------------
 at a double quick, toward the point of attack.
 On reaching Winchester the regiment halted, came to a
 front, loaded their pieces, and remained until the artillery
@@ -1460,7 +1421,6 @@ Union lead poured into their ranks with such deadly effect
 that they soon became panic-stricken, and in the
 greatest disorder retreated in whatever direction best
 offered an avenue of escape, and Stonewall Jackson, the
------File: 039.png---------------------------------------------------------
 pride of the South and by many considered the bravest
 general in the rebel army, was whipped, and that, too, by
 a force much inferior in numbers, many of whom had
@@ -1479,7 +1439,6 @@ hundred prisoners. The loss of the Twenty-ninth regiment
 in this action was: Five killed, seven wounded,
 two missing; aggregate fourteen. See casualties at the
 close of the volume for names.
------File: 040.png---------------------------------------------------------
 
 
 
@@ -1517,7 +1476,6 @@ marched up the valley as far as Newmarket, passing the
 towns of Woodstock and Mount Jackson. At the latter
 place a hospital was established, and companies G and
 E were detailed for provost, and other duties, in and
------File: 041.png---------------------------------------------------------
 around Mount Jackson, while the remainder of the regiment
 moved up the valley to Camp Thurburn and continued
 the usual picket, camp, and guard duties.
@@ -1553,7 +1511,6 @@ Sunday, 25th, marched at 6 <sc>A. M.</sc>, and at 4:30 went
 into camp. Twenty-sixth, marched at 5 <sc>A. M.</sc>, and
 camped for the night at Catlet's Station. Twenty-seventh,
 marched some four miles on the Manassas Gap.[**delete .]
------File: 042.png---------------------------------------------------------
 railroad, and went into camp. Twenty-eighth, marched
 at 5 <sc>A. M.</sc> past White Plains:[**;?] after tramping fifteen miles
 went into camp. Twenty-ninth, marched at 7 o'clock
@@ -1588,7 +1545,6 @@ was ordered to Luray and Front Royal; Sergeant C. H.
 Edgerly and Private Willard Denison, of Company H,
 were furloughed home for thirty days), marched up the
 east bank of the Shenandoah river, a distance of fourteen
------File: 043.png---------------------------------------------------------
 miles, halted at 6 <sc>P. M.</sc>, and went into camp.
 Eighth, marched at 4 <sc>A. M.</sc>, halted at 6:30 for breakfast,
 and at 8:15 again moved forward; soon heard the artillery
@@ -1604,7 +1560,6 @@ Thomas J. Jackson. The Union army took shelter in a
 strip of woods at the base of the Blue Ridge Mountain,
 near Port Republic, Virginia, and bivouacked for the
 night.
------File: 044.png---------------------------------------------------------
 
 
 
@@ -1642,7 +1597,6 @@ battle, and at this time in support of Huntington's battery,
 which was belching forth its shot and shell, doing
 deadly execution in the ranks of the advancing rebels.
 When in close range the rebels charged. Reserving our
------File: 045.png---------------------------------------------------------
 fire until they were almost upon us, the order was given,
 and with a yell the entire line poured its leaden hail
 into the gray clad columns of the chivalry, producing
@@ -1677,7 +1631,6 @@ foot, his own and one other horse having been disabled
 by a shot, rallied the men, and with sword in hand with
 them succeeded in cutting their way through the cordon
 of gray devils almost surrounding them, and escaped to
------File: 046.png---------------------------------------------------------
 the mountains near, where some one hundred men of the
 different regiments of the Third brigade, with Colonel
 Buckley at their head, bivouacked for the night. The
@@ -1715,7 +1668,6 @@ captured, 105; total, 150.
 After the battle the Twenty-ninth regiment moved
 down the valley to Luray, where the command encamped
 for a few days' rest, then forward to Front Royal, and on
------File: 047.png---------------------------------------------------------
 to Alexandria, reaching that point on June 27th, encamping
 on a rise of ground immediately adjacent to
 the line of fortifications. The Third brigade was now
@@ -1750,14 +1702,12 @@ here ordered to Washington, and Brigadier-general John
 W. Geary, late colonel of the Twenty-eighth Pennsylvania
 infantry volunteers, was placed in command of our
 brigade. His regiment and Knapp's battery were also
------File: 048.png---------------------------------------------------------
 assigned to the brigade. A forward movement in the
 direction of Culpeper Court House, Virginia (on the
 Rapidan), was begun on August 8th. Here the Confederates
 were preparing defences, and at Cedar Mountain,
 some seven miles to the southwest of our position,
 they were strongly fortified.
------File: 049.png---------------------------------------------------------
 
 
 
@@ -1795,7 +1745,6 @@ was placed. The Twenty-ninth, with other regiments of
 the brigade, was about on the right of the left wing of
 the line in open field, while the right wing extended
 across the road, and into the timber. The regiment
------File: 050.png---------------------------------------------------------
 remained in this position, supporting the battery, and
 receiving a heavy fire from the rebel artillery in our front.
 Here several men were wounded.
@@ -1832,7 +1781,6 @@ At a given signal the brigade arose and, with defiant
 yells, rushed forward to the charge,[**P2 .?] Prince's brigade on
 the left moved forward with us. A sheet of flame and
 smoke burst forth from rebel batteries, musketry replied
------File: 051.png---------------------------------------------------------
 to musketry, bayonet clashed with bayonet, and cheers
 rang out against cheers, as one side or the other gained
 the advantage in this deadly conflict. Daring warmed
@@ -1871,7 +1819,6 @@ men only present for duty.
 
 The Union army remained on the field three days,
 retiring, on August 12th, to Culpeper Court House,
------File: 052.png---------------------------------------------------------
 where it encamped. Our pickets, going over the battle
 field on the 13th, reported that dead horses were piled
 in promiscuous positions; dismounted cannons, wrecked
@@ -1907,7 +1854,6 @@ regiment again fell in, and marched till 12 at noon without
 breakfast; sharp firing along the line; halted until
 6 o'clock <sc>P. M.</sc>; moved up the Rappahannock river
 two miles, halted, stacked arms, and remained up nearly
------File: 053.png---------------------------------------------------------
 all night; (rainy) no tents or blankets, made our bed
 of rails. Saturday, August 23d, at 6 o'clock <sc>A. M.</sc> the
 artillery opened fire, and continued until 11 o'clock <sc>P.
@@ -1943,7 +1889,6 @@ army supplies, were moved in the direction of Fairfax
 Court House.
 
 During the campaign under Major-general Pope from
------File: 054.png---------------------------------------------------------
 August 20th until the regiment reached Alexandria on
 the 2d day of September, 1862, it was one continuous
 march and counter-march, by day and night, moving up
@@ -1979,7 +1924,6 @@ upon which our wounded boys were being subjected to
 the ofttimes bungling butchery of ignorant alleged
 surgeons, a number of whom were busily engaged in
 depriving the poor fellows under their charge of wounded
------File: 055.png---------------------------------------------------------
 legs and arms, and in many cases hastening their death
 thereby. This worse than murder by men, the majority
 of whom, when at home, had never even witnessed a
@@ -2003,7 +1947,6 @@ At 2 o'clock, on the afternoon of September 5th, the
 regiment marched to Monocacy Junction, where the
 rebels had a short time previous destroyed the railroad
 bridge.
------File: 056.png---------------------------------------------------------
 
 
 
@@ -2042,7 +1985,6 @@ waiting in camp. 'Dress parade' to-day, the first many
 of us have seen since May last. Only about two hundred
 men in line. Remembering how far our line
 reached at Camp Giddings, our force looks small indeed."
------File: 057.png---------------------------------------------------------
 
 November 27th. "Cold and raw. A fierce gale
 makes our canvas houses rock like cradles. We are
@@ -2080,7 +2022,7 @@ miles in rain, snow, and mud; at 12 <sc>M.</sc> halted for dinner;
 had a fight with a Pennsylvania regiment over some
 rails that had been collected from the fence. These we
 used for wood occasionally in preparing our meals.
------File: 058.png---------------------------------------------------------
+
 [** missing beginning of sentence/paragraph??] is perhaps unnecessary to mention that the Twenty-ninth
 boys enjoyed good fires to-day. In the afternoon
 the Twenty-ninth went on picket one mile to the rear.
@@ -2116,7 +2058,6 @@ hill in the woods north of town.
 January 1, 1863, the regiment and its brigade remained
 at Dumfries, doing camp and picket duty, until
 January 16th, when it was ordered to march on two
------File: 059.png---------------------------------------------------------
 hours' notice, did not march. On the 17th and 18th
 nothing transpired worthy of note. On the 19th the
 regiment passed in grand review by Colonel Charles
@@ -2155,7 +2096,6 @@ The Twenty-eighth Pennsylvania originally had fifteen
 companies; five companies were added to the new recruits,
 and designated the One Hundred and Forty-seventh
 Pennsylvania, with Ario Pardee as colonel. Our
------File: 060.png---------------------------------------------------------
 first brigade now consists of the Twenty-ninth, Seventh,
 Fifth, and Sixty-sixth Ohio regiments, and Twenty-eighth
 and One Hundred and Forty-seventh Pennsylvania.
@@ -2192,7 +2132,6 @@ church, reaching the Rappahannock river at Kelley's
 ford late in the afternoon. The enemy was found in
 small force on the south bank of the river. Late in the
 evening the Sixty-sixth Ohio regiment crossed the river
------File: 061.png---------------------------------------------------------
 in a small boat capable of carrying but one company at
 a time. The regiment deployed as skirmishers, holding
 the enemy back until the division had all crossed when
@@ -2226,7 +2165,6 @@ were taken, and late in the evening the Twenty-ninth
 moved a short distance southwest from the main road
 and the Chancellor house into a piece of timber and
 bivouacked for the night.
------File: 062.png---------------------------------------------------------
 
 
 
@@ -2264,7 +2202,6 @@ we set to work throwing up breastworks. The rebels
 advanced and our skirmishers kept up a rattling fire
 all night, while the regiment worked like beavers preparing
 the works for the coming conflict. The Second
------File: 063.png---------------------------------------------------------
 division, commanded by John W. Geary, occupied about
 the left center in the order of battle.
 
@@ -2301,7 +2238,6 @@ in support of a New York regiment. While supporting
 this regiment the Twenty-ninth was under artillery fire
 from the right flank. Colonel Clark was struck by a
 shell, and rendered unconscious nearly two hours. The
------File: 064.png---------------------------------------------------------
 regiment again moved into its old position on the road
 south of the Chancellorsville house, where it remained
 under heavy fire of artillery and musketry, and in the
@@ -2341,7 +2277,6 @@ the whole night, reaching Dumfries after daylight on
 the morning of the 14th.
 
 15th, march at 4 <sc>A. M.</sc>  Halted on the north bank of
------File: 065.png---------------------------------------------------------
 the Occoquan creek for dinner. Resuming the march
 in the afternoon we passed Fairfax station and Court
 House on the road leading to Leesburg (marched
@@ -2384,7 +2319,6 @@ five miles from Harper's Ferry.
 
 28th. Moved in the forenoon, passing through Harper's
 Ferry, then up the tow path of the Baltimore &
------File: 066.png---------------------------------------------------------
 Ohio canal to Clear Springs, where the Twenty-ninth
 passed under the canal through a culvert, and moving in
 the direction of Frederick City, Maryland, went into
@@ -2401,7 +2335,6 @@ with the advance guard of the rebel Lee, which
 falling back toward Gettysburg, we moved north of
 town; mustered for pay and went into camp for the
 night.
------File: 067.png---------------------------------------------------------
 
 
 
@@ -2441,7 +2374,6 @@ The Twenty-ninth regiment filed to the left of the pike,
 and advancing about forty rods, took a position in a
 wheat field, in line of battle, and here remained on arms
 during the night.
------File: 068.png---------------------------------------------------------
 
 During the day (July 1st) the First corps, commanded
 by General J. F. Reynolds, had a sharp fight, in which
@@ -2481,7 +2413,6 @@ the works left the night before, and about 4 o'clock <sc>A. M.</sc>
 the conflict was renewed.
 
 The rebels who had possession of our works were
------File: 069.png---------------------------------------------------------
 quickly driven back, and, fifteen minutes after the first
 gun was fired, the engagement become general along the
 entire line, and for six hours the musketry was one continued
@@ -2518,7 +2449,6 @@ the entire night.
 
 Brevet Captain George Hayward, of company E, promoted
 for gallant conduct at Chancellorsville, was killed
------File: 070.png---------------------------------------------------------
 in this fight. He was daring almost to rashness, always
 at the front, unmindful of danger, while his tender
 solicitude for his men endeared him to all who knew
@@ -2556,7 +2486,6 @@ During the day nearly five thousand stand of rebel
 arms were collected from the field, in front of Geary's
 division alone. Our fallen comrades were tenderly,
 though rudely, transferred to the kindly embrace of
------File: 071.png---------------------------------------------------------
 mother earth, while the wounded were collected at convenient
 points to receive the necessary treatment.
 
@@ -2592,7 +2521,6 @@ hatred toward those who for the time they call enemies,
 they must in battle inflict the greatest possible injury
 upon them. In all ages the highest honors have been
 reserved for those who have fought the battles of their
------File: 072.png---------------------------------------------------------
 country--and this is right. For if there is any deed in
 the power of a mortal which can sway the feelings or
 soften the heart it is that of one man laying down his
@@ -2619,7 +2547,6 @@ his nearest and dearest friend, he would only then justly
 realize the sacrifice. Our casualties in the fight were:
 Killed, nine; wounded, thirty-five; missing, one. Total,
 forty-five.
------File: 073.png---------------------------------------------------------
 
 
 
@@ -2658,7 +2585,6 @@ as support to Knapp's battery, which was hotly engaged
 at intervals during the day.
 
 On the morning of the 13th instant we rejoined our
------File: 074.png---------------------------------------------------------
 brigade, anticipating an attack. Riflepits were thrown up
 and due preparation made. The enemy are strongly
 fortified between St. James' college and Williamsport,
@@ -2696,7 +2622,6 @@ passing through Upperville and on to Ashby's gap,
 where, at a late hour, we go into camp. Having marched
 thirty miles since morning sleep was sweet that night,
 with mother earth for a bed, and only heaven's blue
------File: 075.png---------------------------------------------------------
 canopy for a cover. At 3 o'clock on the morning of the
 24th we march rapidly forward through the villages of
 Markham and Linden, halting for dinner at Manassas
@@ -2734,7 +2659,6 @@ destroys one's interest in sublunary affairs.
 On the 29th we pass the narrows and enter New York
 harbor, coming to anchor near Governor's Island at 12
 o'clock <sc>M.</sc>
------File: 076.png---------------------------------------------------------
 
 From our anchorage the view was grandly beautiful
 with the immense shipping, Brooklyn on the right, New
@@ -2774,7 +2698,6 @@ During the last of September we learned of the defeat
 of the Western army at Chickamauga, and the Twelfth
 corps was at once transferred to the Department of the
 West, and without delay proceeded by rail to Washington,
------File: 077.png---------------------------------------------------------
 and thence via Wheeling, Columbus, Indianapolis,
 Nashville, to Murfreesboro, Tennessee, where we arrived
 October 5th.
@@ -2795,7 +2718,6 @@ evening, and halted near White Sides, where all camped
 for the night. About 11 o'clock <sc>P. M.</sc> artillery firing,
 with heavy volleys of musketry, was heard in the direction
 of Chattanooga, continuing two or three hours.
------File: 078.png---------------------------------------------------------
 
 
 
@@ -2834,7 +2756,6 @@ The knoll occupied by them derived its name
 from an Indian battle fought there years before. It is
 situated in the valley not far from the base of Lookout
 mountain. Knapp's guns were placed in position facing
------File: 079.png---------------------------------------------------------
 Lookout, and pickets stationed perhaps fifty yards to the
 front.
 
@@ -2871,7 +2792,6 @@ save one only, was either killed or wounded. Among
 the former was Lieutenant Geary, son of General John
 W. Geary. The ground was covered with the dead and
 injured of both the blue and the gray.
------File: 080.png---------------------------------------------------------
 
 While assisting the wounded and burying the dead,
 Generals Grant, Hooker, and Thomas, with their respective
@@ -2921,7 +2841,6 @@ Mules behind them
 Breaking their own confines,
 Breaking through Longstreet's lines,
 */
------File: 081.png---------------------------------------------------------
 /*
 Into the Georgia troops
   Stormed the two hundred.
@@ -2969,7 +2888,6 @@ arms of the war.
 
 We moved forward the next evening, and threw up a
 line of works on the site of this night attack.
------File: 082.png---------------------------------------------------------
 
 
 
@@ -3006,7 +2924,6 @@ when, toward night, the beat of the "long roll" called
 Geary's division to arms. It at once moved promptly
 forward, formed line of battle, facing Lookout heights,
 and advanced to its base along the creek. Osterhaus'
------File: 083.png---------------------------------------------------------
 division of the Fifteenth corps, and Whittaker's brigade,
 of the Fourth corps, now advanced to the left of Geary's
 division. The rebels soon discovered this movement
@@ -3042,7 +2959,6 @@ is captured, and Lookout mountain, since famous in
 song and story, is ours. This victory was won by
 Geary's men, assisted only by Whittaker's brigade acting
 as support. The troops below now came gallantly(?) up
------File: 084.png---------------------------------------------------------
 the mountain to claim, as usual, the honors won, as the
 voluminous reports subsequently written by their generals
 amply attest. Geary and his brigade commanders
@@ -3077,7 +2993,6 @@ Pap Sherman was making it warm for his right flank.
 About 2 o'clock <sc>P. M.</sc> the firing became general along the
 entire line, which continued until late in the afternoon,
 when the rebels were driven from the field with great
------File: 085.png---------------------------------------------------------
 loss. The Union army advanced a short distance and
 bivouacked for the night.
 
@@ -3116,7 +3031,6 @@ man re-enlisted for three years more, should the war so
 long continue, and were given a thirty-days' furlough
 home for the purpose of recruiting. The headquarters
 of the regiment was established at Cleveland, Ohio.
------File: 086.png---------------------------------------------------------
 It remained here some two months. At last the decimated
 ranks were filled and, on the morning of February
 8, 1864, the regiment bade a second good bye to friends,
@@ -3127,7 +3041,6 @@ arrived at Bridgeport, Alabama, via Louisville, Nashville,
 and Murfreesboro, where it went into winter quarters and
 remained until the opening of the spring campaign of
 1864.
------File: 087.png---------------------------------------------------------
 
 
 
@@ -3166,7 +3079,6 @@ The Twenty-ninth Ohio regiment and Twenty-eighth
 Pennsylvania of the First brigade, Colonel Candy commanding,
 with three regiments of Buschbeck's Second
 brigade, formed in line, the latter on the right, and in this
------File: 088.png---------------------------------------------------------
 order at once moved forward to storm the ridge. The
 position of the Twenty-ninth regiment in the assaulting
 column was on the extreme left, the Twenty-eighth
@@ -3201,7 +3113,6 @@ close to their works; and now a storm of deadly
 missiles are hurled against us. Rocks, boulders, and
 even cart-wheels come crashing down upon us. Yet we
 moved steadily in the deadly advance until ordered back
------File: 089.png---------------------------------------------------------
 by our officers, when we retired a few paces to reform
 our line, the fallen trees only separating us from the
 enemy.
@@ -3240,7 +3151,6 @@ total 94.
 General Geary highly complimented the regiment for
 its gallantry, remarking that he never saw men advance
 under such murderous fire, especially when unsupported
------File: 090.png---------------------------------------------------------
 and where the chances of success were so desperate.
 The Twenty-ninth regiment lost nearly one-third its
 numbers during this three hours' engagement, and many
@@ -3277,7 +3187,6 @@ these lines here in our cosy room in the far away Western
 Reserve of the Buckeye State than was the actual experience
 in Secessia during those early May days of
 1864.
------File: 091.png---------------------------------------------------------
 
 On the 12th instant we moved forward to Snake
 Creek Gap, forming a junction with the Fifteenth and
@@ -3310,7 +3219,6 @@ army corps received the compliments of the commanding
 general, Hooker, for their gallant work, which resulted
 in a loss to the enemy of some four hundred men
 killed and wounded.
------File: 092.png---------------------------------------------------------
 
 
 
@@ -3348,7 +3256,6 @@ rapid succession, the last of which was in close proximity
 to the rebel fort, only a narrow ravine intervening. The
 enemy are strongly entrenched in earthworks extending
 in the rear of the fort.  The First brigade commenced
------File: 093.png---------------------------------------------------------
 a rapid firing at short range to cover the sortie being
 made by regiments of the Second and Third brigades.
 These regiments rush gallantly forward to the assault.
@@ -3385,7 +3292,6 @@ losses, which were, however, light in comparison with
 those of the enemy. In fact, in the night attack we
 had so thoroughly surprised the enemy that but feeble
 resistance was made.
------File: 094.png---------------------------------------------------------
 
 At an early hour on the morning of May 16th we
 pushed rapidly forward in pursuit of the retreating rebels.
@@ -3424,12 +3330,10 @@ the Etowah river, which is crossed on pontoons, and a
 halt for the night made on its opposite bank. The next
 morning we resume the weary march, coming into
 line of battle at about 9 <sc>A. M.</sc> We advanced in this
------File: 095.png---------------------------------------------------------
 order up the Raccoon hills, or Alatoona range, until
 night, when we encamp at Burnt Hickory. The First
 brigade, as advance guard, moved ahead at daybreak,
 via the Burnt Hickory road.
------File: 096.png---------------------------------------------------------
 
 
 
@@ -3467,7 +3371,6 @@ instructions not to draw on a general engagement but to
 hold the position at all hazards. The rebel column on
 our flank, however, slowly retired without firing a gun,
 and forming on their main line, which was massed in the
------File: 097.png---------------------------------------------------------
 woods a short distance to our front. During this time
 we hastily changed front in form of a semi-circle to protect
 us from flank attack. This movement was executed
@@ -3504,7 +3407,6 @@ Onward the column rushes, and closing with the enemy
 delivers a terrible volley. The charge is continued, the
 air resounding with defiant cheers as the enemy is driven
 from the field and down a hill at a brisk run. It was
------File: 098.png---------------------------------------------------------
 now beginning to grow dark, and the impetuous rush of
 the men soon brought them within a short distance of a
 line of brush-covered work which concealed the enemy's
@@ -3542,7 +3444,6 @@ It was not long before we heard tremendous cheering
 in the distance on our right front, which was caused by
 Sherman moving a force in that direction, turning the
 rebel flank, which was soon in full retreat. Immediately
------File: 099.png---------------------------------------------------------
 after, sounds were heard in the supposed deserted rebel
 works, which we believed were our own men who had
 recently occupied them, and by reason of this supposed
@@ -3580,7 +3481,6 @@ he fears to lead.
 
 The battle continues throughout the following day,
 with brisk infantry firing and heavy cannonading almost
------File: 100.png---------------------------------------------------------
 incessantly. As night again shrouds the bloody field the
 Twenty-ninth regiment, with the exception of company
 B, which was on the skirmish line, relieved the Seventh
@@ -3615,7 +3515,6 @@ several hundred dead and dying behind, the ground
 between the two lines being literally covered with the
 rebel dead. During the 30th there were several sharp
 fights, our regiment having several men wounded. May
------File: 101.png---------------------------------------------------------
 31st the regiment was under fire, as usual, the greater
 part of the day, and at night was engaged in the construction
 of an advanced line of works, under a heavy
@@ -3647,7 +3546,6 @@ Killed, six; wounded, twenty-four; captured, one; total
 thirty-one. This is the tenth day we have been under
 fire. 4th.--Firing during all of last night. All quiet
 to-day.
------File: 102.png---------------------------------------------------------
 
 
 
@@ -3685,7 +3583,6 @@ The Twentieth corps was changed from the front to the
 right. Moving rapidly in that direction it soon reached
 another strongly entrenched position of the enemy,
 when the column made a left half wheel, which brought
------File: 103.png---------------------------------------------------------
 the first brigade of Geary's division directly in front of
 Pine Knob.
 
@@ -3723,7 +3620,6 @@ wounding, and taking prisoners all except the little handful
 who escaped with the flag. At the moment of their
 escape we made a dash to carry their fortifications, but
 were checked by abattis and a deep trench hidden by
------File: 104.png---------------------------------------------------------
 brush. At this point their artillery opened with murderous
 discharges of grape and canister, which produced
 terrible destruction in our ranks. Still the line stands
@@ -3761,7 +3657,6 @@ his death bravely as the wife of a soldier should, even
 though all her hopes and bright anticipations seem shattered
 by the blow. Generals Joe Hooker and Geary
 announced in warm terms their admiration of the "gallant
------File: 105.png---------------------------------------------------------
 manner in which the Twenty-ninth Ohio and Twenty-eighth
 Pennsylvania regiments conducted themselves in
 the assault on Pine Knob." The former remarked that
@@ -3799,7 +3694,6 @@ Bundy's Thirteenth New York battery.
 
 June 20th the Twenty-ninth regiment and its brigade
 are in line three miles southwest of Marietta, Georgia,
------File: 106.png---------------------------------------------------------
 and skirmished all day with the enemy. As night came
 on our division moved to the right, forming on the right
 of Butterfield's Third division. Our regiment was again
@@ -3814,7 +3708,6 @@ our left. The Third brigade of the Second division now
 advanced and engaged the enemy, our single line affording
 feeble protection in the event of an attack on our
 position.
------File: 107.png---------------------------------------------------------
 
 
 
@@ -3854,7 +3747,6 @@ night. We remained on the field until noon of the 23d,
 when we were retired and rejoined the main line.
 
 At about 4 o'clock <sc>P. M.</sc>, one hundred guns opened a
------File: 108.png---------------------------------------------------------
 simultaneous fire on Little Kenesaw mountain. Directly
 in front of our regiment and across the creek, which flows
 along the base of the mountain, is level ground. At
@@ -3890,7 +3782,6 @@ twenty-one prisoners. Several others were killed or
 badly wounded. The former were sent at once to the
 rear, and the little force deployed along the road to hold
 the position until reinforcements should arrive. However,
------File: 109.png---------------------------------------------------------
 they were not furnished, and after holding the position
 some two hours a heavy body of rebels came
 upon us, stealing along under cover of the bushes on
@@ -3928,7 +3819,6 @@ They now opened fire on us from the mountain on
 our left and front. Making a flank movement to the
 left we came up in rear of some rebel rifle-pits, capturing
 eleven prisoners and holding the position until the
------File: 110.png---------------------------------------------------------
 Fifth Ohio regiment came to our support. That regiment
 at once began to fortify, while we remained on the
 skirmish line under constant fire. The enemy discovered
@@ -3966,7 +3856,6 @@ however, escaped unhurt.
 
 June 29th.--To-day the Fourteenth corps obtained a
 temporary truce under flag, during which they interred
------File: 111.png---------------------------------------------------------
 their dead. An assault is made on this corps during the
 early part of the night, but is repulsed, and we were not
 again disturbed.
@@ -4004,7 +3893,6 @@ steadily falling back on the Chattahoochie river. It was
 late when we halted for the night. How sweet the wooing
 of the drowsy god after such long continued fatigue,
 only those who have been there can imagine, the soft side
------File: 112.png---------------------------------------------------------
 of a rail on such occasions being more luxurious than
 any patent spring contrivance of to-day.
 
@@ -4042,7 +3930,6 @@ July 10th, when the Twenty-ninth Ohio is pushed forward
 on a reconnoissance. We discover that the enemy
 have retreated across the Chattahoochie. On reaching
 the river we deploy as skirmishers along the north bank,
------File: 113.png---------------------------------------------------------
 the enemy being posted along the opposite side. Atlanta
 lies only nine miles to the south of us. The rebel
 army of General Joe E. Johnston is said to be strongly
@@ -4077,7 +3964,6 @@ much of the distance.
 19th. Advanced to Peach Tree creek, which we
 crossed, encountering the enemy and taking some
 prisoners.
------File: 114.png---------------------------------------------------------
 
 
 
@@ -4114,7 +4000,6 @@ on our front and left. Immediately on our right
 front was a piece of heavy timber, extending also on
 our rear. The ridge directly in our front was covered
 with a thick undergrowth, affording a fine position for an
------File: 115.png---------------------------------------------------------
 ambuscade. Our force was now brought to a halt[** .]
 Bundy's battery was hastily put into position on the ridge
 to cover the valley. The Twenty-ninth Ohio assumed
@@ -4151,7 +4036,6 @@ with fresh troops. As the rebels attempted to close with
 us our men seemed to be endowed with the valor born
 of desperation, and clubbed them back. Forward they
 came, a dense mass of living fire, and bravely we sustained
------File: 116.png---------------------------------------------------------
 the shock of twenty times our number. The
 sharp rattle of musketry, the loud roar of Bundy's guns,
 and the defiant shouts of the combatants, in close hand
@@ -4189,7 +4073,6 @@ and recovered the battery, which was instantly turned
 upon the rebels, causing great destruction. The prisoners
 were, however, too far in the rear for recapture.[** ,] and
 they were conveyed to that loathsome earthly hell, Andersonville.
------File: 117.png---------------------------------------------------------
 What they endured, the cruelties of the studied
 starvation by express order of chivalric Jeff Davis, and
 the horrible atrocities accorded to defenseless prisoners
@@ -4197,7 +4080,6 @@ by the Southern opponents in this unholy, ungodly conflict,
 the writer will not attempt to describe; language
 fails in the recital. Loss: Killed, two; wounded, seven;
 captured, five; total fourteen.
------File: 118.png---------------------------------------------------------
 
 
 
@@ -4236,7 +4118,6 @@ were moved south to-day; from this date we lay
 in camp with little to mar our happiness till November
 1st, when we received orders to send all our baggage to
 the rear and put ourselves in light marching order.
------File: 119.png---------------------------------------------------------
 November 5th, orders having been received for the
 troops to move, the Twenty-ninth struck tents and
 marched from Atlanta at 3:30 <sc>P. M.</sc> in the direction of
@@ -4274,7 +4155,6 @@ with enemies but now silent and deserted.
 
 Advancing rapidly, Colonel Coburn, commanding
 General Ward's reconnoissance, entered the enemy's
------File: 120.png---------------------------------------------------------
 works, encountering in the suburbs Mayor Calhoun, of
 Atlanta, and a deputation of the city council. The former
 nervously presented a paper surrendering the city
@@ -4323,7 +4203,6 @@ place it there.
 
 General Henry W. Slocum established his headquarters
 at the Trout house, the leading hotel of the city,
------File: 121.png---------------------------------------------------------
 overlooking the public square. In the forts around Atlanta
 eleven heavy guns, mainly sixty-four pounders, were
 left by the enemy; also about three thousand muskets, in
@@ -4364,7 +4243,6 @@ dead of the enemy in front of the Fifteenth and Sixteenth
 corps and one division of the Seventeenth corps
 was 2,142. The other divisions of the Seventeenth
 #/
------File: 122.png---------------------------------------------------------
 /#
 corps repulsed six assaults of the enemy before they fell
 back, and which will swell the rebel loss in killed to at
@@ -4412,7 +4290,6 @@ Face, we threw ourselves upon Resaca, and the rebel
 army only escaped by the rapidity of its retreat, aided
 by the numerous roads with which he was familiar, and
 #/
------File: 123.png---------------------------------------------------------
 /#
 which were strange to us. Again he took post, at Allatoona,
 but we gave him no rest, and by a circuit toward
@@ -4449,7 +4326,6 @@ men composing this army for the indomitable courage
 and perseverance which alone could give success. We
 have beaten our enemy on every ground he has chosen,
 #/
------File: 124.png---------------------------------------------------------
 /#
 and have wrested from him his own Gate city, where
 were located his foundries, arsenals, and workshops,
@@ -4486,7 +4362,6 @@ worthy its great founder, Washington.
 Major-general commanding."
 */
 #/
------File: 125.png---------------------------------------------------------
 
 
 
@@ -4524,7 +4399,6 @@ party returned to camp.
 November 10th. Remained in camp occupied in the
 usual camp and picket duties, and the inspection of
 amunition[** ammunition], arms, and accoutrements, and all was quiet,
------File: 126.png---------------------------------------------------------
 and at 8 o'clock in the evening the city of Atlanta took
 fire and was nearly annihilated. Saturday, the 12th, in
 camp, and all is quiet. Sunday, November 13th, the
@@ -4560,7 +4434,6 @@ river and camped for the night. 23d, Twenty-ninth regiment
 detailed for picket; fell in and moved east about
 three-fourths of a mile, passing through the woods and
 advancing into an open country; during its stay on
------File: 127.png---------------------------------------------------------
 picket duty some of the boys went out on a foraging expedition,
 and it is not necessary to state that they were
 successful, and that honey, sweet potatoes, and some
@@ -4595,7 +4468,6 @@ staff officers to find out if possible the cause of the fire,
 but "not guilty" was the response. 29th, marched at
 6:30 <sc>A. M.</sc>, halted at 11:30, at Bartlows station, for dinner,
 and in the afternoon marched through Bostwick and
------File: 128.png---------------------------------------------------------
 went into camp; marched 14 miles. 30th, marched at 6
 <sc>A. M.</sc>, halted at Daniel Blake's plantation for dinner, and
 in the afternoon marched four miles and camped for the
@@ -4631,7 +4503,6 @@ supper; halted at 7 <sc>A. M.</sc> for breakfast, near Millen; the
 old stockade was empty, the prisoners having been removed
 the day before; after breakfast on the 4th, we
 moved forward, marched all day, and at 8 <sc>P. M.</sc> halted
------File: 129.png---------------------------------------------------------
 and camped for the night. 5th, marched at 7 <sc>A. M.</sc>,
 halted at 2:30 <sc>P. M.</sc> for dinner; moved three miles in the
 afternoon, and at 6 went into camp for the night. 6th,
@@ -4667,7 +4538,6 @@ the boys in blue were discovered the rebels moved to
 the rear. The regiment marched thirteen miles with
 some skirmishing and artillery firing during the day and
 night.
------File: 130.png---------------------------------------------------------
 
 When about four miles from the city of Savannah,
 Georgia, rebel artillery was found to be in the road behind
@@ -4704,7 +4574,6 @@ filed to the left. Marched about three-fourths of a mile,
 halted, and prepared to charge the rebels. To do so
 the right had to pass a dike or canal with four or five
 feet of water, and assault the fort and breastworks in
------File: 131.png---------------------------------------------------------
 open field. The charge was abandoned, and at 4:30 <sc>A.
 M.</sc> the regiment returned to camp, where we remained
 skirmishing and artillery firing during the day. On the
@@ -4740,7 +4609,6 @@ inch from the bottom of the foot. On the 20th, firing
 all along the line. This ceased at 11 o'clock <sc>P. M.</sc> The
 Twenty-ninth regiment, with its brigade and division,
 has been in position on the left of the road leading
------File: 132.png---------------------------------------------------------
 from Springfield to the city of Savannah, with its main
 line in the timber, its right resting on the river. During
 the ten days the command remained in front of Savannah
@@ -4775,7 +4643,6 @@ garrison duty. In the meantime the Twenty-ninth took
 an inventory of the ordnance and ordnance stores captured
 by the Twenty-ninth regiment and the Twenty-eighth
 Pennsylvania in Fort Jackson and other forts
------File: 133.png---------------------------------------------------------
 along the Savannah river. On the 24th instant the regiment
 was ordered to move at 9 <sc>A. M.</sc> The Twenty-ninth,
 in rear of the Twenty-eighth Pennsylvania volunteers,
@@ -4822,7 +4689,6 @@ corps:
 headquarters First brigade, Second division, Twentieth
 corps, dated Savannah, Georgia, December 23, 1864, I
 #/
------File: 134.png---------------------------------------------------------
 /#
 have the honor most respectfully to make the following
 report:
@@ -4870,7 +4736,6 @@ few of the enemy's cavalry were on the opposite side of
 the swamp. Major Wright, commanding the Twenty-ninth
 Ohio volunteers, was ordered to cross the creek
 #/
------File: 135.png---------------------------------------------------------
 /#
 with his regiment and drive and keep away this force,
 which was accomplished without loss. The command
@@ -4908,7 +4773,6 @@ Pennsylvania in Fort Jackson and other forts on
 the Savannah river: Forty-four thirty-two-pounders, two
 ten-inch Columbiads, twenty eight-inch Columbiads, two
 #/
------File: 136.png---------------------------------------------------------
 /#
 rifled thirty-two-pounders, twelve twenty-four-pounder
 howitzers, one eight-inch mortar, three three-inch rifled
@@ -4952,7 +4816,6 @@ them Major Wright, a most valuable officer, commanding
 the Twenty-ninth Ohio volunteers, who was severely
 wounded by a shell.  Sloan's battery of three-inch rifled
 #/
------File: 137.png---------------------------------------------------------
 /#
 guns had already taken position in a work thrown up to
 the right of Fort 3, and in the open field.
@@ -4991,7 +4854,6 @@ line, found them hastily retreating. Having possession
 of their line of works with all their cannon in front of
 my own and the other division of the corps, I immediately
 #/
------File: 138.png---------------------------------------------------------
 /#
 sent a staff officer to notify the general commanding,
 and at the same time pushed forward rapidly in the
@@ -5028,7 +4890,6 @@ and setting fire to property, was reduced to order. Many
 millions of dollars worth of cotton, ordnance and commissary
 stores, etc., which would have been otherwise
 #/
------File: 139.png---------------------------------------------------------
 /#
 destroyed, were saved to the United States Government,
 and the citizens once more enjoyed security under the
@@ -5064,7 +4925,6 @@ Brigadier-general commanding Second division Twentieth
 corps."
 */
 #/
------File: 140.png---------------------------------------------------------
 
 
 
@@ -5103,7 +4963,6 @@ miles). 6th, marched at 7 <sc>A. M.</sc>, halted at 11:30 for dinner,
 fell in at 12 <sc>M.</sc>, halted at 5 <sc>P. M.</sc> and camped for
 the night (marched fifteen miles). 7th, marched at 7 <sc>A.
 M.</sc>; at 6:30 <sc>P. M.</sc> went into camp for the night. 8th
------File: 141.png---------------------------------------------------------
 instant, marched at 6 <sc>A. M.</sc>, halted at 11:30 for dinner; in
 seven minutes fell in and marched five miles, halted at
 3:15 and camped for the night near Buford Bridge. 9th,
@@ -5138,7 +4997,6 @@ at 2:15 fell in and marched four miles; halted at 5 <sc>P. M.</sc>
 and camped for the night. Sunday in camp until 3:30
 <sc>P. M.</sc> when "fall in" was sounded by the bugler. The
 Twenty-ninth fell in and took the advance of brigade,
------File: 142.png---------------------------------------------------------
 marched four miles, and at 11:30 <sc>P. M.</sc> halted for the
 night near Bush river. The Twenty-ninth was again
 fortunate and went on picket. 20th, marched at 1 <sc>P. M.</sc>
@@ -5174,7 +5032,6 @@ moved one-eighth of a mile and camped for the night.
 reached Chesterfield at 11:30 <sc>P. M.</sc> and went into camp
 for the night (marched thirteen miles). March 4th,
 moved at 7 <sc>A. M.</sc>, Twenty-ninth in advance of brigade;
------File: 143.png---------------------------------------------------------
 halted at 4 <sc>P. M.</sc> and camped for the night (marched
 nine miles). 5th, remain in camp all day; detailed
 Charles Galpin, company C, and J. Bennett Powers,
@@ -5209,7 +5066,6 @@ brigade, and at 7 <sc>P. M.</sc> halted; Twenty-ninth were fortunate
 enough to remain a detail for picket (marched
 seven miles). 17th, on picket. 18th, marched at 7 <sc>A. M.</sc>,
 Twenty-ninth in rear of brigade; halted at 7 <sc>P. M.</sc>, and
------File: 144.png---------------------------------------------------------
 went into camp for the night (marched eight miles).
 19th, marched at 11 <sc>A. M.</sc>, with division train (marched
 eleven miles); halted at 6:30, and camped at 9:30 <sc>P. M.</sc>;
@@ -5245,7 +5101,6 @@ went in camp for the night at 11 o'clock. 11th, marched
 at 6 <sc>A. M.</sc>, reached Smithfield at 3 <sc>P. M.</sc>, camped for the
 night. 12th, received the news of the surrender of General
 R. E. Lee and his army at 8 <sc>A. M.</sc> and marched at
------File: 145.png---------------------------------------------------------
 9 <sc>A. M.</sc>; halted at 6:30 <sc>P. M.</sc> and camped for the night
 (marched seventeen miles). 13th, marched at 5:30 <sc>A.
 M.</sc>, Twenty-ninth Ohio in advance; passed through
@@ -5281,7 +5136,6 @@ the night (marched twenty miles). 5th, marched at
 twenty miles). 6th, marched at 5 <sc>A. M.</sc>; halted at
 10:45 for dinner; fell in at 1 <sc>P. M.</sc>; passed Black and
 White station on the south side railroad, and at 6:30 <sc>P. M.</sc>
------File: 146.png---------------------------------------------------------
 camped for the night (marched eleven miles). 7th,
 marched at 6 <sc>A. M.</sc>; at 11:45 halted for dinner; fell in
 at 1:30 <sc>P. M.</sc>, and crossed the Appomatox[** Appomattox] river; at 6:15
@@ -5316,7 +5170,6 @@ at 1:30 <sc>P. M.</sc> fell in and marched on the road that
 leads to Warrenton junction via Hartwood church, and
 camped for the night (marched, eighteen miles). 17th,
 marched at 5 <sc>A. M.</sc>, reached Brentsville at 2 <sc>P. M.</sc>, a distance
------File: 147.png---------------------------------------------------------
 of twelve miles, and camped for the night. 18th,
 marched at 6 <sc>A. M.</sc>; halted at 12 <sc>M.</sc> for dinner; fell in
 at 2:30 <sc>P. M[** .]</sc>, marched until 9 <sc>P. M.</sc>, and camped for the
@@ -5359,7 +5212,6 @@ the many noble regiments Ohio has given to fight this
 great battle. If the regiment had no other proof than
 s[** its] old and tattered flags, that alone would show that it
 #/
------File: 148.png---------------------------------------------------------
 /#
 had been in the thickest of the fight, ever ready to
 breast the fury of the battle storm; but its history tells
@@ -5406,7 +5258,6 @@ shining star to her beautiful constellation. Take it, then,
 and place it among the archives of the nation, that it
 may be preserved as a sacred memorial, and handed
 #/
------File: 149.png---------------------------------------------------------
 /#
 down to latest posterity as a glorious legacy and standard
 that was borne, as by angel hands, in opposition to oppression
@@ -5443,7 +5294,6 @@ flag which we have learned to love and to defend, and
 which we cherish in our hearts as the guardian angel of
 our country.
 #/
------File: 150.png---------------------------------------------------------
 /#
 
 May that same God who has given so many brave
@@ -5488,7 +5338,6 @@ country, where we remained until the 13th day of July,
 when we were mustered out. Repairing to Camp
 Taylor, near Cleveland, Ohio, we were paid off and
 #/
------File: 151.png---------------------------------------------------------
 /#
 formally discharged from the service on the 22d and
 23d days of July, 1865.
@@ -5527,7 +5376,6 @@ and shell, and the disease of the camp, and prison pen,
 its colors ragged and torn, but proud and defiant as ever--one
 grand ovation to the living, a sad wailing requiem
 #/
------File: 152.png---------------------------------------------------------
 /#
 for the dead," and "good byes" are said in the beautiful
 Forest city, as each departed for their homes to assume
@@ -5573,7 +5421,6 @@ and scythe, abides
 <sc>The Drummer Boy(?) of Company B</sc>.
 */
 #/
------File: 153.png---------------------------------------------------------
 
 
 
@@ -5612,7 +5459,6 @@ where, on the 9th day of June, it engaged in battle with
 heavy loss in killed and wounded. One hundred and
 ten were made prisoners. The Twenty-ninth was engaged
 at short range in the open field against three times
------File: 154.png---------------------------------------------------------
 its number over four hours. During the time the
 struggle was desperate on both sides. The battle of
 Cedar mountain, seven miles from Culpepper Courthouse,
@@ -5649,7 +5495,6 @@ On November 24th and 25th, we were engaged in the
 battle of Lookout mountain; Missionary Ridge on
 November 24th and 25th, and Taylor's Ridge and Ringgold,
 Georgia, on November 26th and 27th, 1863.
------File: 155.png---------------------------------------------------------
 
 In December of the same year we re-enlisted, and
 during the winter we prepared for a vigorous and active
@@ -5686,7 +5531,6 @@ from December 10th to the 21st, when it entered the
 city of Savannah. On January 27, 1865, we moved on
 the campaign through the Carolinas, and were engaged
 in the following battles, and skirmishes of this campaign;
------File: 156.png---------------------------------------------------------
 Averysboro, North Carolina, on March 16th; Bentonville,
 North Carolina, on March 19, 1865, and marching to
 Goldsboro on March 24th. After Johnston's army at
@@ -5697,7 +5541,6 @@ Camp Taylor at Cleveland, Ohio, and home. The regiment
 was in the service nearly four years, and it is but
 justice to state that during its entire term it was <i>never
 driven from its position by direct assault</i>.
------File: 157.png---------------------------------------------------------
 
 
 
@@ -5737,7 +5580,6 @@ Lieutenant-colonel Thomas Clark, mustered into service
 as major August 15, 1861; promoted to lieutenant-colonel
 November 28, 1861; honorably discharged, for
 disability, June 19, 1863.
------File: 158.png---------------------------------------------------------
 
 Lieutenant-colonel Edward Hayes, discharged, for
 disability, November 17, 1864; entered the service as
@@ -5780,7 +5622,6 @@ service September 10, 1861; honorably discharged
 January 26, 1863.
 
 Assistant Surgeon Cyrus Hosack, mustered into service
------File: 159.png---------------------------------------------------------
 August 22, 1862; discharged, for disability, August
 7, 1863.
 
@@ -5827,7 +5668,6 @@ to second lieutenant April 13, 1862.
 
 Sergeant-major Benjamin W. Smith, mustered into
 service August 19, 1861; transferred to company K; promoted
------File: 160.png---------------------------------------------------------
 to second lieutenant August 9, 1862; see company
 K.
 
@@ -5872,7 +5712,6 @@ out with regiment; promoted to commissary-sergeant
 June 16, 1865.
 
 Principal Musician Gurley G. Crane, mustered into
------File: 161.png---------------------------------------------------------
 service September 10, 1861; transferred to company F;
 promoted to second lieutenant March 13, 1863; see
 company F.
@@ -5918,7 +5757,6 @@ promotion as first lieutenant in company K (see company
 K) June 16, 1865.
 
 Commissary-sergeant William H. Wright, discharged
------File: 162.png---------------------------------------------------------
 to accept promotion as captain in company H (see company
 H) April 9, 1865.
 
@@ -5971,7 +5809,6 @@ Moses C. Rist, mustered into service September 10,
 
 Corwin Spencer, mustered into service September 10,
 1861.
------File: 163.png---------------------------------------------------------
 
 Lewis Price, mustered into service August 19, 1861.
 
@@ -6017,7 +5854,6 @@ First Lieutenant Winthrop H. Grant, promoted second
 lieutenant May 15, 1863; to first lieutenant July 18,
 1863; killed in battle at Dug Gap, Georgia, May 8,
 1864.
------File: 164.png---------------------------------------------------------
 
 First Lieutenant Silas G. Elliott, promoted second
 lieutenant June 18, 1863; first lieutenant May 25, 1864;
@@ -6071,7 +5907,6 @@ Drummer Richard Lewsi[** Lewis?], transferred to non-commissioned
 staff November 1, 1863.
 
 Wagoner William Daniels, discharged June 28, 1862.
------File: 165.png---------------------------------------------------------
 
 
 PRIVATES.
@@ -6131,7 +5966,6 @@ Alpheus A. Fenton, transferred to Veteran Reserve
 corps August 1, 1863.
 
 Joseph M. Sober, discharged February 6, 1863.
------File: 166.png---------------------------------------------------------
 
 William A. Thompson, discharged October 9, 1862.
 
@@ -6193,7 +6027,6 @@ William L. Wood, promoted to corporal January 1,
 Montezuma St. John, discharged August 5, 1862.
 
 Robert E. Woodbury, discharged June 25, 1865.
------File: 167.png---------------------------------------------------------
 
 Augustus Thompson, discharged July 20, 1862.
 
@@ -6254,7 +6087,6 @@ Silas R. Thompson, discharged April 5, 1863.
 
 Corporal Seth N. Hubbard, died at Martinsburg, Virginia,
 April 12, 1862.
------File: 168.png---------------------------------------------------------
 
 Volney Wilson, mustered out with company.
 
@@ -6319,7 +6151,6 @@ Isaac E. Haggett, wounded near Marietta, Georgia,
 July 1, 1864; mustered out with company.
 
 Alonzo LeBlanc, mustered out with company.
------File: 169.png---------------------------------------------------------
 
 Francis Wilbur, mustered out with company.
 
@@ -6374,7 +6205,6 @@ James O. Parker, substitute, discharged June 5, 1865.
 Isaac Samms, drafted, discharged June 5, 1865.
 
 William Smalley, drafted, discharged June 5, 1865.
------File: 170.png---------------------------------------------------------
 
 Joseph Sockwell, drafted, discharged June 5, 1865.
 
@@ -6421,7 +6251,6 @@ June 25, 1864; killed at Pine Knob, Georgia, June 15[** killed, then promoted?],
 
 Sergeant Francis M. Hewitt, discharged June 19,
 1862.
------File: 171.png---------------------------------------------------------
 
 Sergeant Perry O. Warren, discharged September 24,
 1862.
@@ -6474,7 +6303,6 @@ Corporal Henry Hicks, mustered out with company.
 Musician George W. Miles, died June 20, 1862.
 
 Musician Hamilton SeCheverell, captured at Winchester,
------File: 172.png---------------------------------------------------------
 May 14, 1862; discharged July 3, 1862, by reason
 of General Order No. 65, A. G. O.
 
@@ -6535,7 +6363,6 @@ William Potter, died of wounds, July 8, 1864.
 Albert Rogers, died January 7, 1862.
 
 Jesse Rockwell, died February 25, 1862.
------File: 173.png---------------------------------------------------------
 
 Robert Sills, died in Libby Prison, no date.
 
@@ -6601,7 +6428,6 @@ Joseph H. Failer, discharged October 12, 1862.
 Edwin C. Holmes[** ,] discharged June 18, 1862.
 
 Ralph Hartwell, (1862), discharged October 29, 1862.
------File: 174.png---------------------------------------------------------
 
 Nelson Hendrick, discharged December 15, 1862.
 
@@ -6662,7 +6488,6 @@ William P. Johnson, mustered out with company.
 James Rounds, mustered out with company.
 
 George Wright, mustered out with company.
------File: 175.png---------------------------------------------------------
 
 Peter Dennis, mustered out with company.
 
@@ -6714,7 +6539,6 @@ Jacob Scott, drafted, died at Savannah, Georgia, December
 
 George W. Warden, 1863, died at Marietta, Georgia,
 October 29, 1864.
------File: 176.png---------------------------------------------------------
 
 George W. Wright, died at Chattanooga, Tennessee,
 May 31, 1864.
@@ -6769,7 +6593,6 @@ William Thornton, drafted, discharged June 17, 1865.
 Charles Wilson, substitute, discharged June 5, 1865.
 
 Jacob W. Yohe, drafted, discharged June 12, 1865.
------File: 177.png---------------------------------------------------------
 
 
 COMPANY C.
@@ -6818,7 +6641,6 @@ Sergeant Daniel W. Rolph, discharged, date unknown.
 
 Sergeant George W. Beckwith, transferred to non-commissioned
 staff, May 1st, 1862.
------File: 178.png---------------------------------------------------------
 
 Sergeant Nelson H. Bailey, mustered out with company.
 
@@ -6869,7 +6691,6 @@ Henry C. Carey, served three years; discharged.
 Edgar O. Miller[** , ?] served three years; discharged.
 
 Beneville Miller[** , ?] served three years; discharged.
------File: 179.png---------------------------------------------------------
 
 John Gray, killed at Dug Gap, Georgia, May 8, 1864.
 
@@ -6925,7 +6746,6 @@ John Leslie, absent without leave.
 William H. Shires, absent without leave.
 
 Stephen Warren, discharged April 21, 1863.
------File: 180.png---------------------------------------------------------
 
 Loren B. Brainard, discharged August 5, 1862.
 
@@ -6988,7 +6808,6 @@ William Yokes, discharged for wounds received September
 
 Chauncy Brainard (musician), transferred to regimental
 band September 10, 1861.
------File: 181.png---------------------------------------------------------
 
 Sylvester Strickland, discharged February 18, 1863.
 
@@ -7041,7 +6860,6 @@ Henry Strale (1862), transferred to invalid corps.
 
 Orlando Wakeman, transferred to company I December
 15.[**P2 , ] 1861.
------File: 182.png---------------------------------------------------------
 
 Truman A. Kellogg (wagoner), mustered out with
 company.
@@ -7098,7 +6916,6 @@ company.
 Frank Slomp, drafted, mustered out with company.
 
 Henry Lunnemen, substitute, mustered out with company.
------File: 183.png---------------------------------------------------------
 
 Frank S. Faller, substitute, mustered out with company.
 
@@ -7158,7 +6975,6 @@ Daniel Schaunn, drafted, discharged June 5, 1865.
 
 James Fleming, wounded at Dug Gap, Georgia, May
 8, 1864; transferred to Veteran Reserve corps.
------File: 184.png---------------------------------------------------------
 
 Martin Winkel, drafted, discharged June 10, 1865.
 
@@ -7211,7 +7027,6 @@ Sergeant Joseph Parks, veteran, sick in hospital.
 
 Sergeant Jacob Rodenbaugh, veteran, mustered out
 with company.
------File: 185.png---------------------------------------------------------
 
 Sergeant Jacob Replogle, veteran, mustered out with
 company.
@@ -7266,7 +7081,6 @@ Hiram Harring (1861), served three years.
 George Montenyohl (1861), served three years.
 
 Washington Shanfelt (1862), served three years.
------File: 186.png---------------------------------------------------------
 
 Henry A. Thompson (1861), served three years.
 
@@ -7320,7 +7134,6 @@ Bennett H. Wadsworth, musician, discharged September
 
 Andrew Hunsicker, wagoner, discharged November 9,
 1863.
------File: 187.png---------------------------------------------------------
 
 William H. Bloomfield, discharged August 22, 1862.
 
@@ -7389,7 +7202,6 @@ George Fordt (1862), discharged May 20, 1863.
 Valentine Viers, discharged April 4, 1863.
 
 Henry F. Waters, discharged August 15, 1862.
------File: 188.png---------------------------------------------------------
 
 Gurley G. Crane, musician, promoted.
 
@@ -7448,7 +7260,6 @@ Everett T. Shaw, mustered out with company.
 
 Montgomery Alexander (1864), mustered out with
 company.
------File: 189.png---------------------------------------------------------
 
 John H. Becktold (1864), mustered out with company.
 
@@ -7501,7 +7312,6 @@ Henry Reck, substitute, mustered out with company.
 Jacob Snyder, substitute, mustered out with company.
 
 Benjamin Switzer, substitute, mustered out with company.
------File: 190.png---------------------------------------------------------
 
 Simon Shenk, substitute, mustered out with company.
 
@@ -7561,7 +7371,6 @@ George Shaw, mustered out with company.
 
 David C. Winkler, 1862, discharged, G. O. No. 77,
 June 5, 1865.
------File: 191.png---------------------------------------------------------
 
 Franklin J. Waltz, mustered out with company.
 
@@ -7614,7 +7423,6 @@ staff as adjutant, April 13, 1862.
 First Lieutenant Addison J. Andrews, promoted first
 sergeant December 22, 1863; first lieutenant, January
 21, 1865; mustered out with company.
------File: 192.png---------------------------------------------------------
 
 First Lieutenant William Neil, 1862, promoted to first
 lieutenant April 13, 1862; resigned January 30, 1863.
@@ -7662,7 +7470,6 @@ Corporal Hiram Thornton, paroled prisoner of war.
 Corporal Lewis Harper, mustered out with company.
 
 Corporal Charles W. Cary, mustered out with company.
------File: 193.png---------------------------------------------------------
 
 Corporal Heman Dewey, mustered out with company.
 
@@ -7721,7 +7528,6 @@ Nelson Gillett, died at Pierpont, Ohio, July 15, 1864.
 
 William Johnson, died at Cumberland, Maryland, April
 10, 1862.
------File: 194.png---------------------------------------------------------
 
 James S. Pike, died at Jefferson, Ohio, January 14,
 1862.
@@ -7786,7 +7592,6 @@ Charles H. Hawkins, discharged November 27, 1863.
 George A. Lillie, discharged July 24, 1863.
 
 Marshal Morse, discharged November 24, 1862.
------File: 195.png---------------------------------------------------------
 
 Isaac A. Meeker, discharged July 26, 1862.
 
@@ -7842,7 +7647,6 @@ Cornelius Hinkle, transferred to company K, December
 
 Joseph Hammond, transferred to company K, December
 13, 1861.
------File: 196.png---------------------------------------------------------
 
 Elwood P. Haines, transferred to non-commissioned
 staff hospital steward, September 16, 1861.
@@ -7904,7 +7708,6 @@ James E. Browning, drafted, in hospital.
 
 William C. Chatman, substitute, mustered out with
 company.
------File: 197.png---------------------------------------------------------
 
 John Cooper, drafted, mustered out with company.
 
@@ -7959,7 +7762,6 @@ Charles Hermandaffer, substitute, discharged June 5,
 1865.
 
 Lewis Jacobs, drafted, discharged June 5, 1865.
------File: 198.png---------------------------------------------------------
 
 Benjamin Holton (1862), discharged December 9,
 1864.
@@ -8011,7 +7813,6 @@ First Lieutenant Hamblin Gregory, resigned January
 26, 1863, disability.
 
 First Lieutenant Rush Griswold, promoted to corporal
------File: 199.png---------------------------------------------------------
 January 1, 1862; sergeant May 1, 1862; first sergeant
 June 16, 1864; first lieutenant January 6, 1865; mustered
 out with company.
@@ -8057,7 +7858,6 @@ Sergeant Isaac J. Houghkirk, mustered out with company.
 Sergeant Orlando Wilson, mustered out with company.
 
 Sergeant Charles M. Dustin, mustered out with company.
------File: 200.png---------------------------------------------------------
 
 Sergeant R. H. Baldwin, promoted February 3,
 1863.
@@ -8109,7 +7909,6 @@ John Schofield (musician), discharged February 18,
 1863.
 
 Daniel Ansinger, discharged February 18, 1863.
------File: 201.png---------------------------------------------------------
 
 Corwin Broughton, discharged May 10, 1862.
 
@@ -8177,7 +7976,6 @@ James Thorp, discharged August 12, 1862.
 Ellsworth W. Taylor, discharged October 1, 1862.
 
 George Wick, discharged April 3, 1863.
------File: 202.png---------------------------------------------------------
 
 Frederick R. Johnson, killed at Port Republic, Virginia,
 June 9, 1862.
@@ -8236,7 +8034,6 @@ Michael Flinn, transferred to invalid corps December
 
 James Fleming, transferred to company C November
 2, 1861.
------File: 203.png---------------------------------------------------------
 
 Loren Frisby (1862) transferred to invalid corps January
 22, 1864.
@@ -8288,7 +8085,6 @@ William Freeman, substitute, discharged July 6, 1865.
 Miron S. Giles, substitute, mustered out with company.
 
 Augustus Howell, substitute, mustered out with company.
------File: 204.png---------------------------------------------------------
 
 David Nichols, substitute, mustered out with company.
 
@@ -8345,7 +8141,6 @@ Joseph Dixon, substitute, discharged May 27, 1865.
 Franklin Flood, veteran, discharged March 8, 1865.
 
 Samuel Ferguson, substitute, discharged May 27, 1865.
------File: 205.png---------------------------------------------------------
 
 Martin Freshcorn, substitute, discharged June 5, 1865.
 
@@ -8399,7 +8194,6 @@ captain October 12, 1864; mustered out with company.
 
 First Lieutenant Benjamin F. Manderbach, promoted
 corporal December 22, 1863; sergeant May 9, 1864;
------File: 206.png---------------------------------------------------------
 first sergeant July 1, 1864; first lieutenant January 6,
 1865; mustered out with company.
 
@@ -8449,7 +8243,6 @@ Georgia, May 8, 1864.
 
 Sergeant Lewis Crocker (1862), discharged June 5,
 1865.
------File: 207.png---------------------------------------------------------
 
 Sergeant Stephen W. Griffith (1862), discharged June
 5, 1865.
@@ -8505,7 +8298,6 @@ Corporal E. B. Hubbard, absent without leave.
 Corporal A. C. French, promoted to sergeant.
 
 Corporal T. Caldwell, absent without leave.
------File: 208.png---------------------------------------------------------
 
 Corporal G. F. Hewett (veteran), mustered out with
 company.
@@ -8564,7 +8356,6 @@ James L. Smith (1862), died at Dumfries, Virginia,
 March 3, 1863.
 
 Urias Reifschneider, absent without leave.
------File: 209.png---------------------------------------------------------
 
 Inman Lewis (1862), absent without leave.
 
@@ -8632,7 +8423,6 @@ corps September 30, 1863.
 Edward Curtiss (1862), promoted.
 
 Jehiel Lane, discharged October 24, 1862.
------File: 210.png---------------------------------------------------------
 
 Christian Conrad, transferred to company K, December
 14, 1861.
@@ -8684,7 +8474,6 @@ James Gaule (1862), missing in action May 8, 1864.
 Charles E. Griffin (1862), mustered out with company.
 
 Justice Townsley (1862), in hospital May 25, 1865.
------File: 211.png---------------------------------------------------------
 
 Andrew B. Holman (1862), in hospital March 1,
 1865.
@@ -8738,7 +8527,6 @@ John S. Rape (1864), killed at North Edisto River,
 South Carolina, February 12, 1865.
 
 Jacob D. Foster (veteran), died March 29, 1864.
------File: 212.png---------------------------------------------------------
 
 Mitchell Bubbington (1864), substitute, died December
 11, 1864.
@@ -8793,7 +8581,6 @@ William Rush (1864), drafted, discharged June 5,
 
 William H. Stillwell (1864), drafted, discharged June
 5, 1865.
------File: 213.png---------------------------------------------------------
 
 John F. Weidle (veteran), discharged September 29,
 1864.
@@ -8842,7 +8629,6 @@ staff February 15, 1862.
 
 Sergeant James L. Ferguson, discharged June 18,
 1862.
------File: 214.png---------------------------------------------------------
 
 Sergeant Henry L. Curtiss, discharged October 10,
 1862.
@@ -8896,7 +8682,6 @@ Corporal George Manning (1862), mustered out with
 company.
 
 Henry Murgan (musician), discharged July 19, 1862.
------File: 215.png---------------------------------------------------------
 
 Corporal John Bissell (1862), mustered out with company.
 
@@ -8956,7 +8741,6 @@ O. W. Hale, discharged by special order number --[**leaving space because dash s
 1861.
 
 George C. Kellogg, discharged May 29, 1862.
------File: 216.png---------------------------------------------------------
 
 Theodore Jones, transferred to Veteran Reserve corps
 April 16, 1864.
@@ -9013,7 +8797,6 @@ Norman Saulsbury, died at Frederick, Maryland, April
 3, 1862.
 
 Henry H. Scott, discharged December 3, 1862.
------File: 217.png---------------------------------------------------------
 
 Jesse C. Stall (1862), mustered out with company.
 
@@ -9071,7 +8854,6 @@ Hartwell A. Parker (1862), discharged January 10,
 1863.
 
 Elisha H. Pursell (1862), died in 1865.
------File: 218.png---------------------------------------------------------
 
 John H. Wright (1862), discharged September 21,
 1864.
@@ -9126,7 +8908,6 @@ Benjamin Lee (1864), killed at Peach Tree Creek,
 Georgia, July 20, 1864.
 
 George B. Myers (1864), mustered out with company.
------File: 219.png---------------------------------------------------------
 
 William Shameon (1864), drafted, discharged June 5,
 1865.
@@ -9179,7 +8960,6 @@ Captain Edwin B. Woobury, promoted second lieutenant
 March 13, 1862; first lieutenant, April 14, 1863; captain,
 June 29, 1864; major, July 12, 1865; mustered out
 with company.
------File: 220.png---------------------------------------------------------
 
 First Lieutenant Augustus Philbrick, resigned March
 3, 1862.
@@ -9234,7 +9014,6 @@ Corporal John Sage, absent without leave.
 Corporal Joel J. Bair, discharged November 18, 1862.
 
 Corporal Horace H. Heath, discharged June 12, 1862.
------File: 221.png---------------------------------------------------------
 
 Corporal J. R. Polley, discharged June 1, 1862.
 
@@ -9291,7 +9070,6 @@ Alvah Holden (1861), died at Savannah, Georgia,
 March 27, 1865.
 
 Charles Link, drafted, died December 3, 1864.
------File: 222.png---------------------------------------------------------
 
 Hiram Newcomb (1861), died at Ringold[**Ringgold?], Georgia, of
 wounds received at Dug Gap, Georgia, May 15, 1864.
@@ -9352,7 +9130,6 @@ Michael Greenwall, discharged December 5, 1862.
 Theodore N. Harrington, discharged May 20, 1862.
 
 Sidney Kennedy, discharged April 4, 1863.
------File: 223.png---------------------------------------------------------
 
 Henry Kennedy, discharged April 4, 1863.
 
@@ -9422,7 +9199,6 @@ RECRUITS.
 Joel J. Bair (1861), mustered out with company.
 
 Gordon Case, mustered out with company.
------File: 224.png---------------------------------------------------------
 
 Henry H. Hibbard, mustered out with company.
 
@@ -9483,7 +9259,6 @@ Dennis McGunnigal, substitute, discharged June 5,
 David Miller, substitute, discharged June 5, 1865.
 
 Henry May, drafted, discharged June 5, 1865.
------File: 225.png---------------------------------------------------------
 
 John Nesbit, drafted, discharged June 5, 1865.
 
@@ -9540,7 +9315,6 @@ May 1, 1862; discharged March 16, 1864.
 
 Sergeant William E. Gray, shot at Frederick, Maryland,
 December 10, 1862.
------File: 226.png---------------------------------------------------------
 
 Sergeant Christopher C. Johnson, discharged April 3,
 1863.
@@ -9598,7 +9372,6 @@ David McIntyre, served three years; discharged October
 20, 1864.
 
 William Law, discharged, no date.
------File: 227.png---------------------------------------------------------
 
 Hezekiah Davenport, served three years; discharged
 December 6, 1864.
@@ -9653,7 +9426,6 @@ Reuben Alderman, discharged April 4, 1863.
 James Alexander, discharged June 19, 1863.
 
 Lewis Brown (minor), discharged December 15, 1861.
------File: 228.png---------------------------------------------------------
 
 Charles W. Bancroft, discharged May 1, 1862.
 
@@ -9718,7 +9490,6 @@ Joseph B. Partch, discharged June 30, 1862.
 George Perry, discharged April 4, 1863.
 
 John Randall, discharged August 27, 1862.
------File: 229.png---------------------------------------------------------
 
 Solon Squires, discharged July 14, 1862.
 
@@ -9776,7 +9547,6 @@ Jacob Lenox, substitute, mustered out with company.
 John Loudon, drafted, mustered out with company.
 
 Antoine Miller, substitute, mustered out with company.
------File: 230.png---------------------------------------------------------
 
 James Ritchendoller, substitute, mustered out with
 company.
@@ -9832,7 +9602,6 @@ Henry C. Farnsworth, drafted, discharged June 19,
 1865.
 
 John Grun, drafted, discharged June 19, 1865.
------File: 231.png---------------------------------------------------------
 
 John W. Hutchinson, drafted, discharged June 19,
 1865.
@@ -9864,7 +9633,6 @@ Frederick Schrapel, drafted, discharged July 19, 1865.
 Samuel B. Emmons (1864), discharged July 18, 1865.
 
 Asa A. Sanford, discharged July 28, 1865.
------File: 232.png---------------------------------------------------------
 
 
 
@@ -9917,7 +9685,6 @@ Private Byron Bulfinch, company K, October 28,
 Private John Craig, company I, April 15, 1862.
 
 Private Oliver P. Crosby, company C, April 23, 1862.
------File: 233.png---------------------------------------------------------
 
 Private Orlando Clarke, company K, May 15, 1862.
 
@@ -9973,7 +9740,6 @@ Private Elisha Hamilton, company D, June 9, 1862.
 
 Private Herman O. Holmes, company B, April 6,
 1862.
------File: 234.png---------------------------------------------------------
 
 Private Clark Hall, company B, July 14, 1862.
 
@@ -10034,7 +9800,6 @@ Private Hiram Sly, company E, July 6, 1862.
 
 Private Leonard Squires, company D, September 4,
 1862.
------File: 235.png---------------------------------------------------------
 
 Private James Thomas, company C, March 9, 1862.
 
@@ -10092,7 +9857,6 @@ Private Julius Lavelee, company C, May 7, 1863.
 
 Private Abram W. McNaughten, company A, January
 28, 1863.
------File: 236.png---------------------------------------------------------
 
 Private Tallis E. McCain, company G, August 12,
 1863.
@@ -10152,7 +9916,6 @@ Private Mitchell Babbington, company G, December
 11, 1864.
 
 Private Richard Conn, company F, December 8, 1864.
------File: 237.png---------------------------------------------------------
 
 Private John T. Best, company F, December 25,
 1864.
@@ -10209,7 +9972,6 @@ Private James H. Lane, company G, November 25,
 Private Charles Link, company I, December 3, 1864.
 
 Corporal Allen Mason, company C, May 29, 1864.
------File: 238.png---------------------------------------------------------
 
 Private John H. Montgomery, company D, June 2,
 1864 (June 8, 1864).
@@ -10270,7 +10032,6 @@ Private George W. Warden, company B, October 29,
 Private William F. Boal, company E, April 2, 1865.
 
 Private Thomas Clifford, company F, March 2, 1865.
------File: 239.png---------------------------------------------------------
 
 Private William Campbell, company I, February 18,
 1865.
@@ -10317,7 +10078,6 @@ Private Addison A. Way, company E, April 19, 1865.
 
 Corporal George J. Young, company D, June 14,
 1865.
------File: 240.png---------------------------------------------------------
 
 
 [** hanging indent]
@@ -10368,7 +10128,6 @@ First Lieutenant Everson J. Hulbert, wounded August
 
 First Sergeant Winthrop H. Grant, wounded August
 9, 1862, Cedar Mountain, Virginia.
------File: 241.png---------------------------------------------------------
 
 Sergeant Silas G. Elliott, wounded August 9, 1862,
 Cedar Mountain, Virginia.
@@ -10420,7 +10179,6 @@ Republic, Virginia.
 
 Private F. B. Mowrey,* captured June 9, 1862, Port
 Republic, Virginia.
------File: 242.png---------------------------------------------------------
 
 Private J. E. March,* captured June 9, 1862, Port Republic,
 Virginia.
@@ -10472,7 +10230,6 @@ Cedar Mountain, Virginia.
 
 Corporal Elbridge Potter, wounded August 9, 1862,
 Cedar Mountain, Virginia.
------File: 243.png---------------------------------------------------------
 
 Corporal Frank Chapman, wounded August 9, 1862,
 Cedar Mountain, Virginia.
@@ -10524,7 +10281,6 @@ Republic, Virginia; died in prison.
 
 Private Job Brazee,* captured June 9, 1862, Port Republic,
 Virginia.
------File: 244.png---------------------------------------------------------
 
 Private William D. Potter,* captured June 9, 1862,
 Port Republic, Virginia.
@@ -10576,7 +10332,6 @@ Virginia.
 
 Private David B. Parker, mortally wounded August
 9th, Cedar Mountain, Virginia.
------File: 245.png---------------------------------------------------------
 
 Private William H. Runyan, wounded June 9th, Port
 Republic, Virginia.
@@ -10628,7 +10383,6 @@ Virginia.
 
 Private S. O. Crosby,* captured June 9th, Port Republic,
 Virginia.
------File: 246.png---------------------------------------------------------
 
 Private D. L. Lindley,* captured June 9th, Port Republic,
 Virginia.
@@ -10680,7 +10434,6 @@ Port Republic, Virginia.
 
 Lieutenant George W. Dice, wounded August 9, 1862,
 Cedar Mountain, Virginia.
------File: 247.png---------------------------------------------------------
 
 Sergeant Lewis B. Stark, wounded August 9, 1862,
 Cedar Mountain, Virginia.
@@ -10731,7 +10484,6 @@ Mountain, Virginia.
 
 Private E. Randall*, captured August 9, 1862, Cedar
 Mountain, Virginia.
------File: 248.png---------------------------------------------------------
 
 Private J. Replogle*, captured August 9, 1862, Cedar
 Mountain, Virginia.
@@ -10783,7 +10535,6 @@ Virginia.
 
 Private James C. Jones, captured June 9, 1862, Port
 Republic, Virginia.
------File: 249.png---------------------------------------------------------
 
 Private Elijah Curtiss, wounded accidentally.
 
@@ -10837,7 +10588,6 @@ Port Republic, Virginia.
 
 Private Almer B. Paine, wounded June 9, 1862, Port
 Republic, Virginia.
------File: 250.png---------------------------------------------------------
 
 Private Sheridan B. Smith, wounded June 9, 1862,
 Port Republic, Virginia.
@@ -10889,7 +10639,6 @@ Republic, Virginia.
 
 Lieutenant H. Gregory*, captured June 9, 1862, Port
 Republic, Virginia.
------File: 251.png---------------------------------------------------------
 
 Sergeant Solon Hall,* captured June 9, 1862, Port
 Republic, Virginia.
@@ -10941,7 +10690,6 @@ Strasburg, Virginia.
 
 Private Newton Hummiston,* captured May 25, 1862,
 Strasburg, Virginia.
------File: 252.png---------------------------------------------------------
 
 Private George F. Hewitt,* captured May 25, 1862,
 Strasburg, Virginia.
@@ -10993,7 +10741,6 @@ Virginia.
 
 Corporal C. Zeittle,* captured June 9th, Port Republic,
 Virginia.
------File: 253.png---------------------------------------------------------
 
 Corporal John Kummer,* captured June 9th, Port
 Republic, Virginia.
@@ -11045,7 +10792,6 @@ Cedar Mountain, Virginia.
 
 Private Reuben Farnam, wounded June 9, 1862, Port
 Republic, Virginia.
------File: 254.png---------------------------------------------------------
 
 Private Hiram Root, wounded June 9, 1862, Port
 Republic, Virginia.
@@ -11097,7 +10843,6 @@ Port Republic, Virginia.
 
 Private William H. Abbott, wounded June 9, 1862,
 Port Republic, Virginia.
------File: 255.png---------------------------------------------------------
 
 Private Albert Alderman, wounded June 9, 1862, Port
 Republic, Virginia.
@@ -11149,7 +10894,6 @@ Virginia.
 
 Private W. J. Eldred, captured June 9, 1862, Port
 Republic, Virginia.
------File: 256.png---------------------------------------------------------
 
 Private W. Waterman, captured June 9, 1862, Port
 Republic, Virginia.
@@ -11199,7 +10943,6 @@ Republic, Virginia.
 
 First Sergeant Christopher C. Johnson, wounded August
 9, 1862, Cedar Mountain, Virginia.
------File: 257.png---------------------------------------------------------
 
 Sergeant William E. Gray, wounded August 9, 1862,
 Cedar Mountain, Virginia.
@@ -11251,7 +10994,6 @@ Mountain, Virginia.
 
 Private William Fitzgerald, captured August 9, 1862,
 Cedar Mountain, Virginia.
------File: 258.png---------------------------------------------------------
 
 Private G. P. Strong, captured August 9, 1862, Cedar
 Mountain, Virginia.
@@ -11307,7 +11049,6 @@ Private L. M. Johnson, company A, missing.
 Corporal Daniel J. Baur, company B, wounded.
 
 Corporal Nathan G. Germond, company B, wounded.
------File: 259.png---------------------------------------------------------
 
 Sergeant Rush Griswold, company B, missing.
 
@@ -11374,7 +11115,6 @@ Private Charles Canfield, company F, wounded.
 Sergeant Charles T. Waldron, company F, missing.
 
 Corporal Isaac J. Houghkirk, company F, missing.
------File: 260.png---------------------------------------------------------
 
 Private Peter Dowling, company F, missing.
 
@@ -11440,7 +11180,6 @@ Private David Turner, company K, wounded.
 
 Private Osmond O. Oliver, company K, missing, never
 heard from.
------File: 261.png---------------------------------------------------------
 
 Private Edson G. Holcomb, company K, missing.
 
@@ -11506,7 +11245,6 @@ Private Ed. Farr, company H, wounded.
 Private O. O. Wright, company H, wounded.
 
 Sergeant C. Woodford, company F, wounded.
------File: 262.png---------------------------------------------------------
 
 Corporal G. McLain, company F, wounded.
 
@@ -11571,7 +11309,6 @@ killed, Dug Gap, Georgia, May 8, 1864.
 
 Private Adrian M. Knowlton, company A, killed, Dug
 Gap, Georgia, May 8, 1864.
------File: 263.png---------------------------------------------------------
 
 Private Franklin Potter, company A, killed, Dug Gap,
 Georgia, May 8, 1864.
@@ -11623,7 +11360,6 @@ Georgia, May 8, 1864.
 
 Private Cass M. Nimms, company I, killed, Dug Gap,
 Georgia, May 8, 1864.
------File: 264.png---------------------------------------------------------
 
 Private Amos Long, company K, killed, Dug Gap,
 Georgia, May 8, 1864.
@@ -11675,7 +11411,6 @@ Tree Creek, Georgia, July 20, 1864.
 
 Sergeant D. Ransom (James?) Billings, company I,
 killed, near Atlanta, Georgia, July 28, 1864.
------File: 265.png---------------------------------------------------------
 
 Private C. W. Kellogg, company C, wounded, Pine
 Knob, Georgia, June 16, 1864.
@@ -11728,7 +11463,6 @@ Gap, Georgia, May 8, 1864.
 
 Private John Edwards, company B, wounded, Dug
 Gap, Georgia, May 8, 1864.
------File: 266.png---------------------------------------------------------
 
 Private Andrew Bright, company B, wounded, Dug
 Gap, Georgia, May 8, 1864.
@@ -11780,7 +11514,6 @@ Gap, Georgia, May 8, 1864.
 
 Private John H. Hughes, company D, wounded, Dug
 Gap, Georgia, May 8, 1864.
------File: 267.png---------------------------------------------------------
 
 Private Levi Baughman, company D, wounded, Dug
 Gap, Georgia, May 8, 1864.
@@ -11832,7 +11565,6 @@ Gap, Georgia, May 8, 1864.
 
 Private Franklin Flood, company F, wounded, Dug
 Gap, Georgia, May 8, 1864.
------File: 268.png---------------------------------------------------------
 
 Private Alonzo Cole, company F, wounded, Dug Gap,
 Georgia, May 8, 1864.
@@ -11884,7 +11616,6 @@ Georgia, May 8, 1864.
 
 Private A. W. Woldridge, company I, wounded, Dug
 Gap, Georgia, May 8, 1864.
------File: 269.png---------------------------------------------------------
 
 Private Theodore Hawk, company I, wounded, Dug
 Gap, Georgia, May 8, 1864.
@@ -11936,7 +11667,6 @@ Gap, Georgia, May 8, 1864.
 
 Private W. H. Stratton, company K, wounded, Dug
 Gap, Georgia, May 8, 1864.
------File: 270.png---------------------------------------------------------
 
 Corporal G. B. Mowrey, company A, wounded, Pine
 Knob, Georgia, June 15, 1864.
@@ -11988,7 +11718,6 @@ Knob, Georgia, June 15, 1864.
 
 Private J. B. Yohey, company D, wounded, Pine
 Knob, Georgia, June 15, 1864.
------File: 271.png---------------------------------------------------------
 
 Sergeant C. Howard, company E, wounded, Pine
 Knob, Georgia, June 15, 1864.
@@ -12040,7 +11769,6 @@ Knob, Georgia, June 15, 1864.
 
 Private Evander Turner, company H, wounded, Pine
 Knob, Georgia, June 15, 1864.
------File: 272.png---------------------------------------------------------
 
 Private Henry Wolf, company H, wounded, Pine
 Knob, Georgia, June 15, 1864.
@@ -12092,7 +11820,6 @@ Georgia, May 25, 1864.
 
 Private E. W. Herrick, company A, wounded, Dallas,
 Georgia, May 26, 1864.
------File: 273.png---------------------------------------------------------
 
 Private O. J. Parkill, company A, wounded, Dallas,
 Georgia, May 26, 1864.
@@ -12144,7 +11871,6 @@ Georgia, May 25, 1864.
 
 Private James Walsh, company I, wounded, Dallas,
 Georgia, May 25, 1864.
------File: 274.png---------------------------------------------------------
 
 Private G. W. Deem, company K, wounded, Dallas,
 Georgia, May 25, 1864.
@@ -12194,7 +11920,6 @@ Knob, Georgia, June 16, 1864.
 
 Private S. S. Andrews, company B, wounded, Pine
 Knob, Georgia, June 16, 1864.
------File: 275.png---------------------------------------------------------
 
 Private F. A. Rounds, company K, wounded, Pine
 Knob, Georgia, June 16, 1864.
@@ -12246,7 +11971,6 @@ Knob, Georgia, June 16, 1864.
 
 Private George G. Guest, company I, wounded,
 Resaca, Georgia, May 15, 1864.
------File: 276.png---------------------------------------------------------
 
 Private Daniel Kelsea, company A, wounded, Resaca,
 Georgia, June 16, 1864.
@@ -12298,7 +12022,6 @@ Peach Tree Creek, Georgia, July 20, 1864.
 
 Private W. H. Stratton, company K, wounded, Peach
 Tree Creek, Georgia, July 20, 1864.
------File: 277.png---------------------------------------------------------
 
 Private Christopher Beck, company D, wounded,
 near Atlanta, Georgia, August 1, 1864.
@@ -12350,7 +12073,6 @@ Georgia, May 25, 1864.
 
 Private Ferdinand Burt, company K, wounded, Mill
 Creek, Georgia, May 8, 1864.
------File: 278.png---------------------------------------------------------
 
 Private G. W. Heern, company K, wounded, Pine
 Knob, Georgia, June 15, 1864.
@@ -12402,7 +12124,6 @@ Private M. Babington, company G, missing November
 
 Those killed near Dallas were buried on a ridge just
 to the right of the Burnt Hickory and Dallas road, in
------File: 279.png---------------------------------------------------------
 rear of our works. Those killed June 15th and 16th,
 were buried on a ridge near Kenesaw Mountain, 100
 yards in rear of the front line of our works; the graves all
@@ -12453,7 +12174,6 @@ Private Milo Sharp, company I, missing March 19,
 
 Corporal John A. Exceen, company A, wounded March
 24, 1865.
------File: 280.png---------------------------------------------------------
 
 Private Adam Hulbert, company G, wounded March
 24, 1865.
@@ -12501,7 +12221,6 @@ Goldsboro         |North Carolina|March 23   |        1|         2|         9|  
 
 N. B.--A remarkable fact, the Twenty-ninth fought its first battle on
 the 23d of March, and its last on the same date.
------File: 281.png---------------------------------------------------------
 
 
 
@@ -12560,7 +12279,6 @@ line, for "M" read "W."
 Page 224--ninth line from bottom, after "teamster" insert "discharged."
 
 Page 225--twenty-first line, for "with company" read "in hospital";
------File: 282.png---------------------------------------------------------
 ditto with fifth line from bottom; twenty-third line, for "with
 company" read "July 5, 1865."
 
