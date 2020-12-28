@@ -48,3 +48,4 @@ A number of typos in human or placee names were found and corrected by correlati
 
 p. 60 - Inserted a probable missing beginning of paragraph: [It] is perhaps...
 
+p. 241 - corrected Lysander T. King's company designation from "T" to "F" per company F listing on p. 206.
