@@ -50,4 +50,4 @@ p. 60: Inserted a probable missing beginning of paragraph: [It] is perhaps...
 
 p. 64: Corrected year in chapter description from 1862 to 1863. Chancellorsville was 1863, and the end of the prior chapter also indicates we are in mid-1863 at this point in the journal.
 
-p. 241: corrected Lysander T. King's company designation from "T" to "F" per company F listing on p. 206.
+p. 241: Corrected Lysander T. King's company from "T" to "F" per company F listing on p. 206.
