@@ -44,8 +44,10 @@ A note from the PM on the rosters toward the end of the book (162 and later). Ra
 Some inconsistencies in spelling, hyphenation, and punctuation have been
 retained.
 
-A number of typos in human or placee names were found and corrected by correlating with names elsewhere in the book.
+A number of typos in human or placee names were found and corrected, some by correlating with names elsewhere in the text.
 
-p. 60 - Inserted a probable missing beginning of paragraph: [It] is perhaps...
+p. 60: Inserted a probable missing beginning of paragraph: [It] is perhaps...
 
-p. 241 - corrected Lysander T. King's company designation from "T" to "F" per company F listing on p. 206.
+p. 64: Corrected year in chapter description from 1862 to 1863. Chancellorsville was 1863, and the end of the prior chapter also indicates we are in mid-1863 at this point in the journal.
+
+p. 241: corrected Lysander T. King's company designation from "T" to "F" per company F listing on p. 206.
