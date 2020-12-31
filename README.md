@@ -54,4 +54,8 @@ p. 120: Corrected date "August 2st" to August 1st ("August 1st to 3d, hot firing
 
 p. 143: Corrected time from 6:30 to 9:30 ("at 9:30 fell in and marched six miles as rear guard to the Twentieth army corps"). Not logical that they move from 8:00am back to 6:30am, printer presumably set 6 in place of 9, or inverted the 9.
 
+p. 232: Corrected discharge date for John H. Finneman (confirmed using records found on civilwarindex.com). As-printed, date was June 18, 1865.
+
+Source: https://civilwarindex.com/armyoh/rosters/29th_oh_infantry_roster.pdf
+
 p. 241: Corrected Lysander T. King's company from "T" to "F" per company F listing on p. 206.
