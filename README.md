@@ -50,4 +50,6 @@ p. 60: Inserted a probable missing beginning of paragraph: [It] is perhaps...
 
 p. 64: Corrected year in chapter description from 1862 to 1863. Chancellorsville was 1863, and the end of the prior chapter also indicates we are in mid-1863 at this point in the journal.
 
+p. 120: Corrected date "August 2st" to August 1st. Phrasing "to" vs. "and" makes a date range of larger than 2 days likely, and it's more reasonable to believe the printer misplaced 2 for 1, than misplaced "st" for "nd".
+
 p. 241: Corrected Lysander T. King's company from "T" to "F" per company F listing on p. 206.
