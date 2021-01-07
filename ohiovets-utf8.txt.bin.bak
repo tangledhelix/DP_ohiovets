@@ -286,7 +286,7 @@
 $::operationshash{'Open /dp/pp/ohiovets/ohiovets-utf8.txt'}='2021-01-07 02:45';
 $::operationshash{'View project comments locally'}='2021-01-02 05:27';
 
-$::bookmarks[0] = '8083.92';
+$::bookmarks[0] = '9144.58';
 $::bookmarks[1] = '10895.10';
 
 $::pngspath = '/dp/pp/ohiovets/pngs/';

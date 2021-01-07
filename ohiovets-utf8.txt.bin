@@ -283,10 +283,10 @@
  'Pg282' => {'offset' => '12247.67', 'label' => 'Pg 284', 'style' => '"', 'action' => '+1', 'base' => ''},
 );
 
-$::operationshash{'Open /dp/pp/ohiovets/ohiovets-utf8.txt'}='2021-01-07 02:45';
 $::operationshash{'View project comments locally'}='2021-01-02 05:27';
+$::operationshash{'Open /dp/pp/ohiovets/ohiovets-utf8.txt'}='2021-01-07 03:47';
 
-$::bookmarks[0] = '9144.58';
+$::bookmarks[0] = '1.0';
 $::bookmarks[1] = '10895.10';
 
 $::pngspath = '/dp/pp/ohiovets/pngs/';
