@@ -573,7 +573,7 @@ county.
 Leader regimental band Chauncey Brainard, Gustavus,
 Trumbull county.
 
-<tb>
+       *       *       *       *       *
 
 During the interim came the easy days of soldier life.
 Ah! those happy, golden days of camp life, when, with
