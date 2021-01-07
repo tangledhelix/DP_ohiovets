@@ -44,7 +44,9 @@ A note from the PM on the rosters toward the end of the book (162 and later). Ra
 Some inconsistencies in spelling, hyphenation, and punctuation have been
 retained.
 
-A number of typos in human or placee names were found and corrected, some by correlating with names elsewhere in the text.
+A number of typos in human or place names were found and corrected, some by correlating with names elsewhere in the text.
+
+The errata in the original book, beginning on page {TBD} was applied to the text.
 
 p. 60: Inserted a probable missing beginning of paragraph: [It] is perhaps...
 
