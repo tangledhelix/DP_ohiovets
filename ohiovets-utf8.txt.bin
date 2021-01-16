@@ -1,10 +1,10 @@
 %::pagenumbers = (
- 'Pg001' => {'offset' => '1.35', },
- 'Pg002' => {'offset' => '3.63', },
- 'Pg003' => {'offset' => '3.63', },
- 'Pg004' => {'offset' => '31.2', },
- 'Pg005' => {'offset' => '31.2', },
- 'Pg006' => {'offset' => '67.2', },
+ 'Pg001' => {'offset' => '1.35', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg002' => {'offset' => '3.63', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg003' => {'offset' => '3.63', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg004' => {'offset' => '31.2', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg005' => {'offset' => '31.2', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg006' => {'offset' => '67.2', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg007' => {'offset' => '67.2', 'label' => 'Pg 9', 'style' => 'Arabic', 'action' => 'Start @', 'base' => '9'},
  'Pg008' => {'offset' => '98.52', 'label' => 'Pg 10', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg009' => {'offset' => '131.2', 'label' => 'Pg 11', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -283,10 +283,21 @@
  'Pg282' => {'offset' => '12247.67', 'label' => 'Pg 284', 'style' => '"', 'action' => '+1', 'base' => ''},
 );
 
+$::operationshash{'Check hyphens'}='2021-01-16 07:07';
+$::operationshash{'Open /dp/pp/ohiovets/ohiovets-utf8.txt'}='2021-01-16 07:17';
+$::operationshash{'Check . lower'}='2021-01-16 07:31';
+$::operationshash{'WF Check Ital/Bold/SC'}='2021-01-16 07:10';
+$::operationshash{'Check Character Cnts'}='2021-01-16 07:17';
 $::operationshash{'View project comments locally'}='2021-01-02 05:27';
-$::operationshash{'Open /dp/pp/ohiovets/ohiovets-utf8.txt'}='2021-01-07 03:47';
+$::operationshash{'Check MiXeD CasE'}='2021-01-16 07:13';
+$::operationshash{'Jeebies'}='2021-01-07 05:13';
+$::operationshash{'Check , Upper'}='2021-01-16 07:19';
+$::operationshash{'Word Frequency'}='2021-01-16 07:34';
+$::operationshash{'Begin HTML Markup'}='2021-01-07 05:09';
+$::operationshash{'Check Accents'}='2021-01-16 07:34';
+$::operationshash{'Check emdashes'}='2021-01-16 06:59';
 
-$::bookmarks[0] = '1.0';
+$::bookmarks[0] = '4580.10';
 $::bookmarks[1] = '10895.10';
 
 $::pngspath = '/dp/pp/ohiovets/pngs/';

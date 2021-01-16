@@ -688,7 +688,7 @@ thickest of the fight.
 
 "Sir, you have spoken in high commendation of my
 command. I can assure you I feel myself honored in
-having command of such a regiment, It will be my
+having command of such a regiment. It will be my
 pride and ambition, with my fellow-officers to make it in
 all things pertaining to a well drilled and well disciplined
 regiment, one of the best in Ohio. And now, fellow-soldiers,
@@ -1491,8 +1491,8 @@ Fredericksburg, marched to Luray, and encamped for
 the night (marched eighteen miles). Thirteenth, moved
 at 7 <sc>A. M.</sc> The Twenty-ninth, was detailed as rear guard.
 Fourteenth, marched at 6, reached Front Royal at 3:30
-<sc>P. M.</sc> and camped for the night. Fifteenth, marched at 9 <sc>A.
- M.</sc>, traveled thirteen miles, and went into camp. Sixteenth,
+<sc>P. M.</sc> and camped for the night. Fifteenth, marched at 9 <sc>A. M.</sc>,
+traveled thirteen miles, and went into camp. Sixteenth,
 marched at 6:30 <sc>A. M.</sc>, reached Gains' Cross
 Road, and camped for the night, (marched ten miles).
 May 17th, marched at 6 <sc>A. M.</sc>, and reached Warrenton
@@ -1521,8 +1521,8 @@ baggage until May 31st, when at 4 o'clock <sc>A. M.</sc> it
 moved forward towards Front Royal, reaching Piedmont
 at 9 <sc>A. M.</sc>, and Markham at 4 <sc>P. M.</sc>; moved to
 within six miles of Front Royal, and camped for the
-night. June 1st, marched to Front Royal, and at 4 <sc>P.
- M.</sc> moved forward some three miles on the Luray road,
+night. June 1st, marched to Front Royal, and at 4 <sc>P. M.</sc>
+moved forward some three miles on the Luray road,
 and went into camp. June 2d, marched at 6 <sc>A. M.</sc>,
 marched thirteen miles, and went into camp. Third,
 marched at 7 <sc>A. M.</sc>, reached Luray at 12 <sc>M.</sc>, passed
@@ -1856,8 +1856,8 @@ breakfast; sharp firing along the line; halted until
 two miles, halted, stacked arms, and remained up nearly
 all night; (rainy) no tents or blankets, made our bed
 of rails. Saturday, August 23d, at 6 o'clock <sc>A. M.</sc> the
-artillery opened fire, and continued until 11 o'clock <sc>P.
-M.</sc>; remained on our arms all day; at 10 o'clock <sc>P. M.</sc>
+artillery opened fire, and continued until 11 o'clock <sc>P. M.</sc>;
+remained on our arms all day; at 10 o'clock <sc>P. M.</sc>
 moved a short distance up the river, and the Twenty-ninth
 went on picket. 24th, and all is quiet; at 9:30
 <sc>A. M.</sc> the artillery commenced firing, which was kept up
@@ -2064,7 +2064,7 @@ regiment passed in grand review by Colonel Charles
 Canby, of the Sixty-sixth Ohio infantry. January 27th,
 General Geary visited the regiment while on parade, and
 complimented us on our discipline, neat appearance, and
-soldierly deportment. February 2nd, Colonel L. P.
+soldierly deportment. February 2d, Colonel L. P.
 Buckley, Adjutant T. S. Winship, Captain E. Burridge
 and Lieutenant Gregory, of company F, resigned and
 went home. Lieutenant J. B. Storer was made adjutant,
@@ -4406,8 +4406,8 @@ mountain in a southeast direction from Atlanta, and
 at 6 <sc>P. M.</sc> halted and went into camp (marched fifteen
 miles). 16th instant, marched at 7:30 <sc>A. M.</sc>, and at
 5:15 <sc>P. M.</sc> halted and camped for the night (marched
-twelve miles). 17th instant, marched at 5 o'clock <sc>A.
-M.</sc>, and after marching twelve miles halted for dinner,
+twelve miles). 17th instant, marched at 5 o'clock <sc>A. M.</sc>,
+and after marching twelve miles halted for dinner,
 and at 2 <sc>P. M.</sc> fell in and marched until 5 <sc>P. M.</sc>, when
 the regiment halted and went into camp. 18th instant,
 moved at 4:30 <sc>A. M.</sc>; marched ten miles, and at 12 <sc>M.</sc>
