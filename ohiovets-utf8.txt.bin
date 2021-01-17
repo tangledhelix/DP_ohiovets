@@ -298,7 +298,7 @@ $::operationshash{'Check emdashes'}='2021-01-16 06:59';
 $::operationshash{'Begin HTML Markup'}='2021-01-07 05:09';
 $::operationshash{'Check Accents'}='2021-01-16 07:34';
 
-$::bookmarks[0] = '1.0';
+$::bookmarks[0] = '2067.33';
 $::bookmarks[1] = '10895.10';
 
 $::pngspath = '/dp/pp/ohiovets/pngs/';

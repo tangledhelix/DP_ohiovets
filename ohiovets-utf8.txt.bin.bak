@@ -139,7 +139,7 @@
  'Pg138' => {'offset' => '4839.57', 'label' => 'Pg 140', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg139' => {'offset' => '4873.45', 'label' => 'Pg 141', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg140' => {'offset' => '4907.2', 'label' => 'Pg 142', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg141' => {'offset' => '4945.64', 'label' => 'Pg 143', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg141' => {'offset' => '4945.55', 'label' => 'Pg 143', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg142' => {'offset' => '4979.53', 'label' => 'Pg 144', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg143' => {'offset' => '5014.61', 'label' => 'Pg 145', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg144' => {'offset' => '5048.63', 'label' => 'Pg 146', 'style' => '"', 'action' => '+1', 'base' => ''},
