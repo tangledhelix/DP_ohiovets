@@ -9,7 +9,7 @@ JOURNAL HISTORY
 OF THE
 TWENTY-NINTH OHIO
 <sc>Veteran Volunteers</sc>,
-1861–1865.
+1861-1865.
 
 ITS VICTORIES AND ITS REVERSES.
 
@@ -382,7 +382,7 @@ Advance to Pine Knob--The Fight--A Forward Movement      104
 CHAPTER XVII.
 
 Battle of Culp's Farm or Kenesaw mountain--The Glorious
-Fourth--Advance to the Chattachoochie      109
+Fourth--Advance to the Chattahoochie      109
 
 
 CHAPTER XVIII.
@@ -2838,8 +2838,6 @@ Mules behind them
   Pawed, neighed, and thundered.
 Breaking their own confines,
 Breaking through Longstreet's lines,
-*/
-/*
 Into the Georgia troops
   Stormed the two hundred.
 
@@ -3328,7 +3326,7 @@ the Etowah river, which is crossed on pontoons, and a
 halt for the night made on its opposite bank. The next
 morning we resume the weary march, coming into
 line of battle at about 9 <sc>A.M.</sc> We advanced in this
-order up the Raccoon hills, or Alatoona range, until
+order up the Raccoon hills, or Allatoona range, until
 night, when we encamp at Burnt Hickory. The First
 brigade, as advance guard, moved ahead at daybreak,
 via the Burnt Hickory road.
@@ -4701,7 +4699,7 @@ encamped.
 "I am very respectfully, your obedient servant,
 <sc>Jonas Schoonover</sc>,
 Captain commanding Twenty-ninth Ohio Veteran Volunteer
-Infantry.
+Infantry."
 */
 #/
 
