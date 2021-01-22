@@ -44,20 +44,31 @@ A note from the PM on the rosters toward the end of the book (162 and later). Ra
 Some inconsistencies in spelling, hyphenation, and punctuation have been
 retained.
 
-A number of typos in human or place names were found and corrected, some by correlating with names elsewhere in the text.
+Some inconsistencies in human or place names were corrected by correlating
+with names elsewhere in the text.
 
-The errata in the original book, beginning on page {TBD} was applied to the text.
+The errata in the original book, beginning on p. 283, was applied to the text.
 
-p. 60: Inserted a probable missing beginning of paragraph: [It] is perhaps...
+p. 60: Inserted a probable missing beginning of paragraph. ("[It] is perhaps unnecessary")
 
-p. 64: Corrected year in chapter description from 1862 to 1863. Chancellorsville was 1863, and the end of the prior chapter also indicates we are in mid-1863 at this point in the journal.
+p. 64: Corrected year in chapter description from 1862 to 1863. The Battle of
+Chancellorsville took place in 1863, and the end of the prior chapter also
+indicates we are in mid-1863 at this point in the journal.
 
-p. 120: Corrected date "August 2st" to August 1st ("August 1st to 3d, hot firing all the time."). Phrasing "to" vs. "and" makes a date range of larger than 2 days likely, and it's more reasonable to believe the printer misplaced 2 for 1, than misplaced "st" for "nd".
+p. 120: Corrected date "August 2st" to August 1st ("August 1st to 3d, hot firing all the time.").
+The phrasing "to" vs. "and" makes a date range of larger than 2 days likely, and it's
+more reasonable to believe the printer misplaced 2 for 1, than misplaced "st" for "nd".
 
-p. 143: Corrected time from 6:30 to 9:30 ("at 9:30 fell in and marched six miles as rear guard to the Twentieth army corps"). Not logical that they move from 8:00am back to 6:30am, printer presumably set 6 in place of 9, or inverted the 9.
+p. 143: Corrected time from 6:30 to 9:30
+("at 9:30 fell in and marched six miles as rear guard to the Twentieth army corps").
+It's not logical that they would move from 8:00am back to 6:30am in the journal.
+The printer presumably set 6 in place of 9, or inverted the 9.
 
-p. 232: Corrected discharge date for John H. Finneman (confirmed using records found on civilwarindex.com). As-printed, date was June 18, 1865.
+p. 232: Corrected the discharge date for John H. Finneman
+(confirmed using records found on civilwarindex.com).
+As-printed, the date was June 18, 1865.
 
 Source: https://civilwarindex.com/armyoh/rosters/29th_oh_infantry_roster.pdf
 
-p. 241: Corrected Lysander T. King's company from "T" to "F" per company F listing on p. 206.
+p. 241: Corrected Lysander T. King's company from "T" to "F" per the
+company F listing on p. 206.
