@@ -293,133 +293,134 @@ MARION, IOWA, July 18, 1882.
 CONTENTS.
 
 
-/*
-CHAPTER I.
+/$
+  CHAPTER I.
 
-The South Preparing for War--The Fall of Sumter--The Grand
-Rally to the Support of the Flag--Formation of the Regiment      17
+  The South Preparing for War--The Fall of Sumter--The Grand
+  Rally to the Support of the Flag--Formation of the Regiment    17
 
 
-CHAPTER II.
+  CHAPTER II.
 
-The Departure from Camp Giddings--At the Front--Death of
-Lander--Advance up the Valley--Winchester      34
+  The Departure from Camp Giddings--At the Front--Death of
+  Lander--Advance up the Valley--Winchester                      34
 
 
-CHAPTER III.
+  CHAPTER III.
 
-The Battle of Winchester--"Stonewall" Jackson Whipped--Congratulatory
-Orders and Dispatches      39
+  The Battle of Winchester--"Stonewall" Jackson
+  Whipped--Congratulatory Orders and Dispatches                  39
 
 
-CHAPTER IV.
+  CHAPTER IV.
 
-Pursuit of Jackson--The "Long" March--Fredericksburg to Front
-Royal--March to Waynesboro      42
+  Pursuit of Jackson--The "Long" March--Fredericksburg to
+  Front Royal--March to Waynesboro                               42
 
 
-CHAPTER V.
+  CHAPTER V.
 
-Battle of Port Republic--The Twenty-ninth nearly Annihilated      46
+  Battle of Port Republic--The Twenty-ninth nearly Annihilated   46
 
 
-CHAPTER VI.
+  CHAPTER VI.
 
-Cedar Mountain--Battle at that Point--Severe Loss of Life--Forward
-to Alexandria      51
+  Cedar Mountain--Battle at that Point--Severe Loss of
+  Life--Forward to Alexandria                                    51
 
 
-CHAPTER VII.
+  CHAPTER VII.
 
-Return to the Front--Monocacy Bridge--Frederick City--Recruits--Dumfries      58
+  Return to the Front--Monocacy Bridge--Frederick
+  City--Recruits--Dumfries                                       58
 
 
-CHAPTER VIII.
+  CHAPTER VIII.
 
-Battle of Chancellorsville--March to Leesburg--Littletown and
-Gettysburg      64
+  Battle of Chancellorsville--March to Leesburg--Littletown
+  and Gettysburg                                                 64
 
 
-CHAPTER IX.
+  CHAPTER IX.
 
-Battle of Gettysburg--Official Report of General Meade      69
+  Battle of Gettysburg--Official Report of General Meade         69
 
 
-CHAPTER X.
+  CHAPTER X.
 
-Move to Washington--Embark for New York--Return--Transferred
-to the Western Army      75
-*/
-/*
+  Move to Washington--Embark for New York--Return--Transferred
+  to the Western Army                                            75
 
 
-CHAPTER XI.
+  CHAPTER XI.
 
-Spring Campaign of 1864--Murfreesboro--"Corporal" Greene--The
-"Mule Brigade"--Congratulatory      80
+  Spring Campaign of 1864--Murfreesboro--"Corporal"
+  Greene--The "Mule Brigade"--Congratulatory                     80
 
 
-CHAPTER XII.
+  CHAPTER XII.
 
-Lookout Mountain--The Fight--Complimentary Reports--Re-enlistment      84
+  Lookout Mountain--The Fight--Complimentary
+  Reports--Re-enlistment                                         84
 
 
-CHAPTER XIII.
+  CHAPTER XIII.
 
-Shelmound--Wauhatchie Valley--Ringgold--Battle of Dug Gap--On
-the Move      89
+  Shelmound--Wauhatchie Valley--Ringgold--Battle of Dug
+  Gap--On the Move                                               89
 
 
-CHAPTER XIV.
+  CHAPTER XIV.
 
-Battle of Resaca--In pursuit of the Fleeing "Chivalry"(?)      94
+  Battle of Resaca--In pursuit of the Fleeing "Chivalry"(?)      94
 
 
-CHAPTER XV.
+  CHAPTER XV.
 
-Pumpkin Vine Creek--Slight Unpleasantness--Personal      98
+  Pumpkin Vine Creek--Slight Unpleasantness--Personal            98
 
 
-CHAPTER XVI.
+  CHAPTER XVI.
 
-Advance to Pine Knob--The Fight--A Forward Movement      104
+  Advance to Pine Knob--The Fight--A Forward Movement           104
 
 
-CHAPTER XVII.
+  CHAPTER XVII.
 
-Battle of Culp's Farm or Kenesaw mountain--The Glorious
-Fourth--Advance to the Chattahoochie      109
+  Battle of Culp's Farm or Kenesaw mountain--The Glorious
+  Fourth--Advance to the Chattahoochie                          109
 
 
-CHAPTER XVIII.
+  CHAPTER XVIII.
 
-Battle of Peach Tree Creek--Some of the "Boys" visit Andersonville      116
+  Battle of Peach Tree Creek--Some of the "Boys" visit
+  Andersonville                                                 116
 
 
-CHAPTER XIX.
+  CHAPTER XIX.
 
-Siege of Atlanta--The Capitulation      120
+  Siege of Atlanta--The Capitulation                            120
 
 
-CHAPTER XX.
+  CHAPTER XX.
 
-With Sherman to the Sea--Colonel Schoonover's Journal      127
+  With Sherman to the Sea--Colonel Schoonover's Journal         127
 
 
-CHAPTER XXI.
+  CHAPTER XXI.
 
-The Campaign of the Carolinas--Washington--Grand Review--Northward,
-"Good Bye" and "Home Again."      142
+  The Campaign of the Carolinas--Washington--Grand
+  Review--Northward, "Good Bye" and "Home Again."               142
 
 
-General Review      155
+  General Review                                                155
 
 
-Official Roster      159
+  Official Roster                                               159
 
 
-Casualties      234
-*/
+  Casualties                                                    234
+$/
 
 
 
