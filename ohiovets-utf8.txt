@@ -979,7 +979,9 @@ Turner, J. Wilson, H. Wolf, O. O. Wright, R. M. Wilkins, A. Wallace, J.
 Wells.
 
 
-COMPANY I. [Not fully organized.]
+COMPANY I.
+
+[Not fully organized.]
 
   Captain R. B. Smith.
   First Lieutenant A. A. Philbrick.
@@ -3852,8 +3854,6 @@ CAPTAIN SCHOONOVER'S REPORT.
   VETERAN VOLUNTEER INFANTRY.       }
   SAVANNAH, GEORGIA, DEC. 28, 1864. }
 
- [** hanging indent]
-
  A. H. W. Creigh, first lieutenant, and acting assistant
  adjutant-general First brigade, Second division, Twentieth corps:
 
@@ -6068,8 +6068,7 @@ Henry A. Hane (1864), killed at Dug Gap, Georgia, May 8, 1864.
 
 William Hastings (1864), killed at Dallas, Georgia, May 25, 1864.
 
-John W. Steen (1864), killed at Dug Gap, Georgia,[** errata link] May
-8, 1864.
+John W. Steen (1864), killed at Dug Gap, Georgia, May 8, 1864.
 
 Charles A. Downey (1861), wounded at Dug Gap, and died at Ringgold,
 Georgia, May 15, 1864.
@@ -6146,7 +6145,7 @@ COMPANY E.
 Mustered into service September 27, 1861.
 
 Captain Horacio Luce, killed in battle of Port Republic, Virginia, June
-9, 1862.[** errata link]
+9, 1862.
 
 Captain Ebenezer B. Howard, 1862, promoted from second to first
 lieutenant April 13, 1862; captain June 9, 1862; resigned March 6, 1863.
@@ -6172,7 +6171,7 @@ Second Lieutenant Albert Durkee, 1862, promoted from corporal to second
 lieutenant April 13, 1862; resigned July 9, 1862.
 
 Second Lieutenant William B. Quirk, joined for duty September 19, 1862;
-resigned October 27, 1862.[** errata link]
+resigned October 27, 1862.
 
 Second Lieutenant Theodore L. Gould, 1862, promoted from first sergeant
 October 27, 1862; discharged for disability at Georgetown, District of
@@ -6190,7 +6189,7 @@ Sergeant Addison E. Tracy, mustered out with company.
 
 Sergeant William Sterling, mustered out with company.
 
-Sergeant Francis Culver, mustered out with company.[** errata link]
+Sergeant Francis Culver, mustered out with company.
 
 Sergeant Alonzo H. Sterrett, transferred to United States infantry
 November 22, 1864.
@@ -6272,7 +6271,7 @@ Daniel Berringer, absent without leave.
 
 Washington Ellsworth, absent without leave.
 
-John S. Hadlock, absent without leave.[** errata link]
+John S. Hadlock, absent without leave.
 
 Orenus Jones, absent without leave.
 
@@ -6347,8 +6346,7 @@ Ancil O. Benjamin, transferred to company K December 13, 1861.
 Frederick Brown, transferred to Sixth United States cavalry October 31,
 1862.
 
-LeGrand Bivins, transferred to Invalid corps, September[** errata link]
-17, 1863.
+LeGrand Bivins, transferred to Invalid corps, September 17, 1863.
 
 George M. Cowgill, transferred to company K, December 13, 1861.
 
@@ -6393,7 +6391,7 @@ Hamilton Hill, on detached service.
 
 James Jones, mustered out with company.
 
-Robert Vanskoik, mustered out with company.[** errata link]
+Robert Vanskoik, mustered out with company.
 
 Henry Warren, mustered out with company.
 
@@ -6594,9 +6592,9 @@ Job Broughton, discharged June 23, 1862.
 
 Jason Brigg, discharged October 9, 1862.
 
-John W. Beede (1862), discharged December 11, 1862.[**errata link]
+John W. Beede (1862), discharged December 11, 1862.
 
-Caleb S. Beede (1862), discharged March 4, 1863.[**errata link]
+Caleb S. Beede (1862), discharged March 4, 1863.
 
 Miles Chadwick, claimed as minor, no date.
 
@@ -6632,7 +6630,7 @@ Jehiel Maltby (1862), discharged April 10, 1863.
 
 Frederick Meno, discharged August 12, 1862.
 
-Eliphalet S. Ontis, discharged November 12, 1862.[** errata link]
+Eliphalet S. Ontis, discharged November 12, 1862.
 
 George A. Patcher, discharged December 12, 1862.
 
@@ -6666,7 +6664,7 @@ John A. Austin, died April 2, 1862.
 
 Hiram E. Balch, died February 18, 1862.
 
-John J. Belnap, wounded, died June 15, 1864.[**errata link]
+John J. Belnap, wounded, died June 15, 1864.
 
 Franklin Dimock, died February 18, 1862.
 
@@ -6750,7 +6748,7 @@ David Nichols, substitute, mustered out with company.
 
 Columbus Shoemaker, substitute, mustered out with company.
 
-William P. Viers, substitute, mustered out with company.[**errata link]
+William P. Viers, substitute, mustered out with company.
 
 Joseph Weaver, substitute, mustered out with company.
 
@@ -6773,11 +6771,11 @@ Ephraim Odell, substitute, died February 1, 1865.
 Elmore Stevens (1864), died July 10, 1864.
 
 George Williams (1864), died of wounds at Kenesaw Mountain, Georgia,
-June 27,[**errata link] 1864.
+June 27, 1864.
 
 Franklin A. Helwig (1864), discharged May 27, 1865.
 
-William Batchelder (1864), discharged June 17, 1865.[**errata link]
+William Batchelder (1864), discharged June 17, 1865.
 
 William F. Babcock, substitute, discharged June 5, 1865.
 
@@ -6801,7 +6799,7 @@ Martin Freshcorn, substitute, discharged June 5, 1865.
 
 Jacob Histend, drafted, discharged June 5, 1865.
 
-Decatur Humphrey (1862), discharged May 22, 1865.[**errata link]
+Decatur Humphrey (1862), discharged May 22, 1865.
 
 Alpheus W. Hardy (1862), discharged June 5, 1865.
 
@@ -6830,7 +6828,7 @@ COMPANY G.
 Mustered into service September 30, 1861.
 
 Captain John S. Clemmer, commissioned captain September 30, 1861;
-promoted major December 21, 1861.[**errata link]
+promoted major December 21, 1861.
 
 Captain Josiah J. Wright, commissioned first lieutenant September 30,
 1861; promoted captain December 21, 1861; resigned October 1, 1862.
@@ -6922,7 +6920,7 @@ Corporal William Wirt, died at Nashville, Tennessee, June 30, 1864.
 
 Corporal Franklin Wirt, no record.
 
-Corporal Mills M. Martin, absent without leave.[**errata link]
+Corporal Mills M. Martin, absent without leave.
 
 Corporal E. B. Hubbard, absent without leave.
 
@@ -6935,7 +6933,7 @@ Corporal G. F. Hewett (veteran), mustered out with company.
 
 PRIVATES.
 
-William Fisher, captured June 9, 1862.[** errata link]
+William Fisher, captured June 9, 1862.
 
 John Gross, served three years.
 
@@ -6972,7 +6970,7 @@ Newton P. Humison, died in rebel prison July 28, 1862.
 
 Joseph Loomis, died at Cumberland, Maryland, February 26, 1862.
 
-Tallis E. McCain, died of wounds, August 8, 1863.[** errata link]
+Tallis E. McCain, died of wounds, August 8, 1863.
 
 James L. Smith (1862), died at Dumfries, Virginia, March 3, 1863.
 
@@ -7111,8 +7109,7 @@ James McPeck (1864), substitute, mustered out with company.
 
 Anderson Montague (1864), drafted, in hospital April 28, 1865.
 
-James Sines (1864), substitute, in hospital December[**errata link] 21,
-1864.
+James Sines (1864), substitute, in hospital December 21, 1864.
 
 John L. Shipman (1864), substitute, in hospital April 25, 1865.
 
@@ -7127,8 +7124,7 @@ February 12, 1865.
 
 Jacob D. Foster (veteran), died March 29, 1864.
 
-Mitchell Babbington (1864), substitute, died December[**errata link]
-11, 1864.
+Mitchell Babbington (1864), substitute, died December 11, 1864.
 
 Adam Hulbert (1864), substitute, died March 25, 1865.
 
@@ -7251,7 +7247,7 @@ Corporal George Nichols, mustered out with company.
 
 Corporal George Manning (1862), mustered out with company.
 
-Henry Morgan (musician), discharged July 19, 1862.[** errata link]
+Henry Morgan (musician), discharged July 19, 1862.
 
 Corporal John Bissell (1862), mustered out with company.
 
@@ -7399,7 +7395,7 @@ Elisha H. Pursell (1862), died in 1865.
 
 John H. Wright (1862), discharged September 21, 1864.
 
-Hiram Boyd, substitute, mustered out with company.[**errata link]
+Hiram Boyd, substitute, mustered out with company.
 
 John Buck, (1864), mustered out with company.
 
@@ -7411,8 +7407,7 @@ John V. Cummings (1864), substitute, mustered out with company.
 
 John Cowan (1864), drafted, discharged June 5, 1865.
 
-William Durant (1864), died at Resaca, Georgia,[**errata link] May 25,
-1864.
+William Durant (1864), died at Resaca, Georgia, May 25, 1864.
 
 Anton Ehrlar, substitute, discharged June 23, 1865.
 
@@ -7482,9 +7477,9 @@ Mustered into service September, October and November, and December,
 
 Captain Russell B. Smith, resigned June 12, 1863.
 
-Captain Edwin B. Woodbury, promoted second lieutenant[**errata link]
-March 13, 1862; first lieutenant, April 14, 1863; captain, June 29,
-1864; major, July 12, 1865; mustered out with company.
+Captain Edwin B. Woodbury, promoted second lieutenant March 13, 1862;
+first lieutenant, April 14, 1863; captain, June 29, 1864; major, July
+12, 1865; mustered out with company.
 
 First Lieutenant Augustus Philbrick, resigned March 3, 1862.
 
@@ -7520,8 +7515,8 @@ Sergeant Thomas Henderson, died September 10, 1864.
 
 Sergeant Cassius C. Lord, transferred to non-commissioned staff.
 
-Sergeant Newton B. Adams, transferred to Veteran[**errata link] Reserve
-corps January 23, 1865.
+Sergeant Newton B. Adams, transferred to Veteran Reserve corps January
+23, 1865.
 
 Corporal Warren F. Wilbur, died May 16, 1863.
 
@@ -7545,8 +7540,8 @@ Corporal DeWitt C. Stevens, mustered out with company.
 
 Corporal Eli Rushon, mustered out with company.
 
-Corporal Albert Bishop, killed at Kenesaw Mountain, Georgia,[** errata
-link] July 2, 1864.
+Corporal Albert Bishop, killed at Kenesaw Mountain, Georgia, July 2,
+1864.
 
 Joseph Baker, killed at Atlanta, Georgia, July 18, 1864.
 
@@ -7562,7 +7557,7 @@ Henry Rupp, killed at Dug Gap, Georgia, May 8, 1864.
 
 John Craig, died April 15, 1862.
 
-George W. Craighl, died October 7, 1862.[** errata link]
+George W. Craighl, died October 7, 1862.
 
 William Dickinson, died of wounds, June 13, 1863.
 
@@ -7675,11 +7670,11 @@ William E. Dickey, mustered out with company.
 
 William Eldred, mustered out with company.
 
-William Gilbert, mustered out in hospital.[**errata link]
+William Gilbert, mustered out in hospital.
 
 Philip Hawk, mustered out with company.
 
-Cosom M. Kindig, mustered out July 5, 1865.[**errata link]
+Cosom M. Kindig, mustered out July 5, 1865.
 
 James Miller, mustered out with company.
 
@@ -7693,7 +7688,7 @@ Sereno F. Sawyer, mustered out with company.
 
 William Waterman, mustered out with company.
 
-Ferdinand Cutler, mustered out in hospital.[**errata link]
+Ferdinand Cutler, mustered out in hospital.
 
 Willard Trall, mustered out with company.
 
@@ -7748,7 +7743,7 @@ Christian Fetterhoff, drafted, discharged June 5, 1865.
 
 John Ford, drafted, discharged June 5, 1865.
 
-Theodore Hawk, discharged June 2, 1865.[** errata link]
+Theodore Hawk, discharged June 2, 1865.
 
 Thomas Hill, substitute, discharged June 2, 1865.
 
@@ -7796,15 +7791,15 @@ first lieutenant January 26, 1863; captain April 1, 1865; mustered out
 with company.
 
 Captain David E. Hurlburt, promoted to captain April 13, 1862;
-discharged August 29, 1864.[**errata link]
+discharged August 29, 1864.
 
 Lieutenant William Neil, transferred to company E January 5, 1863.
 
 First Lieutenant Marcus F. Roberts, sergeant of company A, promoted to
 first lieutenant of company K May 31, 1865; mustered out with company.
 
-First Lieutenant Wilbur F. Chamberlain, promoted to[**errata link]
-captain of company G, October 12, 1864.[**errata link]
+First Lieutenant Wilbur F. Chamberlain, promoted to captain of company
+G, October 12, 1864.
 
 Second Lieutenant Benjamin N. Smith, promoted May 1, 1862; discharged
 March 16, 1864.
@@ -7869,7 +7864,7 @@ Byron Bulfinch (1862), died at Frederick, Maryland, October 28, 1862.
 Orlando Clark, died at Strasburg, Virginia, May 13, 1862.
 
 Philander M. Griggs, wounded at Cedar Mountain, August 9, 1862, died at
-Alexandria, Virginia,[**errata link] October 3, 1862.
+Alexandria, Virginia, October 3, 1862.
 
 John L. Haywood, died at Back Creek, Virginia, March 13, 1862.
 
@@ -7978,8 +7973,7 @@ George W. Weeks (1862), discharged November 3, 1862.
 
 Charles W. Wilson, discharged October 10, 1862.
 
-George W. Craighl, transferred to company I, December[**errata link]
-27, 1861.
+George W. Craighl, transferred to company I, December 27, 1861.
 
 Thomas Shultz, transferred to company E, December 18, 1861.
 
@@ -8058,7 +8052,7 @@ John H. Finneman, drafted, discharged June 19, 1865.
 
 Henry C. Farnsworth, drafted, discharged June 19, 1865.
 
-John Green, drafted, discharged June 19, 1865.[**errata link]
+John Green, drafted, discharged June 19, 1865.
 
 John W. Hutchinson, drafted, discharged June 19, 1865.
 
@@ -8106,7 +8100,7 @@ KILLED IN ACTION.
 
 1861.
 
-Private Charles A. Clapp, company D, December 5,[**2 errata links] 1861.
+Private Charles A. Clapp, company D, December 5, 1861.
 
 
 1862.
@@ -8121,11 +8115,11 @@ Private Hiram E. Balch, company F, February 18, 1862.
 
 Private Marshal A. Brown, company A, March 10, 1862.
 
-Private Conant Brainard, company B, April 30, 1862.[**errata link]
+Private Conant Brainard, company B, April 30, 1862.
 
 Private Oren Brewer, company E, May 23, 1862.
 
-Private Charles F. Baur, company B, April 19, 1862.[**errata link]
+Private Charles F. Baur, company B, April 19, 1862.
 
 Private Andrew Beardsley, company E, July 29, 1862.
 
@@ -8173,7 +8167,7 @@ Private John L. Hayward, company K, March 13, 1862.
 
 Private David N. Hubbard, company I, March 20, 1862.
 
-Private Elisha Hamilton, company D, June 24, 1862.[**errata link]
+Private Elisha Hamilton, company D, June 24, 1862.
 
 Private Herman O. Holmes, company B, April 6, 1862.
 
@@ -8201,7 +8195,7 @@ Private Robert McFall, company B, June 27, 1862.
 
 Private Oney McGee, company K, July 14, 1862.
 
-Private Alvin W. Niman, company D, February 13,[**errata link] 1862.
+Private Alvin W. Niman, company D, February 13, 1862.
 
 Private Peter Nicholas, company D, April 19, 1862.
 
@@ -8221,7 +8215,7 @@ Private Harvey A. Reaves, company E, May 28, 1862.
 
 Private Martin Ranney, company K, July 11, 1862.
 
-Private Ellison Reed, Jr., company F, November 1,[**errata link] 1862.
+Private Ellison Reed, Jr., company F, November 1, 1862.
 
 Private Norman Salisbury, company H, April 3, 1862.
 
@@ -8237,7 +8231,7 @@ Sergeant Edwin Williams, company F, May 23, 1862.
 
 Private O. O. Wakeman, company I, April 29, 1862.
 
-Private Andrew A. Wolcott, company D, September 4,[**errata link] 1862.
+Private Andrew A. Wolcott, company D, September 4, 1862.
 
 Private James H. Whitney, company F, June 3, 1862.
 
@@ -8287,7 +8281,7 @@ Private C. Robinson, company E, June 21, 1863.
 
 Private H. M. Ryder, company C, September 25, 1863.
 
-Sergeant George Sherbondy, company G, April 24,[**errata link] 1863.
+Sergeant George Sherbondy, company G, April 24, 1863.
 
 Private James L. Smith, company G, March 4, 1863.
 
@@ -8306,11 +8300,11 @@ Private Elias Waltz, company D, April 10, 1863.
 
 Private Albert W. Atwater, company E, July 4, 1864.
 
-Private George F. Braggington, company G, May 16,[**errata link] 1864.
+Private George F. Braggington, company G, May 16, 1864.
 
-Private Andrew J. Bright, company B, June 2, 1864.[**errata link]
+Private Andrew J. Bright, company B, June 2, 1864.
 
-Private John J. Belknap, company F, June 18, 1864.[**errata link]
+Private John J. Belknap, company F, June 18, 1864.
 
 Private Levi Baughman, company D, September 2, 1864.
 
@@ -8462,7 +8456,7 @@ Private Addison A. Way, company E, April 19, 1865.
 Corporal George J. Young, company D, June 14, 1865.
 
 
-[** hanging indent]
+
 
  RECORD OF KILLED, WOUNDED AND CAPTURED IN THE TWENTY-NINTH OHIO
  VOLUNTEERS DURING THE YEAR 1862.
@@ -9188,8 +9182,6 @@ Private D. McIntyre, captured June 9, 1862, Port Republic, Virginia.
 Private J. Jenks, captured June 9, 1862, Port Republic, Virginia.
 
 
-[** hanging indent]
-
  RECORD OF KILLED, WOUNDED AND MISSING OF THE TWENTY-NINTH OHIO
  VOLUNTEERS AT THE BATTLE OF CHANCELLORSVILLE, VIRGINIA, ON THE 1ST, 2D
  AND 3D OF MAY, 1863.
@@ -9353,8 +9345,6 @@ RECAPITULATION.
   Casualties                                                    72
 
 
-[** hanging indent]
-
  RECORD OF KILLED AND WOUNDED OF THE TWENTY-NINTH OHIO VOLUNTEERS AT
  THE BATTLE OF GETTYSBURG, PENNSYLVANIA, JULY 2D AND 3D, 1863.
 
@@ -9446,8 +9436,6 @@ RECAPITULATION.
               --
     Total     40
 
-
-[** hanging indent]
 
  RECORD OF CASUALTIES OF THE TWENTY-NINTH REGIMENT OHIO VOLUNTEERS,
  FROM MAY 3, 1864, TO JANUARY 27, 1865.
@@ -10215,8 +10203,6 @@ easily distinguished.
   Late Co. D, 29th Regiment.
 
 
-[** hanging indent]
-
  REPORT OF CASUALTIES IN THE TWENTY-NINTH OHIO VOLUNTEER VETERAN
  INFANTRY, FROM JANUARY 27 TO MARCH 26, 1865.
 
@@ -10246,8 +10232,6 @@ Private Adam Hulbert, company G, wounded March 24, 1865.
 
 Private Thomas Bonner, company A, missing March 11, 1865.
 
-
-[** hanging indent]
 
  AGGREGATE LOSSES OF KILLED, WOUNDED, AND MISSING OF THE TWENTY-NINTH
  REGIMENT OHIO VETERAN VOLUNTEER INFANTRY IN EACH BATTLE, FROM THE
