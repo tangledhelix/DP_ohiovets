@@ -301,7 +301,7 @@ $::operationshash{'Begin HTML Markup'}='2021-01-07 05:09';
 $::operationshash{'Check hyphens'}='2021-01-16 07:07';
 $::operationshash{'Open /dp/pp/ohiovets/ohiovets.html'}='2021-01-24 17:12';
 
-$::bookmarks[0] = '397.0';
+$::bookmarks[0] = '345.27';
 $::bookmarks[1] = '10891.10';
 
 $::pngspath = '/dp/pp/ohiovets/pngs/';
