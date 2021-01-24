@@ -1,4 +1,3 @@
-[** UTF8 preservation hack: Phœnix]
 
 Transcriber's Note: Italic text is denoted by _underscores_
 
