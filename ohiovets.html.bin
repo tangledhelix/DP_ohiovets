@@ -303,7 +303,7 @@ $::operationshash{'Begin HTML Markup'}='2021-01-07 05:09';
 $::operationshash{'Begin HTML Generation'}='2021-03-12 09:16';
 $::operationshash{'Open /dp/pp/ohiovets/ohiovets-utf8.txt'}='2021-01-22 15:16';
 
-$::bookmarks[0] = '269.4';
+$::bookmarks[0] = '12839.83';
 $::bookmarks[1] = '11436.13';
 
 $::pngspath = '/Users/dan/dp/pp/ohiovets/pngs/';
