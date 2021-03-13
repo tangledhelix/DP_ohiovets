@@ -303,7 +303,7 @@ $::operationshash{'Open /dp/pp/ohiovets/ohiovets-utf8.txt'}='2021-01-22 15:16';
 $::operationshash{'Bookloupe'}='2021-01-18 05:40';
 $::operationshash{'Stealth Scannos'}='2021-01-17 04:20';
 
-$::bookmarks[0] = '13007.40';
+$::bookmarks[0] = '13009.34';
 $::bookmarks[1] = '72.20';
 $::bookmarks[2] = '546.28';
 
