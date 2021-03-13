@@ -280,7 +280,7 @@
  'Pg279' => {'offset' => '12772.53', 'label' => 'Pg 281', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg280' => {'offset' => '12823.9', 'label' => 'Pg 282', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg281' => {'offset' => '12873.48', 'label' => 'Pg 283', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg282' => {'offset' => '12933.75', 'label' => 'Pg 284', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg282' => {'offset' => '12933.99', 'label' => 'Pg 284', 'style' => '"', 'action' => '+1', 'base' => ''},
 );
 
 $::operationshash{'Check MiXeD CasE'}='2021-01-16 07:13';
@@ -303,7 +303,7 @@ $::operationshash{'Open /dp/pp/ohiovets/ohiovets-utf8.txt'}='2021-01-22 15:16';
 $::operationshash{'Bookloupe'}='2021-01-18 05:40';
 $::operationshash{'Stealth Scannos'}='2021-01-17 04:20';
 
-$::bookmarks[0] = '13009.34';
+$::bookmarks[0] = '12960.35';
 $::bookmarks[1] = '72.20';
 $::bookmarks[2] = '546.28';
 

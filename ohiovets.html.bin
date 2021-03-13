@@ -155,7 +155,7 @@
  'Pg154' => {'offset' => '5878.52', 'label' => 'Pg 156', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg155' => {'offset' => '5914.41', 'label' => 'Pg 157', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg156' => {'offset' => '5952.58', 'label' => 'Pg 158', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg157' => {'offset' => '5962.47', 'label' => 'Pg 159', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg157' => {'offset' => '5962.48', 'label' => 'Pg 159', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg158' => {'offset' => '6003.26', 'label' => 'Pg 160', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg159' => {'offset' => '6047.56', 'label' => 'Pg 161', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg160' => {'offset' => '6093.59', 'label' => 'Pg 162', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -303,7 +303,7 @@ $::operationshash{'Open /dp/pp/ohiovets/ohiovets-utf8.txt'}='2021-01-22 15:16';
 $::operationshash{'Bookloupe'}='2021-01-18 05:40';
 $::operationshash{'Stealth Scannos'}='2021-01-17 04:20';
 
-$::bookmarks[0] = '12960.35';
+$::bookmarks[0] = '1.0';
 $::bookmarks[1] = '72.20';
 $::bookmarks[2] = '546.28';
 
