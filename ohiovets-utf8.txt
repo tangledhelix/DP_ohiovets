@@ -10387,10 +10387,9 @@ printer presumably set 6 in place of 9, or inverted the 9.
 
 p. 232: Corrected the discharge date for John H. Finneman (confirmed
 using records found on civilwarindex.com). As-printed, the date was
-June 18, 1865.
-
-Source:
+June 18, 1865. Source:
 https://civilwarindex.com/armyoh/rosters/29th_oh_infantry_roster.pdf
+(Collected on January 23, 2021.)
 
 p. 241: Corrected Lysander T. King's company from "T" to "F" per the
 company F listing on p. 206.
