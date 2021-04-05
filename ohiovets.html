@@ -215,6 +215,10 @@ img.w100 {width: 100%;}
 /* .poetry           {display: inline-block;} */
 .poetry .stanza   {margin: 1em auto;}
 .poetry .verse    {text-indent: -3em; padding-left: 3em;}
+.poetry .indent25   {text-indent: -2.5em; padding-left: 3em;}
+.poetry .indent2    {text-indent: -2em; padding-left: 3em;}
+.poetry .indent1    {text-indent: -1em; padding-left: 3em;}
+.poetry .indent0    {text-indent: -0em; padding-left: 3em;}
 /* large inline blocks don't split well on paged devices */
 @media print { .poetry {display: block;} }
 .x-ebookmaker .poetry {display: block;}
@@ -3204,67 +3208,85 @@ Greene, who happily turned defeat into a heroic victory.</p>
 <p>The following lines, composed by one of our command,
 fully relates the grand finale and</p>
 
-<p>CHARGE OF THE MULE BRIGADE.</p>
+<div class="poetry-container">
 
-<p>
-Half a mile, half a mile,<br />
-Half a mile onward,<br />
-Right towards the Georgia troops<br />
-<span style="margin-left: 1em;">Broke the two hundred.</span><br />
-"Forward the Mule Brigade,<br />
-Charge for the rebs!" they neighed;<br />
-Straight for the Georgia troops<br />
-<span style="margin-left: 1em;">Broke the two hundred.</span><br />
-<br />
-"Forward the Mule Brigade!"<br />
-Was there a mule dismayed?<br />
-Not when the long ears felt<br />
-<span style="margin-left: 1em;">All their ropes sundered.</span><br />
-Theirs not to make reply;<br />
-Theirs not to reason why;<br />
-Theirs but to make them fly;<br />
-On to the Georgia troops<br />
-<span style="margin-left: 1em;">Broke the two hundred.</span><br />
-<br />
-Mules to the right of them,<br />
-Mules to the left of them,<br />
-Mules behind them<br />
-<span style="margin-left: 1em;">Pawed, neighed, and thundered.</span><br />
-Breaking their own confines,<br />
-Breaking through Longstreet's lines,<span class="pagenum" id="Page_83">[83]</span><br />
-Into the Georgia troops<br />
-<span style="margin-left: 1em;">Stormed the two hundred.</span><br />
-<br />
-Wild all their eyes did glare,<br />
-Whisked all their tails in air,<br />
-Scatt'ring the chivalry there,<br />
-<span style="margin-left: 1em;">While all the world wondered.</span><br />
-Not a mule's back bestraddled,<br />
-Yet how they all skedaddled;<br />
-Fled every Georgian<br />
-Unsabred, unsaddled,<br />
-Scattered and sundered.<br />
-How they were routed there<br />
-<span style="margin-left: 1em;">By the two hundred.</span><br />
-<br />
-Mules to the right of them,<br />
-Mules to the left of them.<br />
-Mules behind them<br />
-<span style="margin-left: 1em;">Pawed, neighed, and thundered;</span><br />
-Followed by hoof and head<br />
-Full many a hero fled,<br />
-Fain in the last ditch dead;<br />
-Back from an "ass's jaw,"<br />
-All that was left of them&mdash;<br />
-<span style="margin-left: 1em;">Left by the two hundred.</span><br />
-<br />
-When can their glory fade?<br />
-Oh! the wild charge they made!<br />
-<span style="margin-left: 1em;">All the world wondered.</span><br />
-Honor the charge they made,<br />
-Honor the Mule Brigade&mdash;<br />
-<span style="margin-left: 1em;">Long-eared two hundred.</span><br />
-</p>
+<div class="poetry">
+  <div>CHARGE OF THE MULE BRIGADE.</div>
+
+  <div class="stanza">
+    <div class="verse indent2">Half a mile, half a mile,</div>
+    <div class="verse indent2">Half a mile onward,</div>
+    <div class="verse indent2">Right towards the Georgia troops</div>
+    <div class="verse indent1">Broke the two hundred.</div>
+    <div class="verse indent25">"Forward the Mule Brigade,</div>
+    <div class="verse indent2">Charge for the rebs!" they neighed;</div>
+    <div class="verse indent2">Straight for the Georgia troops</div>
+    <div class="verse indent1">Broke the two hundred.</div>
+  </div>
+
+  <div class="stanza">
+    <div class="verse indent25">"Forward the Mule Brigade!"</div>
+    <div class="verse indent2">Was there a mule dismayed?</div>
+    <div class="verse indent2">Not when the long ears felt</div>
+    <div class="verse indent1">All their ropes sundered.</div>
+    <div class="verse indent2">Theirs not to make reply;</div>
+    <div class="verse indent2">Theirs not to reason why;</div>
+    <div class="verse indent2">Theirs but to make them fly;</div>
+    <div class="verse indent2">On to the Georgia troops</div>
+    <div class="verse indent1">Broke the two hundred.</div>
+  </div>
+
+  <div class="stanza">
+    <div class="verse indent2">Mules to the right of them,</div>
+    <div class="verse indent2">Mules to the left of them,</div>
+    <div class="verse indent2">Mules behind them</div>
+    <div class="verse indent1">Pawed, neighed, and thundered.</div>
+    <div class="verse indent2">Breaking their own confines,</div>
+    <div class="verse indent2">Breaking through Longstreet's lines,<span class="pagenum" id="Page_83">[83]</span></div>
+    <div class="verse indent2">Into the Georgia troops</div>
+    <div class="verse indent1">Stormed the two hundred.</div>
+  </div>
+
+  <div class="stanza">
+    <div class="verse indent2">Wild all their eyes did glare,</div>
+    <div class="verse indent2">Whisked all their tails in air,</div>
+    <div class="verse indent2">Scatt'ring the chivalry there,</div>
+    <div class="verse indent1">While all the world wondered.</div>
+    <div class="verse indent2">Not a mule's back bestraddled,</div>
+    <div class="verse indent2">Yet how they all skedaddled;</div>
+    <div class="verse indent2">Fled every Georgian</div>
+    <div class="verse indent2">Unsabred, unsaddled,</div>
+    <div class="verse indent2">Scattered and sundered.</div>
+    <div class="verse indent2">How they were routed there</div>
+    <div class="verse indent1">By the two hundred.</div>
+  </div>
+
+  <div class="stanza">
+    <div class="verse indent2">Mules to the right of them,</div>
+    <div class="verse indent2">Mules to the left of them.</div>
+    <div class="verse indent2">Mules behind them</div>
+    <div class="verse indent1">Pawed, neighed, and thundered;</div>
+    <div class="verse indent2">Followed by hoof and head</div>
+    <div class="verse indent2">Full many a hero fled,</div>
+    <div class="verse indent2">Fain in the last ditch dead;</div>
+    <div class="verse indent2">Back from an "ass's jaw,"</div>
+    <div class="verse indent2">All that was left of them&mdash;</div>
+    <div class="verse indent1">Left by the two hundred.</div>
+  </div>
+
+  <div class="stanza">
+    <div class="verse indent2">When can their glory fade?</div>
+    <div class="verse indent2">Oh! the wild charge they made!</div>
+    <div class="verse indent1">All the world wondered.</div>
+    <div class="verse indent2">Honor the charge they made,</div>
+    <div class="verse indent2">Honor the Mule Brigade&mdash;</div>
+    <div class="verse indent1">Long-eared two hundred.</div>
+</div>
+
+</div>
+</div>
+
+</div>
 
 <p>Major-general George H. Thomas issued an order
 complimenting the column under Major-general Hooker,
@@ -5701,17 +5723,24 @@ to speak to the end of all time, and dear to each patriot
 heart will ever be the memory of those who died in
 defense of the Union.</p>
 
-<p>
-"There are many<br />
-Patriots have toiled in their country's cause,<br />
-Bled nobly, and their deeds, as they deserve,<br />
-Receive proud recompense. We give in charge<br />
-Their names to the sweet lyre. The historic muse<br />
-Proud of her charge, marches with it down<br />
-To latest time: and sculpture, in her turn,<br />
-Gives bond, in stone and ever-during brass,<br />
-To guard and immortalize her trust."<br />
-</p>
+<div class="poetry-container">
+
+<div class="poetry">
+  <div class="stanza">
+    <div class="verse indent1">"There are many</div>
+    <div class="verse">Patriots have toiled in their country's cause,</div>
+    <div class="verse">Bled nobly, and their deeds, as they deserve,</div>
+    <div class="verse">Receive proud recompense. We give in charge</div>
+    <div class="verse">Their names to the sweet lyre. The historic muse</div>
+    <div class="verse">Proud of her charge, marches with it down</div>
+    <div class="verse">To latest time: and sculpture, in her turn,</div>
+    <div class="verse">Gives bond, in stone and ever-during brass,</div>
+    <div class="verse">To guard and immortalize her trust."</div>
+  </div>
+</div>
+
+</div>
+
 </div>
 
 <p>At Bladensburg we went into camp, and remained
@@ -5770,9 +5799,15 @@ every State and Territory in this vast Union. Annually
 they come together in re-union at some convenient point
 in Puritan Western Reserve, and</p>
 
-<p>
-"Fight their battles o'er again."<br />
-</p>
+<div class="poetry-container">
+
+<div class="poetry">
+  <div class="stanza">
+    <div class="verse">"Fight their battles o'er again."</div>
+  </div>
+</div>
+
+</div>
 
 <p>Each year a committee is appointed whose duty it is
 to draft resolutions of condolence to the memory of the
@@ -5783,14 +5818,20 @@ its predecessor, and it does not require a long look into
 the future to find only the roll&mdash;no one to call it, and
 none to answer to their names if called.</p>
 
-<p>
-Absent "comrades, gone before us<br />
-In the 'great review' to pass&mdash;<br />
-Never more to earthly chieftain<br />
-Dipping colors as ye pass&mdash;<br />
-Heaven accord ye gentle judgment<br />
-As before the throne ye pass."<br />
-</p>
+<div class="poetry-container">
+
+<div class="poetry">
+  <div class="stanza">
+    <div class="verse">Absent "comrades, gone before us</div>
+    <div class="verse">In the 'great review' to pass&mdash;</div>
+    <div class="verse">Never more to earthly chieftain</div>
+    <div class="verse">Dipping colors as ye pass&mdash;</div>
+    <div class="verse">Heaven accord ye gentle judgment</div>
+    <div class="verse">As before the throne ye pass."</div>
+  </div>
+</div>
+
+</div>
 
 <p>While almost within gun shot of the site of the canvass
 covered field of 1861, busily engaged in well nigh
