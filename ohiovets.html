@@ -66,8 +66,32 @@ table.autotable td,
 table.autotable th { padding: 4px; }
 
 .tdl      {text-align: left;}
+.tdl1     {text-align: left; text-indent: 1em;}
 .tdr      {text-align: right;}
 .tdc      {text-align: center;}
+
+/* for most complex table on p. 282, set borders */
+/* header row cells all get top and bottom border */
+.losses .head {
+  border-top-style: double;
+  border-bottom-style: solid;
+}
+/* all columns get a right border, except for the right-most column */
+.losses td {
+  border-right-style: solid;
+}
+.losses .lastcol {
+  border-right-style: none;
+}
+/* last row gets a bottom border */
+.losses .lastrow {
+  border-bottom-style: solid;
+}
+.losses .lastrow td { padding-top: 15px; }
+/* total boxes at lower right also get a top. */
+.losses .totalbox {
+  border-top-style: solid;
+}
 
 td.toc {width: 100;}
 td.toc span:first-child {}
@@ -11761,15 +11785,55 @@ heard from.</p>
 
 <p>Lieutenant E. J. Hurlburt, company A, wounded.</p>
 
-<p>RECAPITULATION.</p>
+<p class="center">RECAPITULATION.</p>
 
-<p>
-Commissioned officers                    Killed 0. Wounded,  3. Missing,  1<br />
-Non-commissioned officers and privates   Killed 2. Wounded, 42. Missing, 26<br />
-<span style="margin-left: 24em;">&mdash;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &mdash;-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &mdash;</span><br />
-<span style="margin-left: 1em;">Total&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Killed 2. Wounded, 45. Missing, 27</span><br />
-Casualties                                                               72<br />
-</p>
+<table class="autotable" summary="">
+<tr>
+<td class="tdl">Commissioned officers</td>
+<td class="tdl">Killed</td>
+<td class="tdr">0.</td>
+<td class="tdl">Wounded,</td>
+<td class="tdr">3.</td>
+<td class="tdl">Missing,</td>
+<td class="tdr">1</td>
+</tr>
+<tr>
+<td class="tdl">Non-commissioned officers and privates</td>
+<td class="tdl">Killed</td>
+<td class="tdr">2.</td>
+<td class="tdl">Wounded,</td>
+<td class="tdr">42.</td>
+<td class="tdl">Missing,</td>
+<td class="tdr">26</td>
+</tr>
+<tr>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&mdash;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&mdash;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&mdash;</td>
+</tr>
+<tr>
+<td class="tdl1">Total</td>
+<td class="tdl">Killed</td>
+<td class="tdr">2.</td>
+<td class="tdl">Wounded,</td>
+<td class="tdr">45.</td>
+<td class="tdl">Missing,</td>
+<td class="tdr">27</td>
+</tr>
+<tr>
+<td class="tdl">Casualties</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdr">72</td>
+</tr>
+</table>
 
 <p>[** hanging indent]
 <div class="blockquot">
@@ -11861,14 +11925,26 @@ PENNSYLVANIA, JULY 2D AND 3D, 1863.</p>
 
 <p>Private C. Hedrick, company A, wounded.</p>
 
-<p>RECAPITULATION.</p>
+<p class="center">RECAPITULATION.</p>
 
-<p>
-Killed       7<br />
-Wounded     33<br />
-<span style="margin-left: 6em;">&mdash;</span><br />
-<span style="margin-left: 1em;">Total&nbsp; &nbsp;  40</span><br />
-</p>
+<table class="autotable" summary="">
+<tr>
+<td class="tdl">Killed</td>
+<td class="tdr">7</td>
+</tr>
+<tr>
+<td class="tdl">Wounded</td>
+<td class="tdr">33</td>
+</tr>
+<tr>
+<td class="tdl">&nbsp;</td>
+<td class="tdr">&mdash;</td>
+</tr>
+<tr>
+<td class="tdl1">Total</td>
+<td class="tdr">40</td>
+</tr>
+</table>
 
 <p>[** hanging indent]
 <div class="blockquot">
@@ -12788,43 +12864,205 @@ March 11, 1865.</p>
 <p>Private Thomas Bonner, company A, missing March
 11, 1865.</p>
 
-<p>[** hanging indent]
-<div class="blockquot">
+<!-- [** hanging indent] -->
 
-<p>AGGREGATE LOSSES OF KILLED, WOUNDED, AND MISSING
+<p class="center">AGGREGATE LOSSES OF KILLED, WOUNDED, AND MISSING
 OF THE TWENTY-NINTH REGIMENT OHIO VETERAN
 VOLUNTEER INFANTRY IN EACH BATTLE, FROM THE ORGANIZATION
 OF THE REGIMENT, SEPTEMBER, 1861, TO
 JUNE 1, 1865.</p>
-</div>
 
-<p>
-=========================================================================================<br />
-Names of Battle.  |Place.        |Date.      | Killed. | Wounded. | Missing. | Aggregate.<br />
-&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;+&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;+&mdash;&mdash;&mdash;&mdash;&mdash;-+&mdash;&mdash;&mdash;&mdash;-+&mdash;&mdash;&mdash;&mdash;&mdash;+&mdash;&mdash;&mdash;&mdash;&mdash;+&mdash;&mdash;&mdash;&mdash;&mdash;-<br />
-<span style="margin-left: 9em;">|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 1862.&nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |</span><br />
-Winchester        |Virginia      |March 23   |        5|         7|         2|         14<br />
-Port Republic     |Virginia      |June 9     |       12|        33|       105|        150<br />
-Cedar Mountain    |Virginia      |August 9   |       11|        26|        12|         49<br />
-Chancellorsville  |Virginia      |May 1, 2, 3|        4|        42|        25|         71<br />
-<span style="margin-left: 9em;">|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 1863&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |</span><br />
-Gettysburg        |Pennsylvania  |July 3     |        9|        35|         1|         45<br />
-<span style="margin-left: 9em;">|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 1864&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |</span><br />
-Mill Creek Gap    |Georgia       |May 8      |       26|        67|         1|         94<br />
-Resaca            |Georgia       |May 15     |         |         2|          |          2<br />
-New Hope Church   |Georgia       |May 25     |        6|        24|         1|         31<br />
-Pine Knob         |Georgia       |June 15    |        9|        30|          |         39<br />
-<br />
-Kenesaw Mountain  |Georgia       |June 26    |        1|         9|         2|         12<br />
-Peach Tree Creek  |Georgia       |July 20    |        2|         7|         5|         14<br />
-Atlanta           |Georgia       |September 2|         |          |          |<br />
-Savannah          |Georgia       |December 21|        2|         2|          |          4<br />
-<span style="margin-left: 9em;">|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 1865&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |</span><br />
-North Edisto River|South Carolina|February 12|        1|         3|          |          4<br />
-Goldsboro         |North Carolina|March 23   |        1|         2|         9|         12<br />
-<span style="margin-left: 9em;">|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |</span><br />
-<span style="margin-left: 1em;">Grand Total&nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp;  89|&nbsp; &nbsp; &nbsp;  289|&nbsp; &nbsp; &nbsp;  163|&nbsp; &nbsp; &nbsp; &nbsp; 541</span><br />
-</p>
+<table class="autotable losses" summary="">
+<tr class="head">
+<td class="tdc">Names of Battle.</td>
+<td class="tdc">Place.</td>
+<td class="tdc">Date.</td>
+<td class="tdc">Killed.</td>
+<td class="tdc">Wounded.</td>
+<td class="tdc">Missing.</td>
+<td class="tdc lastcol">Aggregate.</td>
+</tr>
+<tr>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdc">1862.</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl lastcol">&nbsp;</td>
+</tr>
+<tr>
+<td class="tdl">Winchester</td>
+<td class="tdl">Virginia</td>
+<td class="tdl">March 23</td>
+<td class="tdr">5</td>
+<td class="tdr">7</td>
+<td class="tdr">2</td>
+<td class="tdr lastcol">14</td>
+</tr>
+<tr>
+<td class="tdl">Port Republic</td>
+<td class="tdl">Virginia</td>
+<td class="tdl">June 9</td>
+<td class="tdr">12</td>
+<td class="tdr">33</td>
+<td class="tdr">105</td>
+<td class="tdr lastcol">150</td>
+</tr>
+<tr>
+<td class="tdl">Cedar Mountain</td>
+<td class="tdl">Virginia</td>
+<td class="tdl">August 9</td>
+<td class="tdr">11</td>
+<td class="tdr">26</td>
+<td class="tdr">12</td>
+<td class="tdr lastcol">49</td>
+</tr>
+<tr>
+<td class="tdl">Chancellorsville</td>
+<td class="tdl">Virginia</td>
+<td class="tdl">May 1, 2, 3</td>
+<td class="tdr">4</td>
+<td class="tdr">42</td>
+<td class="tdr">25</td>
+<td class="tdr lastcol">71</td>
+</tr>
+<tr>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdc">1863</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl lastcol">&nbsp;</td>
+</tr>
+<tr>
+<td class="tdl">Gettysburg</td>
+<td class="tdl">Pennsylvania</td>
+<td class="tdl">July 3</td>
+<td class="tdr">9</td>
+<td class="tdr">35</td>
+<td class="tdr">1</td>
+<td class="tdr lastcol">45</td>
+</tr>
+<tr>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdc">1864</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl lastcol">&nbsp;</td>
+</tr>
+<tr>
+<td class="tdl">Mill Creek Gap</td>
+<td class="tdl">Georgia</td>
+<td class="tdl">May 8</td>
+<td class="tdr">26</td>
+<td class="tdr">67</td>
+<td class="tdr">1</td>
+<td class="tdr lastcol">94</td>
+</tr>
+<tr>
+<td class="tdl">Resaca</td>
+<td class="tdl">Georgia</td>
+<td class="tdl">May 15</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdr">2</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdr lastcol">2</td>
+</tr>
+<tr>
+<td class="tdl">New Hope Church</td>
+<td class="tdl">Georgia</td>
+<td class="tdl">May 25</td>
+<td class="tdr">6</td>
+<td class="tdr">24</td>
+<td class="tdr">1</td>
+<td class="tdr lastcol">31</td>
+</tr>
+<tr>
+<td class="tdl">Pine Knob</td>
+<td class="tdl">Georgia</td>
+<td class="tdl">June 15</td>
+<td class="tdr">9</td>
+<td class="tdr">30</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdr lastcol">39</td>
+</tr>
+<tr>
+<td class="tdl">Kenesaw Mountain</td>
+<td class="tdl">Georgia</td>
+<td class="tdl">June 26</td>
+<td class="tdr">1</td>
+<td class="tdr">9</td>
+<td class="tdr">2</td>
+<td class="tdr lastcol">12</td>
+</tr>
+<tr>
+<td class="tdl">Peach Tree Creek</td>
+<td class="tdl">Georgia</td>
+<td class="tdl">July 20</td>
+<td class="tdr">2</td>
+<td class="tdr">7</td>
+<td class="tdr">5</td>
+<td class="tdr lastcol">14</td>
+</tr>
+<tr>
+<td class="tdl">Atlanta</td>
+<td class="tdl">Georgia</td>
+<td class="tdl">September 2</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl lastcol">&nbsp;</td>
+</tr>
+<tr>
+<td class="tdl">Savannah</td>
+<td class="tdl">Georgia</td>
+<td class="tdl">December 21</td>
+<td class="tdr">2</td>
+<td class="tdr">2</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdr lastcol">4</td>
+</tr>
+<tr>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdc">1865</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl lastcol">&nbsp;</td>
+</tr>
+<tr>
+<td class="tdl">North Edisto River</td>
+<td class="tdl">South Carolina</td>
+<td class="tdl">February 12</td>
+<td class="tdr">1</td>
+<td class="tdr">3</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdr lastcol">4</td>
+</tr>
+<tr>
+<td class="tdl">Goldsboro</td>
+<td class="tdl">North Carolina</td>
+<td class="tdl">March 23</td>
+<td class="tdr">1</td>
+<td class="tdr">2</td>
+<td class="tdr">9</td>
+<td class="tdr lastcol">12</td>
+</tr>
+<tr class="lastrow">
+<td class="tdl1">Grand Total</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdl">&nbsp;</td>
+<td class="tdr totalbox">89</td>
+<td class="tdr totalbox">289</td>
+<td class="tdr totalbox">163</td>
+<td class="tdr totalbox lastcol">541</td>
+</tr>
+</table>
 
 <p>N.B.&mdash;A remarkable fact, the Twenty-ninth fought its first battle on
 the 23d of March, and its last on the same date.</p>
