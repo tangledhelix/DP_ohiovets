@@ -26,6 +26,8 @@ p {
     margin-bottom: .49em;
 }
 
+.bigindent6 { text-indent: 6em; }
+.bigindent4 { text-indent: 4em; }
 .p2       {margin-top: 2em;}
 .p4       {margin-top: 4em;}
 .p6       {margin-top: 6em;}
@@ -64,6 +66,82 @@ table {
 table.autotable    { border-collapse: collapse; }
 table.autotable td,
 table.autotable th { padding: 4px; }
+
+table.sigtable {
+  margin-right: 1em;
+  margin-left: auto;
+}
+table.sigtable td,
+table.sigtable th { padding: 0 4px; }
+
+table.sigtable2 {
+  margin-right: 1em;
+  margin-left: auto;
+}
+
+.tdr2 {
+  text-align: right;
+  padding: 0 4px;
+}
+.tdc2 {
+  text-align: right;
+  padding: 0 6.25em;
+}
+.tdl2 {
+  text-align: right;
+  padding: 0 1.75em;
+}
+.tdr3 {
+  text-align: right;
+  padding: 0 4px;
+}
+.tdc3 {
+  text-align: right;
+  padding: 0 4em;
+}
+.tdl3 {
+  text-align: right;
+  padding: 0 1.75em;
+}
+.tdr4 {
+  text-align: right;
+  padding: 0 4px;
+}
+.tdc4 {
+  text-align: right;
+  padding: 0 .25em;
+}
+.tdl4 {
+  text-align: right;
+  padding: 0 2.5em;
+}
+.tdr5 {
+  text-align: right;
+  padding: 0 4px;
+}
+.tdl5 {
+  text-align: right;
+  padding: 0 1.5em;
+}
+
+p.signature {
+  margin-right: 1em;
+  margin-top: .15em;
+  margin-bottom: .15em;
+  text-align: right;
+}
+p.signature25 {
+  margin-right: 2.5em;
+  margin-top: .15em;
+  margin-bottom: .15em;
+  text-align: right;
+}
+p.signature3 {
+  margin-right: 3em;
+  margin-top: .15em;
+  margin-bottom: .15em;
+  text-align: right;
+}
 
 .tdl      {text-align: left;}
 .tdl1     {text-align: left; text-indent: 1em;}
@@ -267,6 +345,12 @@ img.w100 {width: 100%;}
   text-align: center;
 }
 
+.vert-spacer {
+  margin: 2em auto auto auto;
+  text-align: center;
+  width: 72px;
+}
+
     </style>
   </head>
 <body>
@@ -354,13 +438,30 @@ and friends of the regiment with our hearty endorsement,
 believing it <em>as complete and perfect as it is possible
 to make it</em>.</p>
 
-<p>
-<span class="smcap">David W. Thomas</span>,  }<br />
-<span class="smcap">Thomas W. Nash</span>,   }<br />
-<span class="smcap">Thaddeus E. Hoyt</span>, } Committee.<br />
-<span class="smcap">Erwin F. Mason</span>,   }<br />
-<span class="smcap">Chauncey H. Coon</span>, }<br />
-<br />
+<table class="sigtable" summary="">
+<tr>
+<td class="tdl"><span class="smcap">David W. Thomas</span>,</td>
+<td class="tdl">}</td>
+</tr>
+<tr>
+<td class="tdl"><span class="smcap">Thomas W. Nash</span>,</td>
+<td class="tdl">}</td>
+</tr>
+<tr>
+<td class="tdl"><span class="smcap">Thaddeus E. Hoyt</span>,</td>
+<td class="tdl">}</td>
+<td class="tdl">Committee.</td>
+</tr>
+<tr>
+<td class="tdl"><span class="smcap">Erwin F. Mason</span>,</td>
+<td class="tdl">}</td>
+</tr>
+<tr>
+<td class="tdl"><span class="smcap">Chauncey H. Coon</span>,</td>
+<td class="tdl">}</td>
+</tr>
+</table>
+
 <span class="smcap">Cleveland, Ohio</span>, February 1, 1883.<br />
 </p>
 <hr class="chap x-ebookmaker-drop" />
@@ -574,10 +675,12 @@ of the regiment, with their families, also the widows and
 orphans of deceased members, and that when the battle
 of life is over, we may wear the victor's crown in heaven.</p>
 
-<p>
+<p class="right">
 <span class="smcap">R. H. Hurlburt</span>, M.D., D.D.,<br />
-Late Chaplain Twenty-ninth regiment, O. V. V. I.<br />
-<br />
+Late Chaplain Twenty-ninth regiment, O. V. V. I.
+</p>
+
+<p>
 <span class="smcap">Marion, Iowa</span>, July 18, 1882.<br />
 </p>
 <hr class="chap x-ebookmaker-drop" />
@@ -4620,23 +4723,33 @@ the court-house, and the following document was drawn
 up:</p>
 
 <div class="blockquot">
-<p>
-"<span class="smcap">Atlanta, Georgia</span>, }<br />
-September 2, 1864. }<br />
-</p>
+
+<table class="sigtable" summary="">
+<tr>
+<td class="tdl">"<span class="smcap">Atlanta, Georgia</span>,</td>
+<td class="tdl">}</td>
+</tr>
+<tr>
+<td class="tdl">September 2, 1864.</td>
+<td class="tdl">}</td>
+</tr>
+</table>
 
 <p>
-"Brigadier-general Ward, Commanding Third Division<br />
-Twentieth Corps.<br />
+"Brigadier-general Ward, Commanding Third Division
+Twentieth Corps.
 </p>
 
 <p>"<span class="smcap">Sir</span>:&mdash;The fortunes of war have placed the city of
 Atlanta in your hands, and as mayor of the city I ask
 protection to non-combatants and private property.</p>
 
-<p>
-"<span class="smcap">James M. Calhoun</span>,<br />
-Mayor of Atlanta."<br />
+<p class="signature3">
+"<span class="smcap">James M. Calhoun</span>,
+</p>
+
+<p class="signature">
+Mayor of Atlanta."
 </p>
 </div>
 
@@ -4663,10 +4776,10 @@ places and placed under guard at the court-house.</p>
 
 <div class="blockquot">
 
-<p>GENERAL THOMAS' CONGRATULATORY ORDER.</p>
+<p class="center">GENERAL THOMAS' CONGRATULATORY ORDER.</p>
 
-<p>
-<span class="smcap">Army Headquarters</span>, July 26, 1864.<br />
+<p class="right">
+<span class="smcap">Army Headquarters</span>, July 26, 1864.
 </p>
 
 <p>"The major-general commanding the army congratulates
@@ -4699,23 +4812,39 @@ from the enemy in this battle 18 stands of colors and
 5,000 stands of arms.</p>
 
 <p>
-"By command of<br />
-<span class="smcap">Major-general George H. Thomas</span>.<br />
-<br />
-"<span class="smcap">W. D. Whipple</span>,<br />
-Assistant Adjutant-general."<br />
+"By command of
 </p>
+<p class="right">
+<span class="smcap">Major-general George H. Thomas</span>.
+</p>
+
+<p>
+"<span class="smcap">W. D. Whipple</span>,
+</p>
+<p class="bigindent4">
+Assistant Adjutant-general."
+</p>
+
 </div>
 
 <div class="blockquot">
 
-<p>GENERAL SHERMAN'S SPECIAL FIELD ORDER NO. 68.</p>
+<p class="center">GENERAL SHERMAN'S SPECIAL FIELD ORDER NO. 68.</p>
 
-<p>
-"<span class="smcap">Headquarters Military Division, of the }<br />
-Mississippi in the Field,        }<br />
-Atlanta, Georgia, Sept. 8, 1864.</span> }<br />
-</p>
+<table class="sigtable2" summary="">
+<tr>
+<td class="tdl2">"<span class="smcap">Headquarters Military Division, of the</span></td>
+<td class="tdl">}</td>
+</tr>
+<tr>
+<td class="tdc2"><span class="smcap">Mississippi in the Field,</span></td>
+<td class="tdl">}</td>
+</tr>
+<tr>
+<td class="tdr2"><span class="smcap">Atlanta, Georgia, Sept. 8, 1864.</span></td>
+<td class="tdl">}</td>
+</tr>
+</table>
 
 <p>"The officers and soldiers of the armies of the Cumberland,
 Ohio, and Tennessee have already received the
@@ -4801,9 +4930,11 @@ no prophet to foretell that our country will, in time,
 emerge from this war purified by the fires of war and
 worthy its great founder, Washington.</p>
 
-<p>
-"<span class="smcap">W. T. Sherman</span>,<br />
-Major-general commanding."<br />
+<p class="signature3">
+"<span class="smcap">W. T. Sherman</span>,
+</p>
+<p class="signature">
+Major-general commanding."
 </p>
 </div>
 <hr class="chap x-ebookmaker-drop" />
@@ -5115,14 +5246,26 @@ and on the 18th received news of the fall of Fort Fisher.
 From the 19th to the 25th engaged in camp duty and
 regimental drill.</p>
 
-<p>CAPTAIN SCHOONOVER'S REPORT.</p>
+<div class="vert-spacer"></div>
+
+<p class="center">CAPTAIN SCHOONOVER'S REPORT.</p>
 
 <div class="blockquot">
-<p>
-<span class="smcap">Headquarters Twenty-ninth Ohio }<br />
-Veteran Volunteer Infantry. }<br />
-Savannah, Georgia, Dec. 28, 1864.</span> }<br />
-</p>
+
+<table class="sigtable2" summary="">
+<tr>
+<td class="tdl3"><span class="smcap">Headquarters Twenty-ninth Ohio</td>
+<td class="tdl">}</td>
+</tr>
+<tr>
+<td class="tdc3">Veteran Volunteer Infantry.</td>
+<td class="tdl">}</td>
+</tr>
+<tr>
+<td class="tdr3">Savannah, Georgia, Dec. 28, 1864.</span></td>
+<td class="tdl">}</td>
+</tr>
+</table>
 
 <p>[** hanging indent]
 <div class="blockquot">
@@ -5152,20 +5295,37 @@ Twenty-eighth Pennsylvania volunteers, marched to the
 city, and through it to the west side, where we are now
 encamped.</p>
 
+<p class="signature">
+"I am very respectfully, your obedient servant,
+</p>
+<p class="signature3">
+<span class="smcap">Jonas Schoonover</span>,
+</p>
+
 <p>
-"I am very respectfully, your obedient servant,<br />
-<span class="smcap">Jonas Schoonover</span>,<br />
 Captain commanding Twenty-ninth Ohio Veteran Volunteer<br />
-Infantry."<br />
+Infantry."
 </p>
 </div>
 
 <div class="blockquot">
+
+<table class="sigtable2" summary="">
+<tr>
+<td class="tdl4">"<span class="smcap">Headquarters First Brigade,</td>
+<td class="tdl">}</td>
+</tr>
+<tr>
+<td class="tdr4">Second Division, Twentieth Army Corps.</td>
+<td class="tdl">}</td>
+</tr>
+<tr>
+<td class="tdc4">Savannah, Georgia, December 25, 1864.</span></td>
+<td class="tdl">}</td>
+</tr>
+</table>
+
 <p>
-"<span class="smcap">Headquarters First Brigade, }<br />
-Second Division, Twentieth Army Corps. }<br />
-Savannah, Georgia, December 25, 1864.</span>  }<br />
-<br />
 "Captain W. T. Forbes, assistant adjutant general:<br />
 </p>
 
@@ -5233,14 +5393,21 @@ forts, for the promptitude exhibited by him in the execution
 of all orders, and his strict attention to the duties
 incumbent on him throughout the entire campaign.</p>
 
-<p>
-"Respectfully submitted,<br />
-"<span class="smcap">Ario Pardee</span>,<br />
-Commanding Brigade."<br />
+<p class="center">
+"Respectfully submitted,
+</p>
+
+<p class="signature3">
+"<span class="smcap">Ario Pardee</span>,
+</p>
+<p class="signature">
+Commanding Brigade."
 </p>
 </div>
 
-<p>EXTRACT&mdash;OFFICIAL REPORT OF GENERAL GEARY.</p>
+<div class="vert-spacer"></div>
+
+<p class="center">EXTRACT&mdash;OFFICIAL REPORT OF GENERAL GEARY.</p>
 
 <div class="blockquot">
 
@@ -5353,9 +5520,15 @@ flags were captured by my command, which will be duly
 forwarded.</p>
 
 <p>
-"I am, Colonel, very-respectfully<br />
-Your obedient servant,<br />
-<span class="smcap">John W. Geary</span>,<br />
+"I am, Colonel, very-respectfully
+<p>
+<p class="center">
+Your obedient servant,
+</p>
+<p class="right">
+<span class="smcap">John W. Geary</span>,
+</p>
+<p>
 Brigadier-general commanding Second division Twentieth<br />
 corps."<br />
 </p>
@@ -5633,7 +5806,7 @@ by the old flag, which had been borne by this gallant regiment
 in so many bloody battles.</p>
 
 <div class="blockquot">
-<p>
+<p class="right">
 <span class="smcap">Akron</span>, May, 1865.<br />
 </p>
 
@@ -5658,18 +5831,29 @@ Ohio Veteran Volunteer Infantry. Colonel, please remember
 us to the dear old Twenty-ninth, and accept for
 yourself our best wishes.</p>
 
-<p>
+<p class="signature3">
 <span class="smcap">Lewis P. Buckley</span>,<br />
-<span class="smcap">William T. Fitch</span>,<br />
+<span class="smcap">William T. Fitch</span>,
+</p>
+<p class="right">
 Old Cols. of the Twenty-ninth Ohio.<br />
 </p>
 </div>
 
 <div class="blockquot">
+
+<table class="sigtable2" summary="">
+<tr>
+<td class="tdl5"><span class="smcap">Headquarters Twenty-ninth Ohio</span>,</td>
+<td class="tdl">}</td>
+</tr>
+<tr>
+<td class="tdr5"><span class="smcap">Bladensburg, Maryland</span>, June 5, 1865.</td>
+<td class="tdl">}</td>
+</tr>
+</table>
+
 <p>
-<span class="smcap">Headquarters Twenty-ninth Ohio</span>,      }<br />
-<span class="smcap">Bladensburg, Maryland</span>, June 5, 1865. }<br />
-<br />
 Colonels Buckley and Fitch, and S. A. Lane, Esq.:<br />
 </p>
 
@@ -5864,8 +6048,8 @@ of a somewhat precarious existence, and but a few laps
 in advance of the grim gentleman with the hour glass
 and scythe, abides</p>
 
-<p>
-<span class="smcap">The Drummer Boy(?) of Company B</span>.<br />
+<p class="right">
+<span class="smcap">The Drummer Boy(?) of Company B</span>.
 </p>
 <hr class="chap x-ebookmaker-drop" />
 
@@ -12810,10 +12994,14 @@ were buried on a ridge near Kenesaw Mountain, 100
 yards in rear of the front line of our works; the graves all
 marked and easily distinguished.</p>
 
-<p>
-<span class="smcap">George W. Holloway</span>,<br />
-Late Co. D, 29th Regiment.<br />
+<p class="signature25">
+<span class="smcap">George W. Holloway</span>,
 </p>
+<p class="signature">
+Late Co. D, 29th Regiment.
+</p>
+
+<div class="vert-spacer"></div>
 
 <p>[** hanging indent]
 <div class="blockquot">
