@@ -52,6 +52,8 @@ hr.r65 {width: 65%; margin-top: 3em; margin-bottom: 3em; margin-left: 17.5%; mar
 div.chapter {page-break-before: always;}
 h2.nobreak  {page-break-before: avoid;}
 
+.pagebreak {page-break-before: always;}
+
 ul.index { list-style-type: none; }
 li.ifrst { margin-top: 1em; }
 li.indx { margin-top: .5em; }
@@ -143,6 +145,10 @@ p.signature3 {
   text-align: right;
 }
 
+p.hanging-indent {
+  text-indent: -1em; padding-left: 1em;
+}
+
 .tdl      {text-align: left;}
 .tdl1     {text-align: left; text-indent: 1em;}
 .tdr      {text-align: right;}
@@ -172,8 +178,7 @@ p.signature3 {
 }
 
 td.toc {width: 100;}
-td.toc span:first-child {}
-td.toc span:last-child  {float:right;}
+.toc-pagenumber { float: right; }
 
 .pagenum { /* uncomment the next line for invisible page numbers */
     /*  visibility: hidden;  */
@@ -370,7 +375,7 @@ This ebook was transcribed by a native of the state of Ohio.
 </p>
 
 <p>
-This book transcription is dedicated to my stepdad,
+This book transcription is dedicated to
 Thaddeus "Ted" Slade, also a native Ohioan and the biggest
 Civil War history buff I know.
 </p>
@@ -388,6 +393,8 @@ Civil War history buff I know.
 </div>
 
 <p><span class="pagenum" id="Page_3">[3]</span></p>
+
+<div class="pagebreak"></div>
 
 <h1>JOURNAL HISTORY OF THE TWENTY-NINTH OHIO<br />
 <span class="smcap">Veteran Volunteers</span>,<br />
@@ -462,6 +469,7 @@ to make it</em>.</p>
 </tr>
 </table>
 
+<p>
 <span class="smcap">Cleveland, Ohio</span>, February 1, 1883.<br />
 </p>
 <hr class="chap x-ebookmaker-drop" />
@@ -675,8 +683,10 @@ of the regiment, with their families, also the widows and
 orphans of deceased members, and that when the battle
 of life is over, we may wear the victor's crown in heaven.</p>
 
-<p class="right">
-<span class="smcap">R. H. Hurlburt</span>, M.D., D.D.,<br />
+<p class="signature25">
+<span class="smcap">R. H. Hurlburt</span>, M.D., D.D.,
+</p>
+<p class="signature">
 Late Chaplain Twenty-ninth regiment, O. V. V. I.
 </p>
 
@@ -699,7 +709,7 @@ Late Chaplain Twenty-ninth regiment, O. V. V. I.
 <tr>
   <td class="toc">
     <span>The South Preparing for War&mdash;The Fall of Sumter&mdash;The Grand Rally to the Support of the Flag&mdash;Formation of the Regiment</span>
-    <span>17</span>
+    <span class="toc-pagenumber">17</span>
   </td>
 </tr>
 
@@ -709,7 +719,7 @@ Late Chaplain Twenty-ninth regiment, O. V. V. I.
 <tr>
   <td class="toc">
     <span>The Departure from Camp Giddings&mdash;At the Front&mdash;Death of Lander&mdash;Advance up the Valley&mdash;Winchester</span>
-    <span>34</span>
+    <span class="toc-pagenumber">34</span>
   </td>
 </tr>
 
@@ -1231,13 +1241,13 @@ in the fight we have no fears of a bad account."</p>
 
 <p><span class="pagenum" id="Page_25">[25]</span></p>
 
-<p>ORIGINAL REGIMENTAL ROSTER.</p>
+<p class="center">ORIGINAL REGIMENTAL ROSTER.</p>
 
 <p>Following is the roster of the regiment as given in the
 issue of the Ashtabula Sentinel, dated December 25,
 1861, inserted by request of the committee on revision:</p>
 
-<p>FIELD OFFICERS.</p>
+<p class="center">FIELD OFFICERS.</p>
 
 <p>
 Colonel Lewis P. Buckley, Akron.<br />
@@ -1256,9 +1266,7 @@ Fife-major Richard Noonan, Hudson.<br />
 Drum-major G. G. Crane, Chagrin Falls.<br />
 </p>
 
-<p>REGIMENTAL BAND.</p>
-
-<div class="blockquot">
+<p class="center">REGIMENTAL BAND.</p>
 
 <p>Leader Chauncy Brainard.</p>
 
@@ -1274,9 +1282,8 @@ Kent; Louis Price, bass; Edward B. Woodbury, bass.</p>
 <p>Cymbal Buel W. Brainard.</p>
 
 <p>Bugler Edwin N. Devan.</p>
-</div>
 
-<p>COMPANY A.</p>
+<p class="center">COMPANY A.</p>
 
 <p>
 Captain William T. Fitch.<br />
@@ -1302,7 +1309,7 @@ Drummer R. Lewis.<br />
 Wagoner William Daniels.<br />
 </p>
 
-<p>PRIVATES.</p>
+<p class="center">PRIVATES.</p>
 
 <p>J. M. Bronson, M. A. Brown, P. B. Broughton, H. G. Clafflin,
 Charles Covert, M. M. Canfield, F. M. Canfield, L. M. Coon, E. G.
@@ -1323,7 +1330,7 @@ John Sylvester, Wilber Sloat, Theodore Smith, John Shears, Alonzo
 D. Squires, Pickering Smith, S. R. Thompson, V. Wilson, S. N.
 Hubbard, A. B. Durfee, N. Wilder.</p>
 
-<p>COMPANY B.</p>
+<p class="center">COMPANY B.</p>
 
 <p>
 Captain W. F. Stevens.<br />
@@ -1351,7 +1358,7 @@ Drummer J. H. SeCheverell.<br />
 Wagoner E. P. McArthur.<br />
 </p>
 
-<p>PRIVATES.</p>
+<p class="center">PRIVATES.</p>
 
 <p>E. T. Allen, L. P. Allen, S. Atkin, F. R. Ackley, S. S. Andrews, D.
 Ames, H. Beckwith, T. Beckwith, H. Brainard, C. Brainard, J. Brazee,
@@ -1369,7 +1376,7 @@ Rowe, G. Rowe, G. Wright, J. Rounds, A. Rogers, J. Rockwell, E.
 Phillips, R. Sills, H. Smith, S. Stanley, R. Stewart, W. H. Vanscoik,
 L. Wright.</p>
 
-<p>COMPANY C.</p>
+<p class="center">COMPANY C.</p>
 
 <p>
 Captain Edward Hayes.<br />
@@ -1391,7 +1398,7 @@ Drummer B. Phelps.<br />
 Wagoner T. Kellogg.<br />
 </p>
 
-<p>PRIVATES.</p>
+<p class="center">PRIVATES.</p>
 
 <p>W. Alger, L. B. Brainard, S. W. Bronson, G. D. Brockett, T. R.
 Brown, E. Britton, A. H. Beardslee, R. W. Cross, D. V. Chaffee, W.
@@ -1409,7 +1416,7 @@ Sisley, J. F. Rowley, H. C. Rice, N. J. Merrells, T. J. Merrells, B.
 Miller, E. O. Miller, D. B. Parker, O. K. Phelps, W. Palmer, J. D.
 Rea, D. Ryckman, W. H. Runyon.</p>
 
-<p>COMPANY D.</p>
+<p class="center">COMPANY D.</p>
 
 <p>
 Captain Pulaski C. Hard.<br />
@@ -1433,7 +1440,7 @@ Drummer W. B. Crane.<br />
 Wagoner A. Hunsicker.<br />
 </p>
 
-<p>PRIVATES.</p>
+<p class="center">PRIVATES.</p>
 
 <p>W. H. Alexander, M. M. Hutchinson, R. Partridge, J. S. Alexander,
 W. H. Bloomfield, O. Brewster, C. Beck, J. W. Chalfant, N.
@@ -1452,7 +1459,7 @@ H. Snyder, C. Sherbonder, D. Schaaf, S. Strecker, L. Squires, E. E.
 Skinner, J. Steese, L. Standish, H. A. Thompson, J. B. Yohey, J. G.
 Wait.</p>
 
-<p>COMPANY E.</p>
+<p class="center">COMPANY E.</p>
 
 <p>
 Captain H. Luce.<br />
@@ -1476,7 +1483,7 @@ Drummer J. S. Bellows.<br />
 Wagoner H. J. Reaves.<br />
 </p>
 
-<p>PRIVATES.</p>
+<p class="center">PRIVATES.</p>
 
 <p>J. P. Bagley, A. Bardsley, D. Baringer, A. Blanchard, F. Brown, E.
 J. Brewer, O. Brewer, H. Bronson, B. Brick, W. L. Carey, C. W.
@@ -1493,7 +1500,7 @@ Roberts, I. Roberts, W. A. Robinson, J. Sammon, H. Sly, W. Sterling,
 A. H. Stirrett, J. A. Sinclair, A. E. Tracy, H. Thornton, S.
 Tuttle, R. Vanskoik, L. J. Woodard, E. Wilson, Thomas Shultz.</p>
 
-<p>COMPANY F.</p>
+<p class="center">COMPANY F.</p>
 
 <p>
 Captain John F. Morse.<br />
@@ -1521,7 +1528,7 @@ Drummer J. Schofield.<br />
 Wagoner J. H. Whitney.<br />
 </p>
 
-<p>PRIVATES.</p>
+<p class="center">PRIVATES.</p>
 
 <p>D. Auringer, A. Austin, J. Briggs, H. E. Balch, S. E. Balch, J. J.
 Belknap, J. Broughton, C. Broughton, H. C. Canfield, J. Carson, W.
@@ -1536,7 +1543,7 @@ J. Shelby, P. Shelby, S. M. Smith, C. Smith, Pomeroy Smith, S. B.
 Smith, O. F. Stetson, A. E. Sanford, A. Sperry, E. Williams. G. Williams,
 C. F. Waldron, L. Walker, G. T. Wicks.</p>
 
-<p>COMPANY G.</p>
+<p class="center">COMPANY G.</p>
 
 <p>
 Captain John S. Clemmer.<br />
@@ -1567,7 +1574,7 @@ Seventh Corporal G. F. Hewett.<br />
 Eighth Corporal John W. Wise.<br />
 </p>
 
-<p>PRIVATES.</p>
+<p class="center">PRIVATES.</p>
 
 <p>Oscar C. Andrews, Edward Alley, C. H. Anderson, A. P. Atchison,
 Augustus Belden, G. F. Brayington, Lester P. Burke, John Burns, L.
@@ -1588,7 +1595,7 @@ Upham, John Watson, John F. Weidle, S. C. Winkleman, Daniel
 Wise, Carroll W. Wright, Charles Young, Conrod Zilite, David McIntyre,
 John Kummer, Mortimer Vanhining.</p>
 
-<p>COMPANY H.</p>
+<p class="center">COMPANY H.</p>
 
 <p>
 Captain J. Schoonover.<br />
@@ -1616,7 +1623,7 @@ Drummer M. Smith.<br />
 Wagoner J. Miller.<br />
 </p>
 
-<p>PRIVATES.</p>
+<p class="center">PRIVATES.</p>
 
 <p>J. Ardis, J. Baird, J. Buck, T. G. Boak, F. H. Boyer, L. Bruno, J.
 Best, John Davis, W. Davis, W. Dennison, W. Demings, J. Ernspranger,
@@ -1631,8 +1638,8 @@ Slusser, J. Smith, F. Smith, N. Salsberry, H. H. Scott, J. C. Stall, W.
 Spears, C. C. Tooker, W. H. Tooker, E. Turner, J. Wilson, H. Wolf,
 O. O. Wright, R. M. Wilkins, A. Wallace, J. Wells.</p>
 
-<p>COMPANY I.
-[Not fully organized.]</p>
+<p class="center">COMPANY I.</p>
+<p class="center">[Not fully organized.]</p>
 
 <p>
 Captain R. B. Smith.<br />
@@ -1643,7 +1650,7 @@ Drummer William Elliott.<br />
 Wagoner B. Alderman.<br />
 </p>
 
-<p>PRIVATES.</p>
+<p class="center">PRIVATES.</p>
 
 <p>N. B. Adams, W. H. Abbott, A. Archer, A. Alderman, J. J. Bair,
 C. Beach, U. Cook, J. C. Cally, W. H. Cooper, J. Craig, W. Dickinson,
@@ -1659,7 +1666,7 @@ Freman, A. Thompson, J. A. Walsh, J. Winters, C. L. Welton, E. C.
 Whitaker, O. O. Wakeman, W. Waterman, S. E. Wilson, A. A.
 Woodruff, W. N. DeWitt, T. F. Henderson, M. Hendrick, R. Hill.</p>
 
-<p>COMPANY K.</p>
+<p class="center">COMPANY K.</p>
 
 <p>
 Captain Alden P. Steele.<br />
@@ -1686,7 +1693,7 @@ Drummer H. Wilder.<br />
 Wagoner Cooley Griffin.<br />
 </p>
 
-<p>PRIVATES.</p>
+<p class="center">PRIVATES.</p>
 
 <p>R. W. Alderman, J. Blodgett, H. Davenport, D. W. Fisher, A. N.
 Alderman, Orlando Clark, G. W. Dean, William Fisher, C. A. Baker,
@@ -3411,8 +3418,6 @@ fully relates the grand finale and</p>
 </div>
 
 </div>
-</div>
-
 </div>
 
 <p>Major-general George H. Thomas issued an order
@@ -5254,26 +5259,22 @@ regimental drill.</p>
 
 <table class="sigtable2" summary="">
 <tr>
-<td class="tdl3"><span class="smcap">Headquarters Twenty-ninth Ohio</td>
+<td class="tdl3"><span class="smcap">Headquarters Twenty-ninth Ohio</span></td>
 <td class="tdl">}</td>
 </tr>
 <tr>
-<td class="tdc3">Veteran Volunteer Infantry.</td>
+<td class="tdc3"><span class="smcap">Veteran Volunteer Infantry.</span></td>
 <td class="tdl">}</td>
 </tr>
 <tr>
-<td class="tdr3">Savannah, Georgia, Dec. 28, 1864.</span></td>
+<td class="tdr3"><span class="smcap">Savannah, Georgia, Dec. 28, 1864.</span></td>
 <td class="tdl">}</td>
 </tr>
 </table>
 
-<p>[** hanging indent]
-<div class="blockquot">
-
-<p>A. H. W. Creigh, first lieutenant, and acting assistant
+<p class="hanging-indent">A. H. W. Creigh, first lieutenant, and acting assistant
 adjutant-general First brigade, Second division, Twentieth
 corps:</p>
-</div>
 
 <p>"<span class="smcap">Lieutenant</span>:&mdash;In compliance with circular from
 headquarters First brigade, Second division, Twentieth
@@ -5312,15 +5313,15 @@ Infantry."
 
 <table class="sigtable2" summary="">
 <tr>
-<td class="tdl4">"<span class="smcap">Headquarters First Brigade,</td>
+<td class="tdl4">"<span class="smcap">Headquarters First Brigade,</span></td>
 <td class="tdl">}</td>
 </tr>
 <tr>
-<td class="tdr4">Second Division, Twentieth Army Corps.</td>
+<td class="tdr4"><span class="smcap">Second Division, Twentieth Army Corps.</span></td>
 <td class="tdl">}</td>
 </tr>
 <tr>
-<td class="tdc4">Savannah, Georgia, December 25, 1864.</span></td>
+<td class="tdc4"><span class="smcap">Savannah, Georgia, December 25, 1864.</span></td>
 <td class="tdl">}</td>
 </tr>
 </table>
@@ -5521,7 +5522,7 @@ forwarded.</p>
 
 <p>
 "I am, Colonel, very-respectfully
-<p>
+</p>
 <p class="center">
 Your obedient servant,
 </p>
@@ -6190,7 +6191,7 @@ issued with the proof copies. The following roster is
 largely from the pen of Colonel Jonas Schoonover, who
 is responsible for its correctness.</p>
 
-<p>FIELD AND STAFF.</p>
+<p class="center">FIELD AND STAFF.</p>
 
 <p>Colonel Lewis P. Buckley, mustered into service December
 28, 1861; honorably discharged, for disability,
@@ -6290,7 +6291,7 @@ August 4, 1862.</p>
 <p>Chaplain Lyman D. Ames, mustered into service
 February 19, 1863; resigned June 26, 1865.</p>
 
-<p>TRANSFERRED.</p>
+<p class="center">TRANSFERRED.</p>
 
 <p>Sergeant-major Palmer Williamson, mustered into service
 August 25, 1861; transferred to company G; promoted
@@ -6360,7 +6361,7 @@ July 9, 1865.</p>
 <p>Principal Musician Richard Lewis, no discharge furnished
 on muster-out roll.</p>
 
-<p>DISCHARGED.</p>
+<p class="center">DISCHARGED.</p>
 
 <p>Quartermaster-sergeant George W. Beckwith, discharged
 August 8, 1864.</p>
@@ -6393,7 +6394,7 @@ K) June 16, 1865.</p>
 to accept promotion as captain in company H (see company
 H) April 9, 1865.</p>
 
-<p>REGIMENTAL BAND.</p>
+<p class="center">REGIMENTAL BAND.</p>
 
 <p>Mustered out and discharged by General Order July
 2, 1862.</p>
@@ -6460,7 +6461,7 @@ but do not again occur: Rufus Daniels, Edward B.
 Fitts, Charles N. Bancroft, E. P. Hall, S. H. Kent, and
 E. B. Woodbury.</p>
 
-<p>COMPANY A.</p>
+<p class="center">COMPANY A.</p>
 
 <p>Mustered into service September 7, 1861. Mustered
 out by reason of expiration of term of service.</p>
@@ -6501,7 +6502,7 @@ sergeant June 12, 1864; first lieutenant January 21,
 <p>Second Lieutenant Martin D. Norris, resigned October
 28, 1862.</p>
 
-<p>NON-COMMISSIONED OFFICERS.</p>
+<p class="center">NON-COMMISSIONED OFFICERS.</p>
 
 <p>Sergeant Everson J. Hurlburt, promoted.</p>
 
@@ -6544,7 +6545,7 @@ staff November 1, 1863.</p>
 
 <p><span class="pagenum" id="Page_167">[167]</span></p>
 
-<p>PRIVATES.</p>
+<p class="center">PRIVATES.</p>
 
 <p>James M. Bronson, mustered out with company.</p>
 
@@ -6753,7 +6754,7 @@ corps, September 1, 1863.</p>
 <p>Almond O. Hungerford, discharged November 1,
 1861.</p>
 
-<p>RECRUITS OF 1862.</p>
+<p class="center">RECRUITS OF 1862.</p>
 
 <p>George Root, died at Dumfries, Virginia, March 16,
 1863.</p>
@@ -6782,7 +6783,7 @@ corps, September 1, 1863.</p>
 
 <p>Samuel Ray, discharged June 1, 1865.</p>
 
-<p>RECRUITS OF 1864.</p>
+<p class="center">RECRUITS OF 1864.</p>
 
 <p>Daniel B. Alderman, mustered out with company.</p>
 
@@ -6857,7 +6858,7 @@ March 31, 1865.</p>
 <p>Seth E. Wilson, transferred to company I, December
 17, 1861.</p>
 
-<p>COMPANY B.</p>
+<p class="center">COMPANY B.</p>
 
 <p>Mustered into service September 7, 1861.</p>
 
@@ -7248,7 +7249,7 @@ May 31, 1864.</p>
 
 <p><span class="pagenum" id="Page_179">[179]</span></p>
 
-<p>COMPANY C.</p>
+<p class="center">COMPANY C.</p>
 
 <p>Mustered into service September 7, 1861.</p>
 
@@ -7647,7 +7648,7 @@ amputated; discharged January 9, 1865.</p>
 <p>Micajah J. Rice, transferred to company D July 31,
 1865.</p>
 
-<p>COMPANY D.</p>
+<p class="center">COMPANY D.</p>
 
 <p>Mustered into service September 27, 1861.</p>
 
@@ -8077,7 +8078,7 @@ June 5, 1865.</p>
 
 <p>William G. Buss, mustered out with company.</p>
 
-<p>COMPANY E.</p>
+<p class="center">COMPANY E.</p>
 
 <p>Mustered into service September 27, 1861.</p>
 
@@ -8176,7 +8177,7 @@ Virginia, June 9, 1862.</p>
 
 <p>Wagoner William H. Holden, mustered out with company.</p>
 
-<p>PRIVATES.</p>
+<p class="center">PRIVATES.</p>
 
 <p>Albert Blanchard, served three years.</p>
 
@@ -8380,7 +8381,7 @@ January 12, 1864.</p>
 
 <p>Chauncey Mason (1862), in hospital.</p>
 
-<p>RECRUITS OF 1864.</p>
+<p class="center">RECRUITS OF 1864.</p>
 
 <p>Carlisle W. Kinnear, mustered out with company.</p>
 
@@ -8475,7 +8476,7 @@ April 19, 1865.</p>
 <p>Charles Beckworth, transferred to Veteran Reserve
 Corps April 21, 1865.</p>
 
-<p>COMPANY F.</p>
+<p class="center">COMPANY F.</p>
 
 <p>Mustered into service September, October, November,
 and December, 1861.</p>
@@ -8871,7 +8872,7 @@ company.</p>
 States Pioneer brigade, Army of Cumberland, August 24,
 1864.</p>
 
-<p>COMPANY G.</p>
+<p class="center">COMPANY G.</p>
 
 <p>Mustered into service September 30, 1861.</p>
 
@@ -9004,7 +9005,7 @@ June 30, 1864.</p>
 <p>Corporal G. F. Hewett (veteran), mustered out with
 company.</p>
 
-<p>PRIVATES.</p>
+<p class="center">PRIVATES.</p>
 
 <p>William Fisher, captured June 9, 1862.[** errata link]</p>
 
@@ -9301,7 +9302,7 @@ June 5, 1865.</p>
 
 <p>Thomas Bolton (1864), discharged May 4, 1865.</p>
 
-<p>COMPANY H.</p>
+<p class="center">COMPANY H.</p>
 
 <p>Mustered into service in October and November,
 1861.</p>
@@ -9668,7 +9669,7 @@ with company.</p>
 <p>Edman Wiswell (1864), substitute, discharged July 18,
 1865.</p>
 
-<p>COMPANY I.</p>
+<p class="center">COMPANY I.</p>
 
 <p>Mustered into service September, October and November,
 and December, 1861.</p>
@@ -9920,7 +9921,7 @@ April 1, 1865.</p>
 
 <p>Willard Trall, mustered out with company.</p>
 
-<p>RECRUITS.</p>
+<p class="center">RECRUITS.</p>
 
 <p>Joel J. Bair (1861), mustered out with company.</p>
 
@@ -10015,7 +10016,7 @@ April 1, 1865.</p>
 <p>James H. Freeman, killed at Port Republic, Virginia,
 June 9, 1862.</p>
 
-<p>COMPANY K.</p>
+<p class="center">COMPANY K.</p>
 
 <p>Mustered into service September, October, November
 and December, 1861.</p>
@@ -10385,15 +10386,15 @@ records in the War Department, and contains the name
 of every member of the regiment, whose disability was
 reported to the department. It is believed to be perfect.</p>
 
-<p>RECORD OF DEATHS IN TWENTY-NINTH REGIMENT OHIO
+<p class="center">RECORD OF DEATHS IN TWENTY-NINTH REGIMENT OHIO
 VOLUNTEERS, EXCEPT KILLED IN ACTION.</p>
 
-<p>1861.</p>
+<p class="center">1861.</p>
 
 <p>Private Charles A. Clapp, company D, December 5,[**2 errata links]
 1861.</p>
 
-<p>1862.</p>
+<p class="center">1862.</p>
 
 <p>Private John A. Austin, company F, April 2, 1862.</p>
 
@@ -10563,7 +10564,7 @@ VOLUNTEERS, EXCEPT KILLED IN ACTION.</p>
 <p>Private Eben H. Wright, company D, December 7,
 1862.</p>
 
-<p>1863.</p>
+<p class="center">1863.</p>
 
 <p>Private John W. Baur, company B, captured at Port
 Republic, Virginia, June 9, 1862, supposed to be dead.</p>
@@ -10633,7 +10634,7 @@ Republic, Virginia, June 9, 1862, supposed to be dead.</p>
 
 <p>Private Elias Waltz, company D, April 10, 1863.</p>
 
-<p>1864.</p>
+<p class="center">1864.</p>
 
 <p>Private Albert W. Atwater, company E, July 4, 1864.</p>
 
@@ -10773,7 +10774,7 @@ dead.</p>
 <p>Private George W. Warden, company B, October 29,
 1864.</p>
 
-<p>1865.</p>
+<p class="center">1865.</p>
 
 <p>Private William F. Boal, company E, April 2, 1865.</p>
 
@@ -10827,17 +10828,15 @@ dead.</p>
 <p>Corporal George J. Young, company D, June 14,
 1865.</p>
 
+<hr class="tb" />
+
 <p><span class="pagenum" id="Page_242">[242]</span></p>
 
-<p>[** hanging indent]
-<div class="blockquot">
-
-<p>RECORD OF KILLED, WOUNDED AND CAPTURED IN THE
+<p class="hanging-indent">RECORD OF KILLED, WOUNDED AND CAPTURED IN THE
 TWENTY-NINTH OHIO VOLUNTEERS DURING THE YEAR
 1862.</p>
-</div>
 
-<p>COMPANY A.</p>
+<p class="center">COMPANY A.</p>
 
 <p>First Lieutenant Everson J. Hulbert, wounded, June
 9, 1862, Port Republic, Virginia.</p>
@@ -10957,7 +10956,7 @@ Republic, Virginia.</p>
 <p>Private Leonard Grover,* captured May 25, 1862,
 Strasburg, Virginia.</p>
 
-<p>COMPANY B.</p>
+<p class="center">COMPANY B.</p>
 
 <p>Private Harvey Beckwith, killed March 20, 1862, Winchester,
 Virginia.</p>
@@ -11053,7 +11052,7 @@ Republic, Virginia.</p>
 <p>Private G. W. Atkins,* captured June 9, 1862, Port
 Republic, Virginia.</p>
 
-<p>COMPANY C.</p>
+<p class="center">COMPANY C.</p>
 
 <p>Second Lieutenant Frank F. Stewart, wounded August
 9, 1862, Cedar Mountain, Virginia.</p>
@@ -11158,7 +11157,7 @@ Virginia.</p>
 <p>Private John A. Frazier,* captured June 9th, Port
 Republic, Virginia.</p>
 
-<p>COMPANY D.</p>
+<p class="center">COMPANY D.</p>
 
 <p>Captain Myron T. Wright, wounded March 23,
 1862, Winchester, Virginia.</p>
@@ -11253,7 +11252,7 @@ Mountain, Virginia.</p>
 <p>Private John Hughes*, captured August 9, 1862,
 Cedar Mountain, Virginia.</p>
 
-<p>COMPANY E.</p>
+<p class="center">COMPANY E.</p>
 
 <p>Private Peter Vanskoik, wounded March 23, Winchester,
 Virginia.</p>
@@ -11319,7 +11318,7 @@ Virginia.</p>
 <p>Private David W. Hall, captured May 25, 1862, Strasburg,
 Virginia.</p>
 
-<p>COMPANY F.</p>
+<p class="center">COMPANY F.</p>
 
 <p>Private Alexander Neil, killed March 23, 1862, Winchester,
 Virginia.</p>
@@ -11465,7 +11464,7 @@ Strasburg, Virginia.</p>
 <p>Private James Whitney,* captured May 25, 1862, Strasburg,
 Virginia.</p>
 
-<p>COMPANY G.</p>
+<p class="center">COMPANY G.</p>
 
 <p>Second Lieutenant W. P. Williamson, killed March
 23d, Winchester, Virginia.</p>
@@ -11550,7 +11549,7 @@ Virginia.</p>
 <p>Private John Worth,* captured May 9th, near Edenburg,
 Virginia.</p>
 
-<p>COMPANY H.</p>
+<p class="center">COMPANY H.</p>
 
 <p>Private Lewis Harris, mortally wounded March 23,
 1862, Winchester, Virginia, died April 7, 1862.</p>
@@ -11596,7 +11595,7 @@ Virginia.</p>
 <p>Private W. H. Connell, captured May, 1862, near Edenburg,
 Virginia.</p>
 
-<p>COMPANY I.</p>
+<p class="center">COMPANY I.</p>
 
 <p>Corporal Alfred Bishop, wounded August 9, 1862,
 Cedar Mountain, Virginia.</p>
@@ -11698,8 +11697,8 @@ Republic, Virginia.</p>
 <p>Corporal A. Woodruff, captured June 9, 1862, Port
 Republic, Virginia.</p>
 
-<p>COMPANY K,
-AND FIELD AND STAFF.</p>
+<p class="center">COMPANY K,</p>
+<p class="center">AND FIELD AND STAFF.</p>
 
 <p>First Sergeant Christopher C. Johnson, wounded June
 9, 1862, Port Republic, Virginia.</p>
@@ -11801,14 +11800,12 @@ Republic, Virginia.</p>
 <p>Private J. Jenks, captured June 9, 1862, Port Republic,
 Virginia.</p>
 
-<p>[** hanging indent]
-<div class="blockquot">
+<hr class="tb" />
 
-<p>RECORD OF KILLED, WOUNDED AND MISSING OF THE
+<p class="center">RECORD OF KILLED, WOUNDED AND MISSING OF THE
 TWENTY-NINTH OHIO VOLUNTEERS AT THE BATTLE OF
 CHANCELLORSVILLE, VIRGINIA, ON THE 1ST, 2D AND
 3D OF MAY, 1863.</p>
-</div>
 
 <p>Private F. B. Mowrey, company A, wounded.</p>
 
@@ -12019,13 +12016,11 @@ heard from.</p>
 </tr>
 </table>
 
-<p>[** hanging indent]
-<div class="blockquot">
+<hr class="tb" />
 
-<p>RECORD OF KILLED AND WOUNDED OF THE TWENTY-NINTH
+<p class="center">RECORD OF KILLED AND WOUNDED OF THE TWENTY-NINTH
 OHIO VOLUNTEERS AT THE BATTLE OF GETTYSBURG,
 PENNSYLVANIA, JULY 2D AND 3D, 1863.</p>
-</div>
 
 <p>First Lieutenant J. G. Marsh, company D, killed.</p>
 
@@ -12130,13 +12125,11 @@ PENNSYLVANIA, JULY 2D AND 3D, 1863.</p>
 </tr>
 </table>
 
-<p>[** hanging indent]
-<div class="blockquot">
+<hr class="tb" />
 
-<p>RECORD OF CASUALTIES OF THE TWENTY-NINTH REGIMENT
+<p class="center">RECORD OF CASUALTIES OF THE TWENTY-NINTH REGIMENT
 OHIO VOLUNTEERS, FROM MAY 3, 1864, TO JANUARY 27,
 1865.</p>
-</div>
 
 <p>First Lieutenant Winthrop C. Grant, company A,
 killed, Dug Gap, Georgia, May 8, 1864.</p>
@@ -12255,7 +12248,7 @@ killed, near Atlanta, Georgia, July 28, 1864.</p>
 <p>Private C. W. Kellogg, company C, wounded, Pine
 Knob, Georgia, June 16, 1864.</p>
 
-<p>COMMISSIONED OFFICERS WOUNDED.</p>
+<p class="center">COMMISSIONED OFFICERS WOUNDED.</p>
 
 <p>Colonel William T. Fitch, Dug Gap, Georgia, May 8,
 1864.</p>
@@ -13001,15 +12994,11 @@ marked and easily distinguished.</p>
 Late Co. D, 29th Regiment.
 </p>
 
-<div class="vert-spacer"></div>
+<hr class="tb" />
 
-<p>[** hanging indent]
-<div class="blockquot">
-
-<p>REPORT OF CASUALTIES IN THE TWENTY-NINTH OHIO
+<p class="center">REPORT OF CASUALTIES IN THE TWENTY-NINTH OHIO
 VOLUNTEER VETERAN INFANTRY, FROM JANUARY 27 TO
 MARCH 26, 1865.</p>
-</div>
 
 <p>Private John Rape, company G, killed February 12,
 1865.</p>
@@ -13052,7 +13041,7 @@ March 11, 1865.</p>
 <p>Private Thomas Bonner, company A, missing March
 11, 1865.</p>
 
-<!-- [** hanging indent] -->
+<hr class="tb" />
 
 <p class="center">AGGREGATE LOSSES OF KILLED, WOUNDED, AND MISSING
 OF THE TWENTY-NINTH REGIMENT OHIO VETERAN
@@ -13355,7 +13344,7 @@ This ebook was transcribed by a native of the state of Ohio.
 </p>
 
 <p>
-This book transcription is dedicated to my stepdad,
+This book transcription is dedicated to
 Thaddeus "Ted" Slade, also a native Ohioan and the biggest
 Civil War history buff I know.
 </p>
