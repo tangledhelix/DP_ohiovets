@@ -8,6 +8,7 @@ ZIPDIR=zipdir
 ZIPTARG=$(ZIPDIR)/$(PROJECT)
 BOOKSDIR=ebooks
 ILLODIR=illustrations
+UTILDIR=$(HOME)/dp/util
 
 TXT=$(PROJECT)-utf8.txt
 HTML=$(PROJECT).html
@@ -38,7 +39,8 @@ zipclean:
 	rm -rf $(ZIPDIR)
 
 pyvenv:
-	python3 -m venv venv \
+	cd $(UTILDIR) \
+	&& python3 -m venv venv \
 	&& . venv/bin/activate \
 	&& pip install -r requirements.txt
 
@@ -46,16 +48,17 @@ ebooksdir:
 	mkdir -p $(BOOKSDIR)
 
 ebooks: ebooksdir pyvenv
-	. venv/bin/activate \
-	&& venv/bin/ebookmaker \
+	. $(UTILDIR)/venv/bin/activate \
+	&& $(UTILDIR)/venv/bin/ebookmaker \
 		--make=epub --max-depth=3 \
 		--output-dir="$(BOOKSDIR)" \
 		--title="$(TITLE)" \
 		--author="$(AUTHOR)" \
 		--input-mediatype="text/plain;charset=utf8" \
-		--ebook="10001" ./$(PROJECT).html
+		--ebook="10001" ./$(PROJECT).html \
+	&& cd $(BOOKSDIR) \
 	&& /Applications/Kindle\ Previewer\ 3.app/Contents/lib/fc/bin/kindlegen \
-			./$(PROJECT).html -o $(BOOKSDIR)/$(PROJECT).mobi
+		../$(PROJECT).html -o $(PROJECT).mobi
 
 ebookzip:
 	zip $(PROJECT).zip $(PROJECT).html images/*.{png,jpg}
