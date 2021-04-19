@@ -305,8 +305,8 @@ $::operationshash{'HTML Tidy'}='2021-04-12 23:03';
 $::operationshash{'Jeebies'}='2021-01-07 05:13';
 $::operationshash{'View project comments locally'}='2021-01-02 05:27';
 
-$::bookmarks[0] = '7988.12';
-$::bookmarks[1] = '181.0';
+$::bookmarks[0] = '1.0';
+$::bookmarks[1] = '13236.44';
 $::bookmarks[2] = '703.0';
 
 $::pngspath = '/Users/dan/dp/pp/ohiovets/pngs/';

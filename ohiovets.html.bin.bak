@@ -283,30 +283,30 @@
  'Pg282' => {'offset' => '13289.99', 'label' => 'Pg 284', 'style' => '"', 'action' => '+1', 'base' => ''},
 );
 
-$::operationshash{'Check Character Cnts'}='2021-01-16 07:17';
-$::operationshash{'WF Check Ital/Bold/SC'}='2021-01-16 07:10';
-$::operationshash{'HTML Tidy'}='2021-04-12 23:03';
-$::operationshash{'Check Accents'}='2021-01-16 07:34';
-$::operationshash{'Check MiXeD CasE'}='2021-01-16 07:13';
-$::operationshash{'Begin HTML Markup'}='2021-04-12 22:35';
-$::operationshash{'Open /dp/pp/ohiovets/ohiovets-utf8.txt'}='2021-01-22 15:16';
-$::operationshash{'Open /dp/pp/ohiovets/ohiovets.html'}='2021-01-24 17:12';
-$::operationshash{'Bookloupe'}='2021-01-18 05:40';
-$::operationshash{'View project comments locally'}='2021-01-02 05:27';
-$::operationshash{'Check , Upper'}='2021-01-16 07:19';
-$::operationshash{'Check emdashes'}='2021-01-16 06:59';
 $::operationshash{'Check . lower'}='2021-01-16 07:31';
-$::operationshash{'Spellcheck'}='2021-01-17 16:21';
-$::operationshash{'Begin HTML Generation'}='2021-04-04 21:32';
-$::operationshash{'Check hyphens'}='2021-01-16 07:07';
-$::operationshash{'Open /Users/dan/dp/pp/ohiovets/ohiovets.html'}='2021-04-16 23:22';
-$::operationshash{'Stealth Scannos'}='2021-01-17 04:20';
+$::operationshash{'Check , Upper'}='2021-01-16 07:19';
+$::operationshash{'Open /dp/pp/ohiovets/ohiovets-utf8.txt'}='2021-01-22 15:16';
 $::operationshash{'Word Frequency'}='2021-01-17 16:21';
+$::operationshash{'Check MiXeD CasE'}='2021-01-16 07:13';
+$::operationshash{'Check hyphens'}='2021-01-16 07:07';
+$::operationshash{'WF Check Ital/Bold/SC'}='2021-01-16 07:10';
+$::operationshash{'Check emdashes'}='2021-01-16 06:59';
+$::operationshash{'Spellcheck'}='2021-01-17 16:21';
+$::operationshash{'Open /Users/dan/dp/pp/ohiovets/ohiovets.html'}='2021-04-18 16:32';
+$::operationshash{'Check Accents'}='2021-01-16 07:34';
+$::operationshash{'Begin HTML Generation'}='2021-04-04 21:32';
 $::operationshash{'Link Check'}='2021-04-12 23:02';
+$::operationshash{'Check Character Cnts'}='2021-01-16 07:17';
+$::operationshash{'Stealth Scannos'}='2021-01-17 04:20';
+$::operationshash{'Bookloupe'}='2021-01-18 05:40';
+$::operationshash{'Begin HTML Markup'}='2021-04-12 22:35';
+$::operationshash{'Open /dp/pp/ohiovets/ohiovets.html'}='2021-01-24 17:12';
+$::operationshash{'HTML Tidy'}='2021-04-12 23:03';
 $::operationshash{'Jeebies'}='2021-01-07 05:13';
+$::operationshash{'View project comments locally'}='2021-01-02 05:27';
 
-$::bookmarks[0] = '1662.46';
-$::bookmarks[1] = '181.0';
+$::bookmarks[0] = '7987.52';
+$::bookmarks[1] = '13236.44';
 $::bookmarks[2] = '703.0';
 
 $::pngspath = '/Users/dan/dp/pp/ohiovets/pngs/';
