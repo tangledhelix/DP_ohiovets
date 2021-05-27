@@ -39,26 +39,15 @@ zipclean:
 	rm -rf $(ZIPDIR)
 
 pyvenv:
-	cd $(UTILDIR) \
-	&& python3 -m venv venv \
-	&& . venv/bin/activate \
-	&& pip install -r requirements.txt
+	cd $(UTILDIR) && python3 -m venv venv && . venv/bin/activate && pip install -r requirements.txt
 
 ebooksdir:
 	mkdir -p $(BOOKSDIR)
 
 ebooks: ebooksdir pyvenv
-	. $(UTILDIR)/venv/bin/activate \
-	&& $(UTILDIR)/venv/bin/ebookmaker \
-		--make=epub --max-depth=3 \
-		--output-dir="$(BOOKSDIR)" \
-		--title="$(TITLE)" \
-		--author="$(AUTHOR)" \
-		--input-mediatype="text/plain;charset=utf8" \
-		--ebook="10001" ./$(PROJECT).html \
-	&& cd $(BOOKSDIR) \
-	&& /Applications/Kindle\ Previewer\ 3.app/Contents/lib/fc/bin/kindlegen \
-		../$(PROJECT).html -o $(PROJECT).mobi
+	. $(UTILDIR)/venv/bin/activate && $(UTILDIR)/venv/bin/ebookmaker --make=epub --max-depth=3 --output-dir="$(BOOKSDIR)" --title="$(TITLE)" --author="$(AUTHOR)" --input-mediatype="text/plain;charset=utf8" --ebook="10001" ./$(PROJECT).html
+	/Applications/Kindle\ Previewer\ 3.app/Contents/lib/fc/bin/kindlegen $(PROJECT).html -o $(PROJECT).mobi
+	mv $(PROJECT).mobi $(BOOKSDIR)
 
 ebookzip:
 	zip $(PROJECT).zip $(PROJECT).html images/*.{png,jpg}
