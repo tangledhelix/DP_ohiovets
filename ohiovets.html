@@ -195,7 +195,8 @@ td.toc {width: 100%;}
     font-weight: normal;
     font-variant: normal;
 } /* page numbers */
-.x-ebookmaker .pagenum { visibility: hidden; }
+@media print { .pagenum { visibility: hidden; display: none; } }
+.x-ebookmaker .pagenum { visibility: hidden; display: none;}
 
 .linenum {
     position: absolute;
