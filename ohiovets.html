@@ -15,7 +15,7 @@ body {
     margin-right: 10%;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1,h2 {
     text-align: center; /* all headings centered */
     clear: both;
 }
@@ -26,11 +26,7 @@ p {
     margin-bottom: .49em;
 }
 
-.bigindent6 { text-indent: 6em; }
 .bigindent4 { text-indent: 4em; }
-.p2       {margin-top: 2em;}
-.p4       {margin-top: 4em;}
-.p6       {margin-top: 6em;}
 
 hr {
     width: 33%;
@@ -45,42 +41,27 @@ hr.tb   {width: 45%; margin-left: 27.5%; margin-right: 27.5%;}
 hr.chap {width: 65%; margin-left: 17.5%; margin-right: 17.5%;}
 @media print { hr.chap {display: none; visibility: hidden;} }
 .x-ebookmaker hr.chap {display: none; visibility: hidden;}
-hr.full {width: 95%; margin-left: 2.5%; margin-right: 2.5%;}
-
-hr.r5  {width: 5%; margin-top: 1em; margin-bottom: 1em; margin-left: 47.5%; margin-right: 47.5%;}
-hr.r65 {width: 65%; margin-top: 3em; margin-bottom: 3em; margin-left: 17.5%; margin-right: 17.5%;}
-
 div.chapter {page-break-before: always;}
 h2.nobreak  {page-break-before: avoid;}
 
 .pagebreak {page-break-before: always;}
-
-ul.index { list-style-type: none; }
-li.ifrst { margin-top: 1em; }
-li.indx { margin-top: .5em; }
-li.isub1 {text-indent: 1em;}
-li.isub2 {text-indent: 2em;}
-li.isub3 {text-indent: 3em;}
 
 table {
     margin-left: auto;
     margin-right: auto;
 }
 table.autotable    { border-collapse: collapse; }
-table.autotable td,
-table.autotable th { padding: 4px; }
+table.autotable td { padding: 4px; }
 
 table.extrapadtable { border-collapse: collapse; }
-table.extrapadtable td,
-table.extrapadtable th {padding: 4px .75em; }
+table.extrapadtable td {padding: 4px .75em; }
 
 table.sigtable {
   margin-right: 1em;
   margin-left: auto;
   border-collapse: collapse;
 }
-table.sigtable td,
-table.sigtable th { padding: 0 4px; }
+table.sigtable td { padding: 0 4px; }
 
 table.sigtable2 {
   margin-right: 1em;
@@ -183,8 +164,6 @@ p.hanging-indent {
   border-top-style: solid;
 }
 
-td.toc {width: 100%;}
-
 .pagenum { /* uncomment the next line for invisible page numbers */
     /*  visibility: hidden;  */
     position: absolute;
@@ -198,45 +177,10 @@ td.toc {width: 100%;}
 @media print { .pagenum { visibility: hidden; display: none; } }
 .x-ebookmaker .pagenum { visibility: hidden; display: none;}
 
-.linenum {
-    position: absolute;
-    top: auto;
-    left: 4%;
-    font-style: normal;
-    font-weight: normal;
-    font-variant: normal;
-} /* poetry number */
-
 .blockquot {
     margin-left: 5%;
     margin-right: 10%;
 }
-
-.sidenote {
-    width: 20%;
-    padding-bottom: .5em;
-    padding-top: .5em;
-    padding-left: .5em;
-    padding-right: .5em;
-    margin-left: 1em;
-    float: right;
-    clear: right;
-    margin-top: 1em;
-    font-size: smaller;
-    color: black;
-    background: #eeeeee;
-    border: 1px dashed;
-}
-
-.bb       {border-bottom: 2px solid;}
-
-.bl       {border-left: 2px solid;}
-
-.bt       {border-top: 2px solid;}
-
-.br       {border-right: 2px solid;}
-
-.bbox     {border: 2px solid;}
 
 .center   {text-align: center;}
 
@@ -246,19 +190,6 @@ td.toc {width: 100%;}
 
 .allsmcap {font-variant: small-caps; text-transform: lowercase;}
 
-.u        {text-decoration: underline;}
-
-.gesperrt
-{
-    letter-spacing: 0.2em;
-    margin-right: -0.2em;
-}
-
-em.gesperrt
-{
-    font-style: normal;
-}
-
 .caption  {font-weight: bold;}
 
 /* Images */
@@ -267,59 +198,12 @@ img {
     max-width: 100%;
     height: auto;
 }
-img.w100 {width: 100%;}
 
 .figcenter {
     margin: auto;
     text-align: center;
     page-break-inside: avoid;
     max-width: 100%;
-}
-
-.figleft {
-    float: left;
-    clear: left;
-    margin-left: 0;
-    margin-bottom: 1em;
-    margin-top: 1em;
-    margin-right: 1em;
-    padding: 0;
-    text-align: center;
-    page-break-inside: avoid;
-    max-width: 100%;
-}
-/* comment out next line and uncomment the following one for floating figleft on ebookmaker output */
-.x-ebookmaker .figleft {float: none; text-align: center; margin-right: 0;}
-/* .x-ebookmaker .figleft {float: left;} */
-
-.figright {
-    float: right;
-    clear: right;
-    margin-left: 1em;
-    margin-bottom: 1em;
-    margin-top: 1em;
-    margin-right: 0;
-    padding: 0;
-    text-align: center;
-    page-break-inside: avoid;
-    max-width: 100%;
-}
-/* comment out next line and uncomment the following one for floating figright on ebookmaker output */
-.x-ebookmaker .figright {float: none; text-align: center; margin-left: 0;}
-/* .x-ebookmaker .figright {float: right;} */
-
-/* Footnotes */
-.footnotes        {border: 1px dashed;}
-
-.footnote         {margin-left: 10%; margin-right: 10%; font-size: 0.9em;}
-
-.footnote .label  {position: absolute; right: 84%; text-align: right;}
-
-.fnanchor {
-    vertical-align: super;
-    font-size: .8em;
-    text-decoration:
-    none;
 }
 
 /* Poetry */
@@ -332,7 +216,6 @@ img.w100 {width: 100%;}
 .poetry .indent25   {text-indent: -2.5em; padding-left: 3em;}
 .poetry .indent2    {text-indent: -2em; padding-left: 3em;}
 .poetry .indent1    {text-indent: -1em; padding-left: 3em;}
-.poetry .indent0    {text-indent: -0em; padding-left: 3em;}
 /* large inline blocks don't split well on paged devices */
 @media print { .poetry {display: block;} }
 .x-ebookmaker .poetry {display: block;}
@@ -345,7 +228,7 @@ img.w100 {width: 100%;}
      margin-bottom:5em;
      font-family:sans-serif, serif; }
 
-.subhead {
+.subhead, .prechaphead {
   text-align: center;
   font-size: 1.2em;
 }
