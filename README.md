@@ -31,7 +31,7 @@ A note from the PM on the rosters toward the end of the book (162 and later). Ra
 
 ### Things to revisit ###
 
-- [ ] Add the disclaimer bit about having fabricated a custom cover
+- [x] Add the disclaimer bit about having fabricated a custom cover
 
 ### Proofer's notes ###
 
