@@ -16,7 +16,9 @@ HTML=$(PROJECT).html
 default:
 	@echo "make ebooks:    build epub and kindle files"
 	@echo "make sr:        create zip file to submit to SR"
+	@echo "make zip:       create zip file for pphtml"
 	@echo "make ppv:       create zip file to submit to PPV"
+	@echo "make ebooks:    create epub files"
 	@echo "make ebookzip:  create zip file to upload to ebookmaker"
 	@echo "make clean:     remove Gimp/Pixelmator files, ebooks, zip archive"
 
@@ -31,6 +33,14 @@ ppv: zipclean zipdir
 	cp -r $(IMG)/ $(ZIPTARG)/$(IMG)/
 	rm -f $(ZIPTARG)/$(IMG)/.DS_Store
 	cd $(ZIPDIR) && zip -r $(PROJECT).zip $(PROJECT)
+
+zip: zipclean zipdir
+	cp $(HTML) $(ZIPTARG)
+	mkdir -p $(ZIPTARG)/$(IMG)/
+	cp -r $(IMG)/ $(ZIPTARG)/$(IMG)/
+	rm -f $(ZIPTARG)/$(IMG)/.DS_Store
+	rm -rf $(ZIPTARG)/$(IMG)/*.pxd
+	cd $(ZIPTARG) && zip -r ../$(PROJECT).zip .
 
 zipdir:
 	mkdir -p $(ZIPTARG)

@@ -1,3 +1,7 @@
+﻿SMART QUOTE CHECKS (overlay format)
+suspect punctuation marked with '@' character
+-------------------------------------------------------------------
+
 
 Transcriber’s Note:
 
@@ -168,7 +172,7 @@ fame unknown.”
 
 Dr. SeCheverell has doubtless done his best under the circumstances
 to do justice to the name of every member of the old Twenty-ninth. It
-was known as the Giddings’ regiment, in honor of the Hon. Joshua R.
+was known as the Giddings[@UCSQ]’ regiment, in honor of the Hon. Joshua R.
 Giddings, for twenty consecutive years a member of the lower house of
 Congress.
 
@@ -179,7 +183,7 @@ was fitting that it should bear his name. But I remember that when
 recruiting it a frequent objection to enlistment was that should any
 member of the regiment be so unfortunate as to be taken prisoner by
 the “Rebs,” he would be forthwith shot, hung, or burnt at the stake,
-particularly on Giddings’ account, and that the name would be so
+particularly on Giddings[@UCSQ]’ account, and that the name would be so
 odious in the South, and would so advertise the regiment that every
 member would be especially hunted down and exterminated.
 
@@ -544,7 +548,7 @@ for the faithful discharge of duty, by annexing, unconstitutionally,
 slave territory, and extending and strengthening the encroachments of
 slavery. To these violent encroachments upon the constitutional rights
 of the free States, this Western Reserve has from the first, presented
-a very general resistance....
+a very general resistance....[@NESK “]
 
 “The ladies have prepared a splendid National and regimental stand of
 colors, and have imposed on me the pleasing duty of presenting them
@@ -560,7 +564,7 @@ vaulted heavens, while in mid ether the bird of Jove is floating, a
 fitting representation of the ease and power with which liberty and
 civilization are gliding over the earth; while the stars and stripes
 of red and white represent the vital principles and purity of our
-institutions.
+institutions.[@NESK “]
 
 [Addressing Colonel Buckley]: “To you, sir, as commander, I present
 these beautiful standards, for the use and benefit of the regiment.
@@ -591,7 +595,7 @@ flag may it inspire us to redouble our energies to do our duty to our
 beloved country, and if God in his providence permits us to return to
 home and kindred, may this flag come back with us to bear witness that
 the Twenty-ninth regiment Ohio volunteers was in the thickest of the
-fight.
+fight.[@NESK “]
 
 “Sir, you have spoken in high commendation of my command. I can assure
 you I feel myself honored in having command of such a regiment. It
@@ -1688,8 +1692,8 @@ Nickerson, Benjamin Snyder, George Turney, Micajah Rice, Bennett
 Wadsworth, Edward White, Frank Waltz, Eli Waltz; Gurley G. Crane, drum
 major.
 
-November 25th, Colonel Clark says: “Patiently waiting in camp. ‘Dress
-parade’ to-day, the first many of us have seen since May last. Only
+November 25th, Colonel Clark says: “Patiently waiting in camp. 'Dress
+parade[@UCSQ]’ to-day, the first many of us have seen since May last. Only
 about two hundred men in line. Remembering how far our line reached at
 Camp Giddings, our force looks small indeed.”
 
@@ -1745,7 +1749,7 @@ position which sent a few shots after the retreating rebel cavalry. In
 the afternoon marched through the woods on right of road, in line of
 battle, while the division moved in the road; skirmishing the balance
 of the day. At dark we halted three miles from Dumfries and camped for
-the night. Twenty-ninth, reached Dumfries’ about 10 o’clock A. M., and
+the night. Twenty-ninth, reached Dumfries[@UCSQ]’ about 10 o’clock A. M., and
 went into camp on the side hill in the woods north of town.
 
 January 1, 1863, the regiment and its brigade remained at Dumfries,
@@ -2463,7 +2467,7 @@ an hourly expected attack. The situation remained the same until
 November 23d, when, toward night, the beat of the “long roll” called
 Geary’s division to arms. It at once moved promptly forward, formed
 line of battle, facing Lookout heights, and advanced to its base along
-the creek. Osterhaus’ division of the Fifteenth corps, and Whittaker’s
+the creek. Osterhaus[@UCSQ]’ division of the Fifteenth corps, and Whittaker’s
 brigade, of the Fourth corps, now advanced to the left of Geary’s
 division. The rebels soon discovered this movement and promptly moved
 a strong force down the mountain side within easy musket range, where
@@ -2505,8 +2509,8 @@ if it were an event of some importance.
 “The morning of November 25th revealed the white star standard of Geary
 and the glorious old stars and stripes to the army below, floating
 triumphantly side by side on Lookout’s rocky crest. Prolonged huzzas
-greeted the victors from below, and to confirm that ‘to the victors
-belong the spoils,’ a detachment from two regiments of Geary’s command
+greeted the victors from below, and to confirm that 'to the victors
+belong the spoils,[@UCSQ]’ a detachment from two regiments of Geary’s command
 take charge of the prisoners, seven stand of colors, and a great number
 of cannon captured.”
 
@@ -3475,14 +3479,14 @@ accompanied by the officers whose names are offered in attest, he
 returned to the court-house, and the following document was drawn up:
 
   “ATLANTA, GEORGIA, }
-  September 2, 1864. }
+  September 2, 1864. }[@NESK “]
 
   “Brigadier-general Ward, Commanding Third Division
-  Twentieth Corps.
+  Twentieth Corps.[@NESK “]
 
  “SIR:--The fortunes of war have placed the city of Atlanta in your
  hands, and as mayor of the city I ask protection to non-combatants and
- private property.
+ private property.[@NESK “]
 
   “JAMES M. CALHOUN,
   Mayor of Atlanta.”
@@ -3504,7 +3508,7 @@ tobacco were discovered. Between one and two hundred stragglers, the
 majority of them very drunk, were fished from their hiding places and
 placed under guard at the court-house.
 
- GENERAL THOMAS’ CONGRATULATORY ORDER.
+ GENERAL THOMAS[@UCSQ]’ CONGRATULATORY ORDER.
 
   ARMY HEADQUARTERS, July 26, 1864.
 
@@ -3529,10 +3533,10 @@ placed under guard at the court-house.
  before they fell back, and which will swell the rebel loss in killed
  to at least 3,000. The latest reports state that we buried over 3,200
  rebels killed in this fight. There were captured from the enemy in
- this battle 18 stands of colors and 5,000 stands of arms.
+ this battle 18 stands of colors and 5,000 stands of arms.[@NESK “]
 
   “By command of
-  MAJOR-GENERAL GEORGE H. THOMAS.
+  MAJOR-GENERAL GEORGE H. THOMAS.[@NESK “]
 
   “W. D. WHIPPLE,
   Assistant Adjutant-general.”
@@ -3541,7 +3545,7 @@ placed under guard at the court-house.
 
   “HEADQUARTERS MILITARY DIVISION, OF THE }
   MISSISSIPPI IN THE FIELD,               }
-  ATLANTA, GEORGIA, SEPT. 8, 1864.        }
+  ATLANTA, GEORGIA, SEPT. 8, 1864.        }[@NESK “]
 
  “The officers and soldiers of the armies of the Cumberland, Ohio, and
  Tennessee have already received the thanks of the Nation through its
@@ -3590,7 +3594,7 @@ placed under guard at the court-house.
  deemed secure on account of their distance from our base and the
  seeming impregnable obstacles intervening. Nothing is impossible to an
  army like this, determined to vindicate a government wherever our flag
- has once floated, and resolved to maintain them at any and all cost.
+ has once floated, and resolved to maintain them at any and all cost.[@NESK “]
 
  “In our campaign many, yea very many of our noble and gallant comrades
  have preceded us to our common destination, the grave; but they have
@@ -3598,7 +3602,7 @@ placed under guard at the court-house.
  McPherson, Harker, McCook, and others dear to us all, are now the
  binding links in our minds that should attach more closely together
  the living, who have to complete the task which still lies before us
- in the dim future.
+ in the dim future.[@NESK “]
 
  “I ask all to continue as they have so well begun, the cultivation
  of the soldierly virtues that have ennobled our own and other
@@ -3607,7 +3611,7 @@ placed under guard at the court-house.
  feeling among each other; each trying to excel the other in the
  practice of those high qualities, and it will then require no prophet
  to foretell that our country will, in time, emerge from this war
- purified by the fires of war and worthy its great founder, Washington.
+ purified by the fires of war and worthy its great founder, Washington.[@NESK “]
 
   “W. T. SHERMAN,
   Major-general commanding.”
@@ -3868,7 +3872,7 @@ CAPTAIN SCHOONOVER’S REPORT.
 “LIEUTENANT:--In compliance with circular from headquarters First
 brigade, Second division, Twentieth corps, dated Savannah, Georgia,
 December 23, 1864, I have the honor most respectfully to make the
-following report:
+following report:[@NESK “]
 
 “I took command of the regiment in front of Savannah, Georgia, on
 December 20, 1864. Nothing worthy of note transpired during the day.
@@ -3879,7 +3883,7 @@ Twenty-eighth Pennsylvania volunteers, for duty, and performed garrison
 duty until December 24th, when the regiment was ordered to march at
 9:30 A. M. The Twenty-ninth in rear of Twenty-eighth Pennsylvania
 volunteers, marched to the city, and through it to the west side, where
-we are now encamped.
+we are now encamped.[@NESK “]
 
   “I am very respectfully, your obedient servant,
   JONAS SCHOONOVER,
@@ -3888,9 +3892,9 @@ we are now encamped.
 
   “HEADQUARTERS FIRST BRIGADE,           }
   SECOND DIVISION, TWENTIETH ARMY CORPS. }
-  SAVANNAH, GEORGIA, DECEMBER 25, 1864.  }
+  SAVANNAH, GEORGIA, DECEMBER 25, 1864.  }[@NESK “]
 
-  “Captain W. T. Forbes, assistant adjutant general:
+  “Captain W. T. Forbes, assistant adjutant general:[@NESK “]
 
  “In compliance with circular order No. 144, I have the honor to submit
  the following report of the operations of this brigade, from the
@@ -3911,7 +3915,7 @@ we are now encamped.
  volunteers, and those on Fort No. 3 under command of Captain E. B.
  Woodbury, Twenty-ninth Ohio volunteers. Both these officers and the
  men under their command are deserving of praise for the energy and
- perseverance manifested in the prosecution of the duty assigned them.
+ perseverance manifested in the prosecution of the duty assigned them.[@NESK “]
 
  “December 21st, the enemy having evacuated their position the
  night previous, their works were occupied at an early hour by the
@@ -3922,7 +3926,7 @@ we are now encamped.
  were, by order of the commanding-general of division, through Captain
  Veale, aide-de-camp, dispatched to occupy Fort Jackson and the smaller
  forts and batteries near it. The possession of the forts and other
- works was gained with but slight resistance.
+ works was gained with but slight resistance.[@NESK “]
 
  “Inventory of ordnance and ordnance stores captured by the
  Twenty-ninth Ohio volunteers and the Twenty-eighth Pennsylvania
@@ -3933,7 +3937,7 @@ we are now encamped.
  three-inch rifled field-pieces, etc., etc. Of the ninety-one guns
  captured, fourteen only were found to have been spiked and shotted.
  The gun-carriages were broken and temporarily disabled, and all the
- implements were broken and destroyed.
+ implements were broken and destroyed.[@NESK “]
 
  “To the regimental commanders I tender my thanks for the strict
  obedience to orders, and the enforcement of the regulation prescribed
@@ -3942,11 +3946,11 @@ we are now encamped.
  wounded while supervising the working parties on the forts, for the
  promptitude exhibited by him in the execution of all orders, and his
  strict attention to the duties incumbent on him throughout the entire
- campaign.
+ campaign.[@NESK “]
 
   “Respectfully submitted,
-  “ARIO PARDEE,
-  Commanding Brigade.”
+  [@CODQ]“ARIO PARDEE,
+  Commanding Brigade.”[@NESK “]
 
 
 EXTRACT--OFFICIAL REPORT OF GENERAL GEARY.
@@ -3961,7 +3965,7 @@ EXTRACT--OFFICIAL REPORT OF GENERAL GEARY.
  occurred, among them Major Wright, a most valuable officer, commanding
  the Twenty-ninth Ohio volunteers, who was severely wounded by a shell.
  Sloan’s battery of three-inch rifled guns had already taken position
- in a work thrown up to the right of Fort 3, and in the open field.
+ in a work thrown up to the right of Fort 3, and in the open field.[@NESK “]
 
  “December 20th. The usual artillery firing and sharp shooting to-day.
  By this evening we had constructed and in readiness for use in the
@@ -3983,7 +3987,7 @@ EXTRACT--OFFICIAL REPORT OF GENERAL GEARY.
  direction, I notified my officer of the day and brigade commanders
  to keep a vigilant watch upon the enemy, as they were probably
  evacuating. The details on Forts 2 and 3 continued working through the
- night, the enemy shelling them heavily.
+ night, the enemy shelling them heavily.[@NESK “]
 
  “December 21st. After 3 o’clock this morning the firing ceased, and my
  pickets advancing to the enemy’s line, found them hastily retreating.
@@ -4019,7 +4023,7 @@ EXTRACT--OFFICIAL REPORT OF GENERAL GEARY.
  otherwise destroyed, were saved to the United States Government, and
  the citizens once more enjoyed security under the protection of that
  flag which again waved over them, exactly four years since the passage
- by the State of South Carolina of the Secession Act.
+ by the State of South Carolina of the Secession Act.[@NESK “]
 
  “Two regiments from Pardee’s brigade, the Twenty-eighth Pennsylvania
  and Twenty-ninth Ohio veteran volunteers, were sent down to Fort
@@ -4028,14 +4032,14 @@ EXTRACT--OFFICIAL REPORT OF GENERAL GEARY.
  which lay in the river below the city, threw shells at these two
  regiments as they flung the stars and stripes to the breeze from the
  walls of Fort Jackson. All the other gun-boats of the enemy had been
- fired by them and burned to the water’s edge.
+ fired by them and burned to the water’s edge.[@NESK “]
 
  “On the arrival of the major-general commanding the left wing, I was,
  by his order, placed in command of the city. Until nearly 10 A. M.
  continued firing was heard in the direction of Beaulieu, and supposing
  that a portion of the enemy might still be south of us, I kept one
  brigade under arms during the forenoon. Three rebel flags were
- captured by my command, which will be duly forwarded.
+ captured by my command, which will be duly forwarded.[@NESK “]
 
   “I am, Colonel, very-respectfully
   Your obedient servant,
@@ -4409,7 +4413,7 @@ the future to find only the roll--no one to call it, and none to answer
 to their names if called.
 
   Absent “comrades, gone before us
-  In the ‘great review’ to pass--
+  In the 'great review[@UCSQ]’ to pass--
   Never more to earthly chieftain
   Dipping colors as ye pass--
   Heaven accord ye gentle judgment
@@ -4741,7 +4745,7 @@ Luther H. Canfield, mustered into service August 14, 1861.
 
 Henry H. Ray, mustered into service October 15, 1861.
 
-The following names appear upon the original roster but do not again
+The following[@UCSQ]’ names appear upon the original roster but do not again
 occur: Rufus Daniels, Edward B. Fitts, Charles N. Bancroft, E. P. Hall,
 S. H. Kent, and E. B. Woodbury.
 
@@ -10371,8 +10375,9 @@ TRANSCRIBER’S NOTES
 
 This ebook was transcribed by a native of the state of Ohio.
 
-This book transcription is dedicated to Thaddeus “Ted” Slade, also a
-native Ohioan and the biggest Civil War history buff I know.
+This book transcription is dedicated to
+Thaddeus “Ted” Slade, also a native Ohioan and the biggest
+Civil War history buff I know.
 
 Some punctuation has been standardized. Some alternate spellings
 may have been retained. Some obvious misspellings and typographical
@@ -10381,7 +10386,8 @@ errors/omissions have been corrected. Any other changes are noted below.
 Some inconsistencies in human or place names were corrected by
 correlating with names elsewhere in the text.
 
-The errata from the original book was applied to this text.
+The errata from the original book, beginning on p. 283, was applied to
+this text.
 
 p. 60: Inserted a probable missing beginning of paragraph. (“[It] is
 perhaps unnecessary”)
