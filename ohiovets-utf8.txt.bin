@@ -283,26 +283,26 @@
  'Pg282' => {'offset' => '10335.67', 'label' => 'Pg 284', 'style' => '"', 'action' => '+1', 'base' => ''},
 );
 
+$::operationshash{'Word Frequency'}='2021-01-17 16:21';
+$::operationshash{'Remove end-of-line spaces'}='2021-01-24 05:42';
+$::operationshash{'Open /dp/pp/ohiovets/ohiovets-utf8.txt'}='2021-01-24 05:52';
+$::operationshash{'Check Accents'}='2021-01-16 07:34';
+$::operationshash{'Check , Upper'}='2021-01-16 07:19';
+$::operationshash{'Check emdashes'}='2021-01-16 06:59';
 $::operationshash{'Spellcheck'}='2021-01-17 16:21';
 $::operationshash{'Check Character Cnts'}='2021-01-16 07:17';
-$::operationshash{'Stealth Scannos'}='2021-01-17 04:20';
-$::operationshash{'Check MiXeD CasE'}='2021-01-16 07:13';
-$::operationshash{'Open /dp/pp/ohiovets/ohiovets-utf8.txt'}='2021-01-24 05:52';
-$::operationshash{'Check hyphens'}='2021-01-16 07:07';
-$::operationshash{'WF Check Ital/Bold/SC'}='2021-01-16 07:10';
-$::operationshash{'Open /Users/dan/dp/pp/ohiovets/ohiovets-utf8.txt'}='2021-05-28 09:31';
-$::operationshash{'Begin HTML Markup'}='2021-01-07 05:09';
-$::operationshash{'Check emdashes'}='2021-01-16 06:59';
-$::operationshash{'Word Frequency'}='2021-01-17 16:21';
 $::operationshash{'Jeebies'}='2021-01-07 05:13';
-$::operationshash{'Remove end-of-line spaces'}='2021-01-24 05:42';
+$::operationshash{'Begin HTML Markup'}='2021-01-07 05:09';
 $::operationshash{'Bookloupe'}='2021-01-24 01:51';
-$::operationshash{'Check , Upper'}='2021-01-16 07:19';
-$::operationshash{'View project comments locally'}='2021-01-02 05:27';
 $::operationshash{'Check . lower'}='2021-01-16 07:31';
-$::operationshash{'Check Accents'}='2021-01-16 07:34';
+$::operationshash{'WF Check Ital/Bold/SC'}='2021-01-16 07:10';
+$::operationshash{'Check MiXeD CasE'}='2021-01-16 07:13';
+$::operationshash{'View project comments locally'}='2021-01-02 05:27';
+$::operationshash{'Check hyphens'}='2021-01-16 07:07';
+$::operationshash{'Stealth Scannos'}='2021-01-17 04:20';
+$::operationshash{'Open /Users/dan/dp/pp/ohiovets/ohiovets-utf8.txt'}='2021-05-28 09:31';
 
-$::bookmarks[0] = '10399.0';
+$::bookmarks[0] = '1.0';
 $::bookmarks[1] = '9118.0';
 
 $::pngspath = '/Users/dan/dp/pp/ohiovets/pngs/';
@@ -314,5 +314,7 @@ $::projectid = 'projectID5cb10c7f3dd7c';
 $::booklang = 'en';
 
 $scannoslistpath = 'wordlist';
+
+$::charsuiteenabled{'Basic Latin'} = 1;
 
 1;
