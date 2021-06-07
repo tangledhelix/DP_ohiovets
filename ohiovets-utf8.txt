@@ -1562,7 +1562,7 @@ The Union army remained on the field three days, retiring, on August
 12th, to Culpeper Court House, where it encamped. Our pickets,
 going over the battle field on the 13th, reported that dead horses
 were piled in promiscuous positions; dismounted cannons, wrecked
-caissons, and broken fire-arms were everywhere, while the graves of
+caissons, and broken firearms were everywhere, while the graves of
 the fallen, singly and in trenches, were scattered over the entire
 field, only the freshly heaped up earth marking the spots. In one spot
 were the unburied bodies of a boy in blue and one in gray, their arms
@@ -4289,7 +4289,7 @@ borne by this gallant regiment in so many bloody battles.
  Ohio veteran volunteer infantry, I herewith acknowledge the receipt
  of the beautiful flag presented the regiment, and in return I present
  to you the old one, which it has been our proud honor to carry
- victoriously over many hard-fought battle-fields. That dear “old flag”
+ victoriously over many hard-fought battlefields. That dear “old flag”
  which has been our companion through years of fearful war and carnage,
  and which symbolizes our glorious nationality, tells its own story.
  We return it to you, but not so beautiful in form and color as when
@@ -10401,10 +10401,8 @@ that they would move from 8:00am back to 6:30am in the journal. The
 printer presumably set 6 in place of 9, or inverted the 9.
 
 p. 232: Corrected the discharge date for John H. Finneman (confirmed
-using records found on civilwarindex.com). As-printed, the date was
-June 18, 1865. Source:
-https://civilwarindex.com/armyoh/rosters/29th_oh_infantry_roster.pdf
-(Collected on January 23, 2021.)
+using records found on civilwarindex.com on January 23, 2021). As
+printed, the date was June 18, 1865.
 
 p. 241: Corrected Lysander T. King’s company from “T” to “F” per the
 company F listing on p. 206.
