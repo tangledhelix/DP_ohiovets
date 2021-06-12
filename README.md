@@ -9,6 +9,7 @@ This is a [Distributed Proofreaders](http://www.pgdp.net/) post-processing proje
 - [Trello board](https://trello.com/b/OE836E7M/dp-journal-history-of-the-twenty-ninth-ohio-veteran-volunteers-1861-1865)
 - [Good words](good_words.txt)
 - [Bad words](bad_words.txt)
+- [Gutenberg page](https://www.gutenberg.org/ebooks/65589)
 
 Page references (e.g. `001`) refer to the scan numbers, not the original book's page numbers.
 
