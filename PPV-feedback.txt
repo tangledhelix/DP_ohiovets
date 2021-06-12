@@ -1,0 +1,57 @@
+
+    Thank you for your Post-Processing work on "Journal History of the Twenty-ninth Ohio Veteran Volunteers, 1861-1865".
+    A copy of the PPV Summary is below. If you have any questions about it, please contact your PPVer.
+
+
+PPV Summary for dlowe
+
+    Number of books post-processed by dlowe (including this one): 6
+
+
+Project Information
+
+    projectID: projectID5cb10c7f3dd7c
+    Title: Journal History of the Twenty-ninth Ohio Veteran Volunteers, 1861-1865
+    Author: SeCheverell, J. Hamp
+    Language: English
+    Proofreading Difficulty: average
+    Number of pages: 282
+    Post-processed by: dlowe
+    Verified by: ********
+    Verified on: 11th of June, 2021
+    Submitted by PP on: 30-May-2021
+
+General Post-Processing Information
+
+    PPing Difficulty: Average
+    Overall evaluation of PPer's work: Excellent
+
+PPing Complexity:
+
+    Text File Size: 398 KB
+    Some Poetry
+    Significant Amount of Blockquotes
+    Significant Amount of Tables
+    1 Illustrations (other than minor decorations or logos)
+
+Level 1 Errors:
+
+    All Versions:
+      1 A few occurrences of hyphenated/non-hyphenated, spelling and punctuation variants and other inconsistencies not addressed (may be addressed by note in the TN)
+
+    HTML Version Only:
+      None
+
+Level 2 Errors:
+
+    All Versions:
+      None
+
+    HTML Version Only:
+      None
+
+Strongly Recommended (These don't count as errors but should be corrected):
+    None
+
+Mildly Recommended (These don't count as errors):
+    None
