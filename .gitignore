@@ -6,3 +6,4 @@ guiguts.log
 *.zip
 /README.html
 /ebooks/
+/.vscode/
